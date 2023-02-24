@@ -40,9 +40,6 @@ jobs:
           git add -A
           git commit -m "update by github actions"
 
-      - name: clean(删除之前的静态资源)
-        run: rm -rf docs && mkdir docs
-
       - name: build(编译 html 静态资源)
         run: pnpm docs:build
 
