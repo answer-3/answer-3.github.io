@@ -1,0 +1,35 @@
+{
+  "name": "answer-3's github pages",
+  "version": "1.0.0",
+  "description": "个人主页",
+  "main": "index.js",
+  "scripts": {
+    "load": "node index.js",
+    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build -d docs src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/answer-3/answer-3.git"
+  },
+  "keywords": [
+    "bing",
+    "image",
+    "wallpaper",
+    "必应",
+    "图片",
+    "壁纸"
+  ],
+  "author": "answer-3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/answer-3/answer-3/issues"
+  },
+  "homepage": "https://github.com/answer-3/answer-3#readme",
+  "devDependencies": {
+    "vuepress": "2.0.0-beta.60",
+    "@vuepress/client": "2.0.0-beta.60",
+    "@vuepress/plugin-git": "2.0.0-beta.60",
+    "vue": "^3.2.47"
+  }
+}

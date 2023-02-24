@@ -1,0 +1,61 @@
+name: Update My Site
+on:
+  schedule:
+    - cron: '00 16 * * *'
+jobs:
+  auto-load-build-commit-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout(检出代码)
+        uses: actions/checkout@v3
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          # 选择要使用的 pnpm 版本
+          version: 7
+          # 使用 pnpm 安装依赖
+          run_install: true
+
+      - name: 设置 node 运行环境
+        uses: actions/setup-node@v3
+        with:
+          # 选择要使用的 node 版本
+          node-version: 18
+          # 缓存 pnpm 依赖
+          cache: pnpm
+
+      - name: 安装依赖包
+        run: pnpm install
+
+      - name: load(获取 bing 最新图片信息)
+        run: pnpm load
+
+      - name: commit(提交变更到 git 本地仓库)
+        run: |
+          git config --local user.email "answer-3@qq.com"
+          git config --local user.name "answer-3"
+          git pull
+          git add -A
+          git commit -m "update by github actions"
+
+      - name: clean(删除之前的静态资源)
+        run: rm -rf docs && mkdir docs
+
+      - name: build(编译 html 静态资源)
+        run: pnpm docs:build
+
+      - name: commit(提交变更到 git 本地仓库)
+        run: |
+          git config --local user.email "answer-3@qq.com"
+          git config --local user.name "answer-3"
+          git pull
+          git add -A
+          git commit -m "update by github actions"
+
+      - name: push(推送到 github 远程仓库)
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_TOKEN }}
+          branch: main
