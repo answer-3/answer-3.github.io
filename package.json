@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/answer-3/answer-3.git"
+    "url": "git+https://github.com/answer-3/answer-3.github.io.git"
   },
   "keywords": [
     "bing",
@@ -23,9 +23,9 @@
   "author": "answer-3",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/answer-3/answer-3/issues"
+    "url": "https://github.com/answer-3/answer-3.github.io/issues"
   },
-  "homepage": "https://github.com/answer-3/answer-3#readme",
+  "homepage": "https://github.com/answer-3/answer-3.github.io",
   "devDependencies": {
     "vuepress": "2.0.0-beta.60",
     "@vuepress/client": "2.0.0-beta.60",

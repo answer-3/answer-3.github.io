@@ -4,7 +4,7 @@ export default {
     title: '个人主页',
     base: '/',
     theme: defaultTheme({
-        repo: 'answer-3/answer-3',
+        repo: 'answer-3/answer-3.github.io.git',
         // 默认主题配置
         navbar: (() => {
             let nav = [{
