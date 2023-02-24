@@ -24,7 +24,7 @@ export default {
                 link: '/about.html',
             }];
             let today = new Date();
-            let minDay = new Date('2020/1/1');
+            let minDay = new Date('2019/12/1');
             let bingImageChildren = nav[2].children;
             let yearNav = {
                 text: today.getFullYear(),
@@ -39,7 +39,7 @@ export default {
                     }
                 }
                 yearNav.children.unshift({
-                    text: today.getFullYear() + '/' + (today.getMonth() + 1),
+                    text: today.getFullYear() + '/' + (today.getMonth() < 9 ? '0' : '') + (today.getMonth() + 1),
                     link: '/BingImage/' + today.getFullYear() + '/' + today.getFullYear() + (today.getMonth() < 9 ? '0' : '') + (today.getMonth() + 1) + '.html'
                 });
                 today.setMonth(today.getMonth() - 1);
