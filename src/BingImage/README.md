@@ -5,6 +5,23 @@ next:
 
 ---
 ## 必应今日图片(最近15天)
+### 02月25日：冬天的布莱斯峡谷石林
+#### 布莱斯峡谷国家公园的石林，犹他州，美国（© Piriya Photography/Getty Images）
+
+![冬天的布莱斯峡谷石林](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_800x480.jpg&rf=LaDigue_800x480.jpg "冬天的布莱斯峡谷石林")
+
+当太阳在布莱斯峡谷升起时，白雪皑皑的橙红色岩石闪闪发光。这些修长高耸的岩石被称为石林，而布莱斯峡谷国家公园正是因为拥有地球上密度最高的石林而闻名。这些石林的下层是松软的沉积岩，上面则覆盖着一层更为坚硬的石盖。犹他州冬天的冰霜会侵蚀石盖，最终暴露出底下更易被侵蚀的岩石。值得庆幸的是，这些石林现在还屹立不倒，让我们可以在公园成立100周年之时欣赏大自然的鬼斧神工。
+
+布莱斯峡谷并非由流过的溪流侵蚀而成，因此严格来说它并不是一个峡谷。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:"20230224_1600" "必应今日图片 2023 2月 25")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230225_BryceAnniv"&FORM=HPQUIZ "必应主页测验 2023 2月 25")
+[下载480](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_800x480.jpg&rf=LaDigue_800x480.jpg "布莱斯峡谷国家公园的石林，犹他州，美国")
+[下载720](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1280x720.jpg&rf=LaDigue_1280x720.jpg "布莱斯峡谷国家公园的石林，犹他州，美国")
+[下载1080](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "布莱斯峡谷国家公园的石林，犹他州，美国")
+[下载UHD](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg&rf=LaDigue_UHD.jpg "布莱斯峡谷国家公园的石林，犹他州，美国")
+
+---
 ### 02月24日：一只华丽招摇的鸳鸯
 #### 里士满公园的鸳鸯，伦敦，英国（© Oscar Dewhurst/Minden Pictures）
 
@@ -241,22 +258,5 @@ Itaimbezinho 峡谷是南里奥格兰德州最著名的峡谷。它是巴西自�
 [下载720](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1280x720.jpg&rf=LaDigue_1280x720.jpg "死亡谷扎布里斯基角上空的银河，美国加利福尼亚州")
 [下载1080](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "死亡谷扎布里斯基角上空的银河，美国加利福尼亚州")
 [下载UHD](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_UHD.jpg&rf=LaDigue_UHD.jpg "死亡谷扎布里斯基角上空的银河，美国加利福尼亚州")
-
----
-### 02月10日：声学杰作
-#### 埃庇道鲁斯剧场, 希腊阿尔戈利斯省（© George Pachantouris/Getty Images）
-
-![声学杰作](https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_800x480.jpg&rf=LaDigue_800x480.jpg "声学杰作")
-
-埃庇道鲁斯剧场隐藏在离雅典约100英里的埃庇道鲁斯山丘之中。它是一座保存完好的古希腊剧场，巨大的露天场地可以容纳超过14000名观众。这种希腊礼堂分三个部分，一是圆形主舞台，二是背景建筑，三是次第升高的观众席。埃庇道鲁斯剧场是一项工程壮举，它的建筑结构非常精妙，使剧场拥有完美的音响效果和良好的观赏效果。这座剧场原本是用于供奉古希腊医药之神阿斯克勒庇俄斯的。自1954年以来，该剧场上演了多位著名希腊演员和国际演员的戏剧和音乐表演。
-
-1881年，考古学会开始对埃庇道鲁斯剧场进行首次系统性的挖掘。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%b8%8c%e8%85%8a%e9%98%bf%e5%b0%94%e6%88%88%e5%88%a9%e6%96%af%e7%9c%81&form=hpcapt&filters=HpDate:"20230209_1600" "必应今日图片 2023 2月 10")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230210_EpidaurusGreece"&FORM=HPQUIZ "必应主页测验 2023 2月 10")
-[下载480](https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_800x480.jpg&rf=LaDigue_800x480.jpg "埃庇道鲁斯剧场, 希腊阿尔戈利斯省")
-[下载720](https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_1280x720.jpg&rf=LaDigue_1280x720.jpg "埃庇道鲁斯剧场, 希腊阿尔戈利斯省")
-[下载1080](https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "埃庇道鲁斯剧场, 希腊阿尔戈利斯省")
-[下载UHD](https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_UHD.jpg&rf=LaDigue_UHD.jpg "埃庇道鲁斯剧场, 希腊阿尔戈利斯省")
 
 ---
