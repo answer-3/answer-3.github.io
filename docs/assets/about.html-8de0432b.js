@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-22a39d25","path":"/about.html","title":"Bing Wallpaper 每天发现一个新地方","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1677320212000,"contributors":[{"name":"answer-3","email":"answer-3@qq.com","commits":1}]},"filePathRelative":"about.md"}');export{a as data};
