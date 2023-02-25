@@ -9,7 +9,7 @@
     "docs:build": "vuepress build -d docs src",
 
     "BingWallpaper:dev": "vuepress dev src/BingWallpaper",
-    "BingWallpaper:build": "vuepress build -d docs src/BingWallpaper"
+    "BingWallpaper:build": "vuepress build src/BingWallpaper"
   },
   "repository": {
     "type": "git",
