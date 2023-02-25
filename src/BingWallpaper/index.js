@@ -111,7 +111,7 @@ let getFrontmatter = filePath => {
     frontmatter += `
 ---
 `
-    frontmatter += `## 必应今日图片(${fileName === 'README' ? '最近15天' : (fileDate.getFullYear() + '年' + (fileDate.getMonth() + 1) + '月')})`;
+    frontmatter += `## Bing Wallpaper(${fileName === 'README' ? '最近15天' : (fileDate.getFullYear() + '年' + (fileDate.getMonth() + 1) + '月')})`;
     return frontmatter;
 }
 
@@ -129,7 +129,7 @@ ${mediaContent.ImageContent.Description}
 
 ${mediaContent.ImageContent.QuickFact.MainText}
 
-[Bing搜索](${addHost(mediaContent.ImageContent.BackstageUrl)} "必应今日图片 ${mediaContent.FullDateString}")
+[Bing搜索](${addHost(mediaContent.ImageContent.BackstageUrl)} "Bing Wallpaper ${mediaContent.FullDateString}")
 [必应主页测验](${addHost(mediaContent.ImageContent.TriviaUrl)} "必应主页测验 ${mediaContent.FullDateString}")
 [下载480](${addHost(mediaContent.ImageContent.Image.Wallpaper.replaceAll('1920x1200', '800x480'))} "${mediaContent.ImageContent.Title}")
 [下载720](${addHost(mediaContent.ImageContent.Image.Wallpaper.replaceAll('1920x1200', '1280x720'))} "${mediaContent.ImageContent.Title}")
