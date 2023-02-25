@@ -5,6 +5,23 @@ next:
 
 ---
 ## Bing Wallpaper(最近15天)
+### 02月26日：随着亚马孙的树冠摇摆
+#### 亚马孙雨林的树冠探险，秘鲁（© Pere Rubi/Getty Images）
+
+![随着亚马孙的树冠摇摆](https://cn.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_800x480.jpg&rf=LaDigue_800x480.jpg "随着亚马孙的树冠摇摆")
+
+穿过亚马孙雨林中的这座吊桥，意味着你要依靠这些树木作为支撑。同样，地球生物的生存也依赖于亚马孙雨林的这些树木。亚马孙流域储存的碳是全球化石燃料年排放量的10倍以上，这里还是地球上10%已知物种的家园。亚马孙河是世界上流域最广、流量最大的河流，其河流入海流量占全球的20%。从安第斯山脉到大西洋，亚马孙河流经了八个国家。今天的照片拍摄于秘鲁的坦博帕塔国家保护区，这里是巨型角雕、金刚鹦鹉、美洲虎、水豚、树懒和巨型水獭的家园。
+
+桑多瓦尔湖是坦博帕塔国家保护区内最受欢迎的景点，湖岸长满了棕榈树，这些树是金刚鹦鹉的家园。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%9d%a6%e5%8d%9a%e5%b8%95%e5%a1%94%e5%9b%bd%e5%ae%b6%e4%bf%9d%e6%8a%a4%e5%8c%ba&form=hpcapt&filters=HpDate:"20230225_1600" "Bing Wallpaper 2023 2月 26")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230226_CanopyPeru"&FORM=HPQUIZ "必应主页测验 2023 2月 26")
+[下载480](https://cn.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_800x480.jpg&rf=LaDigue_800x480.jpg "亚马孙雨林的树冠探险，秘鲁")
+[下载720](https://cn.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_1280x720.jpg&rf=LaDigue_1280x720.jpg "亚马孙雨林的树冠探险，秘鲁")
+[下载1080](https://cn.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "亚马孙雨林的树冠探险，秘鲁")
+[下载UHD](https://cn.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_UHD.jpg&rf=LaDigue_UHD.jpg "亚马孙雨林的树冠探险，秘鲁")
+
+---
 ### 02月25日：冬天的布莱斯峡谷石林
 #### 布莱斯峡谷国家公园的石林，犹他州，美国（© Piriya Photography/Getty Images）
 
@@ -241,22 +258,5 @@ Itaimbezinho 峡谷是南里奥格兰德州最著名的峡谷。它是巴西自�
 [下载720](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_1280x720.jpg&rf=LaDigue_1280x720.jpg "一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔")
 [下载1080](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔")
 [下载UHD](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_UHD.jpg&rf=LaDigue_UHD.jpg "一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔")
-
----
-### 02月11日：布满星星的天空
-#### 死亡谷扎布里斯基角上空的银河，美国加利福尼亚州（© Matt Anderson Photography/Getty Images）
-
-![布满星星的天空](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_800x480.jpg&rf=LaDigue_800x480.jpg "布满星星的天空")
-
-扎布里斯基角的标志性景观是摄影师和游客一年四季蜂拥而至的原因之一。大自然在这些荒地上侵蚀了亿万年，形成了这片令人惊叹的条纹岩层。这几座山峰上的深色部分是由古代火山爆发的熔岩形成的。扎布里斯基角位于加利福尼亚州的死亡谷国家公园，是无数电影（如《斯巴达克斯》和《星球大战》）的取景地。爱尔兰摇滚乐队U2的音乐专辑《约书亚树》的封面也在这里取景。难怪死亡谷暗夜节在美国如此受欢迎。
-
-死亡谷国家公园已经被评为黄金级暗夜公园——这是国际暗夜协会对夜空的最高评级。
-
-[Bing搜索](https://cn.bing.com/search?q=%e7%be%8e%e5%9b%bd%e6%ad%bb%e4%ba%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:"20230210_1600" "Bing Wallpaper 2023 2月 11")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230211_DarkSkiesDV"&FORM=HPQUIZ "必应主页测验 2023 2月 11")
-[下载480](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_800x480.jpg&rf=LaDigue_800x480.jpg "死亡谷扎布里斯基角上空的银河，美国加利福尼亚州")
-[下载720](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1280x720.jpg&rf=LaDigue_1280x720.jpg "死亡谷扎布里斯基角上空的银河，美国加利福尼亚州")
-[下载1080](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "死亡谷扎布里斯基角上空的银河，美国加利福尼亚州")
-[下载UHD](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_UHD.jpg&rf=LaDigue_UHD.jpg "死亡谷扎布里斯基角上空的银河，美国加利福尼亚州")
 
 ---
