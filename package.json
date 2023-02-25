@@ -1,12 +1,15 @@
 {
-  "name": "answer-3's github pages",
+  "name": "Bing Wallpaper",
   "version": "1.0.0",
-  "description": "个人主页",
+  "description": "Bing Wallpaper 每天发现一个新地方，包含必应主页上特别推荐的一批来自世界各地的精美图片。您不仅每天都会看到一个新图像，而且还可以浏览图像并了解其来源。",
   "main": "index.js",
   "scripts": {
     "load": "node index.js",
     "docs:dev": "vuepress dev src",
-    "docs:build": "vuepress build -d docs src"
+    "docs:build": "vuepress build -d docs src",
+
+    "BingWallpaper:dev": "vuepress dev src/BingWallpaper",
+    "BingWallpaper:build": "vuepress build -d docs src/BingWallpaper"
   },
   "repository": {
     "type": "git",

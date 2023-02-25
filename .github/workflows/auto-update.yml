@@ -41,13 +41,10 @@ jobs:
           git commit -m "update by github actions"
 
       - name: build(编译 html 静态资源)
-        run: pnpm docs:build
+        run: pnpm BingWallpaper:build
 
       - name: commit(提交变更到 git 本地仓库)
         run: |
-          git config --local user.email "answer-3@qq.com"
-          git config --local user.name "answer-3"
-          git pull
           git add -A
           git commit -m "update by github actions"
 
