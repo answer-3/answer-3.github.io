@@ -1,8 +1,14 @@
 import {defaultTheme} from 'vuepress';
+import {searchPlugin} from '@vuepress/plugin-search';
 
 export default {
     title: 'Bing Wallpaper 每天发现一个新地方',
     base: '/',
+    plugins: [
+        searchPlugin({
+            // 配置项
+        }),
+    ],
     theme: defaultTheme({
         repo: 'answer-3/answer-3.github.io.git',
         // 默认主题配置
