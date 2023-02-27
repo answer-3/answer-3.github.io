@@ -1,10 +1,10 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: update-build-deployment
+name: Build and Deployment Bing Wallpaper
 
 on:
   # Runs on pushes targeting the default branch
-  #  push:
-  #    branches: [ "master" ]
+  push:
+    branches: [ "main" ]
 
   #  schedule:
   #    - cron: '00 16 * * *'
@@ -51,15 +51,21 @@ jobs:
           # 缓存 pnpm 依赖
           cache: pnpm
 
-      - name: Build
+      - name: updateMD
+        run: pnpm BingWallpaper:updateMD
+
+      - name: build
         run: pnpm BingWallpaper:build
+
       - name: Setup Pages
         uses: actions/configure-pages@v3
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
           path: './src/BingWallpaper/.vuepress/dist'
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1

@@ -1,3 +1,8 @@
 const BingWallpaper = require('./src/BingWallpaper');
-BingWallpaper.loadLastImage();
-// BingWallpaper.updateMD('2020/1/1');
+
+if (process.argv.includes('--loadLastImage')) {
+    BingWallpaper.loadLastImage();
+}
+if (process.argv.includes('--updateMD')) {
+    BingWallpaper.updateMD('2020/1/1');
+}

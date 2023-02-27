@@ -1,11 +1,11 @@
-name: Update My Site
+name: Update Bing Wallpaper
 on:
   schedule:
     - cron: '00 16 * * *'
+  workflow_dispatch:
 jobs:
-  auto-load-build-commit-push:
+  update-bing-wallpaper:
     runs-on: ubuntu-latest
-
     steps:
       - name: checkout(检出代码)
         uses: actions/checkout@v3
@@ -26,25 +26,14 @@ jobs:
           # 缓存 pnpm 依赖
           cache: pnpm
 
-      - name: 安装依赖包
-        run: pnpm install
-
-      - name: load(获取 bing 最新图片信息)
-        run: pnpm load
+      - name: loadLastImage(获取 bing 最新图片信息)
+        run: pnpm BingWallpaper:loadLastImage
 
       - name: commit(提交变更到 git 本地仓库)
         run: |
           git config --local user.email "answer-3@qq.com"
           git config --local user.name "answer-3"
           git pull
-          git add -A
-          git commit -m "update by github actions"
-
-      - name: build(编译 html 静态资源)
-        run: pnpm BingWallpaper:build
-
-      - name: commit(提交变更到 git 本地仓库)
-        run: |
           git add -A
           git commit -m "update by github actions"
 

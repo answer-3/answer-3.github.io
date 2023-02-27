@@ -1,5 +1,5 @@
 .idea
 .temp
 .cache
-node_modules
 dist
+node_modules
