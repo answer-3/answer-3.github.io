@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 02月28日：一张来自意大利的明信片
+#### 阿特拉尼，阿马尔菲海岸，意大利（© Amazing Aerial/Shutterstock）
+
+![一张来自意大利的明信片](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_800x480.jpg&rf=LaDigue_800x480.jpg "一张来自意大利的明信片")
+
+阿特拉尼位于意大利西南部的阿马尔菲海岸，房屋的红色粘土屋顶在阳光下非常引人注目。阿特拉尼是意大利最小的城镇之一，镇上只有800居民。这个传统渔村也是阿马尔菲海岸世界文化遗产的一部分。这里保留了原有的建筑特色，是一个完美的地中海度假胜地。游客可以在这里沐浴阳光，在海滨咖啡馆里品尝当地海鲜。
+
+阿马尔菲海岸如诗如画般的自然美景使其成为世界富豪们最喜爱的度假胜地，也让其赢得了“神圣海岸”的称号。
+
+[Bing搜索](https://cn.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e9%98%bf%e7%89%b9%e6%8b%89%e5%b0%bc&form=hpcapt&filters=HpDate:"20230227_1600" "Bing Wallpaper 2023 2月 28")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230228_AtraniAmalfi"&FORM=HPQUIZ "必应主页测验 2023 2月 28")
+[下载480](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_800x480.jpg&rf=LaDigue_800x480.jpg "阿特拉尼，阿马尔菲海岸，意大利")
+[下载720](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1280x720.jpg&rf=LaDigue_1280x720.jpg "阿特拉尼，阿马尔菲海岸，意大利")
+[下载1080](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "阿特拉尼，阿马尔菲海岸，意大利")
+[下载UHD](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg&rf=LaDigue_UHD.jpg "阿特拉尼，阿马尔菲海岸，意大利")
+
+---
 ### 02月27日：冰冷的北极，温暖的拥抱
 #### 北极熊在加拿大沉睡（© David Pike/Minden Pictures）
 
@@ -235,22 +252,5 @@ Itaimbezinho 峡谷是南里奥格兰德州最著名的峡谷。它是巴西自�
 [下载720](https://cn.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_1280x720.jpg&rf=LaDigue_1280x720.jpg "日本北海道小樽雪灯之路的冰屋")
 [下载1080](https://cn.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "日本北海道小樽雪灯之路的冰屋")
 [下载UHD](https://cn.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_UHD.jpg&rf=LaDigue_UHD.jpg "日本北海道小樽雪灯之路的冰屋")
-
----
-### 02月13日：带我飞向月球
-#### 阿卡切斯瞭望台，月亮谷，智利（© Ignacio Palacios/Getty Images）
-
-![带我飞向月球](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_800x480.jpg&rf=LaDigue_800x480.jpg "带我飞向月球")
-
-月亮谷位于智利北部的阿塔卡马沙漠，有着令人惊叹的美景。1982年，月亮谷被列为自然保护区，这是因为它拥有极吸引人的、未受破坏的原生环境和奇特的月球地形。关于月亮谷还有一个有趣的知识，那就是这片沙漠已经很多年未下过一滴雨了。
-
-月亮谷的地形干燥恶劣，于是科学家们在那里测试了一辆火星探测器的原型。
-
-[Bing搜索](https://cn.bing.com/search?q=%e6%99%ba%e5%88%a9%e6%9c%88%e4%ba%ae%e8%b0%b7&form=hpcapt&filters=HpDate:"20230212_1600" "Bing Wallpaper 2023 2月 13")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230213_MoonValley"&FORM=HPQUIZ "必应主页测验 2023 2月 13")
-[下载480](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_800x480.jpg&rf=LaDigue_800x480.jpg "阿卡切斯瞭望台，月亮谷，智利")
-[下载720](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_1280x720.jpg&rf=LaDigue_1280x720.jpg "阿卡切斯瞭望台，月亮谷，智利")
-[下载1080](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "阿卡切斯瞭望台，月亮谷，智利")
-[下载UHD](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_UHD.jpg&rf=LaDigue_UHD.jpg "阿卡切斯瞭望台，月亮谷，智利")
 
 ---
