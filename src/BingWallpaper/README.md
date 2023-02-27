@@ -1,10 +1,21 @@
----
-next:
-  text: 2023/02
-  link: 2023/202302.html
+## Bing Wallpaper(最近15天)
+### 02月27日：冰冷的北极，温暖的拥抱
+#### 北极熊在加拿大沉睡（© David Pike/Minden Pictures）
+
+![冰冷的北极，温暖的拥抱](https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_800x480.jpg&rf=LaDigue_800x480.jpg "冰冷的北极，温暖的拥抱")
+
+2月27日是国际北极熊日，旨在让人们意识到北极熊因气候变化而面临的巨大威胁。北极熊需要北极的浮冰才能捕食，但北极浮冰正随着地球变暖而减少。虽然北极熊是非常出色的游泳选手，它们甚至因此被归类为海洋哺乳动物，但北极的浮冰仍是它们赖以生存的关键因素。让我们在这一天来认真想想，如何通过可持续的生活方式来帮助北极熊。
+
+北极熊没有领地意识，它们面临冲突时总是小心翼翼，常常选择逃跑而不是战斗。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%8c%97%e6%9e%81%e7%86%8a&form=hpcapt&filters=HpDate:"20230226_1600" "Bing Wallpaper 2023 2月 27")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230227_PolarBearFrost"&FORM=HPQUIZ "必应主页测验 2023 2月 27")
+[下载480](https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_800x480.jpg&rf=LaDigue_800x480.jpg "北极熊在加拿大沉睡")
+[下载720](https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_1280x720.jpg&rf=LaDigue_1280x720.jpg "北极熊在加拿大沉睡")
+[下载1080](https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "北极熊在加拿大沉睡")
+[下载UHD](https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_UHD.jpg&rf=LaDigue_UHD.jpg "北极熊在加拿大沉睡")
 
 ---
-## Bing Wallpaper(最近15天)
 ### 02月26日：随着亚马孙的树冠摇摆
 #### 亚马孙雨林的树冠探险，秘鲁（© Pere Rubi/Getty Images）
 
@@ -241,22 +252,5 @@ Itaimbezinho 峡谷是南里奥格兰德州最著名的峡谷。它是巴西自�
 [下载720](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_1280x720.jpg&rf=LaDigue_1280x720.jpg "阿卡切斯瞭望台，月亮谷，智利")
 [下载1080](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "阿卡切斯瞭望台，月亮谷，智利")
 [下载UHD](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_UHD.jpg&rf=LaDigue_UHD.jpg "阿卡切斯瞭望台，月亮谷，智利")
-
----
-### 02月12日：平稳着陆，双脚先行
-#### 一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔（© Tui De Roy/Minden Pictures）
-
-![平稳着陆，双脚先行](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_800x480.jpg&rf=LaDigue_800x480.jpg "平稳着陆，双脚先行")
-
-今天，我们将和加拉帕戈斯群岛海岸的蓝脚鲣鸟一起玩耍，来庆祝达尔文日。据说，鲣鸟的英文名（booby）来源于西班牙语的单词，意思是“傻瓜”。鲣鸟之所以有这样的名字，是因为它们很容易被水手们抓到，因此被认为不太聪明。它们与众不同的亮蓝色脚丫很显眼。蓝脚鲣鸟的一大特点是它们的求偶舞蹈，雄性蓝脚鲣鸟会在大庭广众之下欢快地跺着蓝色脚丫跳舞求偶。雌性体型比雄性稍大一些。这种鸟终身只有一个伴侣，它们还能通过独特的叫声认出自己的伴侣。
-
-蓝脚鲣鸟不筑巢，而是在光秃秃的地上产蛋。
-
-[Bing搜索](https://cn.bing.com/search?q=%e8%93%9d%e8%84%9a%e9%b2%a3%e9%b8%9f&form=hpcapt&filters=HpDate:"20230211_1600" "Bing Wallpaper 2023 2月 12")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230212_BoobyDarwinDay"&FORM=HPQUIZ "必应主页测验 2023 2月 12")
-[下载480](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_800x480.jpg&rf=LaDigue_800x480.jpg "一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔")
-[下载720](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_1280x720.jpg&rf=LaDigue_1280x720.jpg "一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔")
-[下载1080](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔")
-[下载UHD](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_UHD.jpg&rf=LaDigue_UHD.jpg "一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔")
 
 ---

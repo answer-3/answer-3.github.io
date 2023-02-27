@@ -76,41 +76,42 @@ let addHost = url => {
 }
 
 let getFrontmatter = filePath => {
+    let frontmatter = '';
     let fileName = filePath.substring(filePath.lastIndexOf('/') + 1, filePath.lastIndexOf('.'));
     let fileDate = fileName === 'README' ? new Date() : new Date(fileName.substring(0, 4) + '/' + fileName.substring(4, 6) + '/1');
-    let prevMonth = new Date(fileDate);
-    prevMonth.setMonth(fileDate.getMonth() + 1);
-    let nextMonth = new Date(fileDate);
-    nextMonth.setMonth(fileDate.getMonth() - 1);
-    let thisDate = new Date();
-    let frontmatter = `---
+    if (process.argv.includes('--forVuePress')) {
+        let prevMonth = new Date(fileDate);
+        prevMonth.setMonth(fileDate.getMonth() + 1);
+        let nextMonth = new Date(fileDate);
+        nextMonth.setMonth(fileDate.getMonth() - 1);
+        let thisDate = new Date();
+        frontmatter += `---
 `;
-    if (prevMonth.getFullYear() < thisDate.getFullYear() || (prevMonth.getFullYear() === thisDate.getFullYear() & prevMonth.getMonth() <= thisDate.getMonth())) {
-        frontmatter += `prev:
+        if (prevMonth.getFullYear() < thisDate.getFullYear() || (prevMonth.getFullYear() === thisDate.getFullYear() & prevMonth.getMonth() <= thisDate.getMonth())) {
+            frontmatter += `prev:
   text: ${prevMonth.getFullYear()}/${prevMonth.getMonth() < 9 ? '0' : ''}${prevMonth.getMonth() + 1}
   link: ../${prevMonth.getFullYear()}/${prevMonth.getFullYear()}${(prevMonth.getMonth() < 9 ? '0' : '') + (prevMonth.getMonth() + 1)}.html
 `;
-    } else if (fileName !== 'README') {
-        frontmatter += `prev:
+        } else if (fileName !== 'README') {
+            frontmatter += `prev:
   text: 最近15天
   link: ../index.html
 `;
-    }
-
-    if (fileName === 'README') {
-        frontmatter += `next:
+        }
+        if (fileName === 'README') {
+            frontmatter += `next:
   text: ${thisDate.getFullYear()}/${thisDate.getMonth() < 9 ? '0' : ''}${thisDate.getMonth() + 1}
   link: ${thisDate.getFullYear()}/${thisDate.getFullYear()}${(thisDate.getMonth() < 9 ? '0' : '') + (thisDate.getMonth() + 1)}.html
 `;
-    } else if (nextMonth.getFullYear() >= 2020) {
-        frontmatter += `next:
+        } else if (nextMonth.getFullYear() >= 2020) {
+            frontmatter += `next:
   text: ${nextMonth.getFullYear()}/${nextMonth.getMonth() < 9 ? '0' : ''}${nextMonth.getMonth() + 1}
   link: ../${nextMonth.getFullYear()}/${nextMonth.getFullYear()}${(nextMonth.getMonth() < 9 ? '0' : '') + (nextMonth.getMonth() + 1)}.html
 `;
-    }
-    frontmatter += `
----
+        }
+        frontmatter += `---
 `
+    }
     frontmatter += `## Bing Wallpaper(${fileName === 'README' ? '最近15天' : (fileDate.getFullYear() + '年' + (fileDate.getMonth() + 1) + '月')})`;
     return frontmatter;
 }
@@ -158,7 +159,21 @@ let updateMD = (startDate, endDate) => {
         }
         startDate.setMonth(startDate.getMonth() + 1);
     }
+    updateLastMD();
 }
+
+let updateLastMD = () => {
+    let lastDate = new Date();
+    let lastMediaContents = getMediaContents(getFilePath(lastDate, '.json'));
+    if (lastMediaContents.length < 15) {
+        lastDate.setMonth(lastDate.getMonth() - 1);
+        lastMediaContents = lastMediaContents.concat(getMediaContents(getFilePath(lastDate, '.json')));
+    }
+    updateMDFile(lastMediaContents.sort((a, b) => {
+        return getEnddate(a) < getEnddate(b) ? 1 : -1;
+    }).slice(0, 15), './src/BingWallpaper/README.md');
+}
+
 let loadLastImage = () => {
     console.log(`loadLastImage 开始时间：${new Date().toUTCString()}`);
     fetch(addHost('/hp/api/model'))
@@ -167,16 +182,7 @@ let loadLastImage = () => {
                 .then(json => {
                     if (json.MediaContents) {
                         updateJSONFile(json.MediaContents);
-                        let lastDate = new Date();
-                        let lastMediaContents = getMediaContents(getFilePath(lastDate, '.json'));
-                        if (lastMediaContents.length < 15) {
-                            lastDate.setMonth(lastDate.getMonth() - 1);
-                            lastMediaContents = lastMediaContents.concat(getMediaContents(getFilePath(lastDate, '.json')));
-                        }
-                        updateMDFile(lastMediaContents.sort((a, b) => {
-                            return getEnddate(a) < getEnddate(b) ? 1 : -1;
-                        }).slice(0, 15), './src/BingWallpaper/README.md');
-                        // fs.copyFileSync('./docs/README.md', './README.md')
+                        updateLastMD();
                         console.log(`loadLastImage 结束时间：${new Date().toUTCString()}`);
                     } else {
                         console.error(json);
