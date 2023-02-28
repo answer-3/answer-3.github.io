@@ -78,13 +78,13 @@ let addHost = url => {
 let getFrontmatter = filePath => {
     let frontmatter = '';
     let fileName = filePath.substring(filePath.lastIndexOf('/') + 1, filePath.lastIndexOf('.'));
-    let fileDate = fileName === 'README' ? new Date() : new Date(fileName.substring(0, 4) + '/' + fileName.substring(4, 6) + '/1');
+    let fileDate = fileName === 'README' ? getNewDate() : new Date(fileName.substring(0, 4) + '/' + fileName.substring(4, 6) + '/1');
     if (process.argv.includes('--forVuePress')) {
         let prevMonth = new Date(fileDate);
         prevMonth.setMonth(fileDate.getMonth() + 1);
         let nextMonth = new Date(fileDate);
         nextMonth.setMonth(fileDate.getMonth() - 1);
-        let thisDate = new Date();
+        let thisDate = getNewDate();
         frontmatter += `---
 `;
         if (prevMonth.getFullYear() < thisDate.getFullYear() || (prevMonth.getFullYear() === thisDate.getFullYear() & prevMonth.getMonth() <= thisDate.getMonth())) {
@@ -149,7 +149,7 @@ ${mediaContent.ImageContent.QuickFact.MainText}
 
 let updateMD = (startDate, endDate) => {
     startDate = new Date(startDate || '2020/1/1');
-    endDate = new Date(endDate || new Date());
+    endDate = new Date(endDate || getNewDate());
     while (startDate < endDate) {
         let jsonFilePath = getFilePath(startDate, '.json');
         let mdFilePath = getFilePath(startDate, '.md');
@@ -162,8 +162,14 @@ let updateMD = (startDate, endDate) => {
     updateLastMD();
 }
 
-let updateLastMD = () => {
+let getNewDate=()=>{
     let lastDate = new Date();
+    lastDate.setMinutes(lastDate.getMinutes()+lastDate.getTimezoneOffset()+480);
+    return lastDate;
+}
+
+let updateLastMD = () => {
+    let lastDate = getNewDate();
     let lastMediaContents = getMediaContents(getFilePath(lastDate, '.json'));
     if (lastMediaContents.length < 15) {
         lastDate.setMonth(lastDate.getMonth() - 1);
