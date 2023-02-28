@@ -3,8 +3,23 @@ on:
   schedule:
     - cron: '00 16 * * *'
   workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
   update-bing-wallpaper:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: checkout(检出代码)
@@ -40,27 +55,21 @@ jobs:
           git commit -m "update by github actions"
           git push
 
-#      - name: push(推送到 github 远程仓库)
-#        uses: ad-m/github-push-action@master
-#        with:
-#          github_token: ${{ secrets.MY_TOKEN }}
-#          branch: main
-#
-#      - name: updateMD
-#        run: pnpm BingWallpaper:updateMD
-#
-#      - name: build
-#        run: pnpm BingWallpaper:build
-#
-#      - name: Setup Pages
-#        uses: actions/configure-pages@v3
-#
-#      - name: Upload artifact
-#        uses: actions/upload-pages-artifact@v1
-#        with:
-#          # Upload entire repository
-#          path: './src/BingWallpaper/.vuepress/dist'
-#
-#      - name: Deploy to GitHub Pages
-#        id: deployment
-#        uses: actions/deploy-pages@v1
+      - name: updateMD
+        run: pnpm BingWallpaper:updateMD
+
+      - name: build
+        run: pnpm BingWallpaper:build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload entire repository
+          path: './src/BingWallpaper/.vuepress/dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
