@@ -9,6 +9,8 @@ jobs:
     steps:
       - name: checkout(检出代码)
         uses: actions/checkout@v3
+        with:
+          ref: main
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v2
@@ -36,28 +38,29 @@ jobs:
           git pull
           git add -A
           git commit -m "update by github actions"
+          git push
 
-      - name: push(推送到 github 远程仓库)
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.MY_TOKEN }}
-          branch: main
-
-      - name: updateMD
-        run: pnpm BingWallpaper:updateMD
-
-      - name: build
-        run: pnpm BingWallpaper:build
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          # Upload entire repository
-          path: './src/BingWallpaper/.vuepress/dist'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+#      - name: push(推送到 github 远程仓库)
+#        uses: ad-m/github-push-action@master
+#        with:
+#          github_token: ${{ secrets.MY_TOKEN }}
+#          branch: main
+#
+#      - name: updateMD
+#        run: pnpm BingWallpaper:updateMD
+#
+#      - name: build
+#        run: pnpm BingWallpaper:build
+#
+#      - name: Setup Pages
+#        uses: actions/configure-pages@v3
+#
+#      - name: Upload artifact
+#        uses: actions/upload-pages-artifact@v1
+#        with:
+#          # Upload entire repository
+#          path: './src/BingWallpaper/.vuepress/dist'
+#
+#      - name: Deploy to GitHub Pages
+#        id: deployment
+#        uses: actions/deploy-pages@v1
