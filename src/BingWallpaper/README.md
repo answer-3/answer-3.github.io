@@ -1,4 +1,38 @@
 ## Bing Wallpaper(最近15天)
+### 03月02日：大自然的画作
+#### 内格拉廷湖，格拉纳达，西班牙（© Andres Martinez Olmedo/Getty Images）
+
+![大自然的画作](https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_800x480.jpg&rf=LaDigue_800x480.jpg "大自然的画作")
+
+今天照片上这个宁静美丽的湖泊是内格拉廷湖，是西班牙安达卢西亚最大的淡水湖之一。内格拉廷湖位于格拉纳达世界地质公园 的中心，由瓜迪亚纳梅诺尔河上的大坝截流而形成，是自然爱好者的天堂。湖边有一个帆船俱乐部，举办各种水上活动，这也使得内格拉廷湖成为了一个亲近大自然和放松身心的度假胜地。湖周围还有壮观的悬崖、沟壑和沙漠。无论春夏秋冬，这里的风景都美得让人窒息。
+
+内格拉廷湖是由瓜迪亚纳梅诺尔河上的大坝截流而形成的。
+
+[Bing搜索](https://cn.bing.com/search?q=%e6%a0%bc%e6%8b%89%e7%ba%b3%e8%be%be&form=hpcapt&filters=HpDate:"20230301_1600" "Bing Wallpaper 2023 3月 2")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230302_NegratinSpain"&FORM=HPQUIZ "必应主页测验 2023 3月 2")
+[下载480](https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_800x480.jpg&rf=LaDigue_800x480.jpg "内格拉廷湖，格拉纳达，西班牙")
+[下载720](https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_1280x720.jpg&rf=LaDigue_1280x720.jpg "内格拉廷湖，格拉纳达，西班牙")
+[下载1080](https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "内格拉廷湖，格拉纳达，西班牙")
+[下载UHD](https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_UHD.jpg&rf=LaDigue_UHD.jpg "内格拉廷湖，格拉纳达，西班牙")
+
+---
+### 03月01日：纪念硬币上的著名建筑
+#### 吕贝克的霍尔斯滕门，德国（© Harald Nachtmann/Getty Images）
+
+![纪念硬币上的著名建筑](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_800x480.jpg&rf=LaDigue_800x480.jpg "纪念硬币上的著名建筑")
+
+霍尔斯滕门是一座城门，标志着汉萨同盟城市吕贝克旧中心的西部边界。 砖砌哥特式建筑建于1464年，是吕贝克中世纪城市防御工事的遗迹之一，也是现存的两座城门之一，另一座是城堡门 (Burgtor)。 它以其两个圆形的塔楼和拱形入口而闻名，今天被视为这座城市的象征。
+
+自1987年以来，它与吕贝克老城中心 (Altstadt) 一起被联合国教科文组织列为世界遗产。
+
+[Bing搜索](https://cn.bing.com/search?q=%e9%9c%8d%e5%b0%94%e6%96%af%e6%bb%95%e9%97%a8&form=hpcapt&filters=HpDate:"20230228_1600" "Bing Wallpaper 2023 3月 1")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230301_LuebeckCityGate"&FORM=HPQUIZ "必应主页测验 2023 3月 1")
+[下载480](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_800x480.jpg&rf=LaDigue_800x480.jpg "吕贝克的霍尔斯滕门，德国")
+[下载720](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1280x720.jpg&rf=LaDigue_1280x720.jpg "吕贝克的霍尔斯滕门，德国")
+[下载1080](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "吕贝克的霍尔斯滕门，德国")
+[下载UHD](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_UHD.jpg&rf=LaDigue_UHD.jpg "吕贝克的霍尔斯滕门，德国")
+
+---
 ### 02月28日：一张来自意大利的明信片
 #### 阿特拉尼，阿马尔菲海岸，意大利（© Amazing Aerial/Shutterstock）
 
@@ -218,39 +252,5 @@ Itaimbezinho 峡谷是南里奥格兰德州最著名的峡谷。它是巴西自�
 [下载720](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_1280x720.jpg&rf=LaDigue_1280x720.jpg "“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州")
 [下载1080](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州")
 [下载UHD](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_UHD.jpg&rf=LaDigue_UHD.jpg "“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州")
-
----
-### 02月15日：世界河马日，隆重的庆典
-#### 河马妈妈和宝宝，乔贝国家公园，博茨瓦纳（© jacobeukman/Getty Images）
-
-![世界河马日，隆重的庆典](https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_800x480.jpg&rf=LaDigue_800x480.jpg "世界河马日，隆重的庆典")
-
-今天是世界河马日，河马是地球上最重的陆地动物之一。这些非洲食草动物生活在撒哈拉沙漠以南的非洲大陆。尽管河马分布广泛，但由于栖息地的不断减少，它们已被列为易危物种。虽然河马一生都生活在水里或水域附近，但它们不会游泳，而是通过跳跃在水里移动。河马在野外可以活到40岁，它们的嘴巴是陆地动物中最大的，所以在面对镜头时，它们的微笑也很自然。
-
-虽然河马的名字来自希腊语，意思是“河里的马”——因为它们大部分时间在河里度过，但河马的近亲其实是鲸鱼、海豚和猪。
-
-[Bing搜索](https://cn.bing.com/search?q=%e6%b2%b3%e9%a9%ac&form=hpcapt&filters=HpDate:"20230214_1600" "Bing Wallpaper 2023 2月 15")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230215_HippoDayChobe"&FORM=HPQUIZ "必应主页测验 2023 2月 15")
-[下载480](https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_800x480.jpg&rf=LaDigue_800x480.jpg "河马妈妈和宝宝，乔贝国家公园，博茨瓦纳")
-[下载720](https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_1280x720.jpg&rf=LaDigue_1280x720.jpg "河马妈妈和宝宝，乔贝国家公园，博茨瓦纳")
-[下载1080](https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "河马妈妈和宝宝，乔贝国家公园，博茨瓦纳")
-[下载UHD](https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_UHD.jpg&rf=LaDigue_UHD.jpg "河马妈妈和宝宝，乔贝国家公园，博茨瓦纳")
-
----
-### 02月14日：雪中之恋
-#### 日本北海道小樽雪灯之路的冰屋（© T Photography/Shutterstock）
-
-![雪中之恋](https://cn.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_800x480.jpg&rf=LaDigue_800x480.jpg "雪中之恋")
-
-情人节到了！情人节也许是世界上最受欢迎的节日之一了。这是一个庆祝爱情、表达爱意的日子。虽然情人节的起源尚不清楚，但它经常与各种古老的节日联系在一起，比如牧神节和圣瓦伦丁节。今天，情人节已经演变成一个庆祝爱情的大型文化和商业活动。如果你想让这一天更有意义，你可以做很多事情。你可以在最喜欢的餐厅来一场约会，也可以策划一些活动，比如两人来一场日本之旅，体验小樽雪灯之路的冬季仙境。
-
-情人节送糖果的传统始于19世纪，由英国巧克力制造家族的理查德·吉百利开创。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%b0%8f%e6%a8%bd%e9%9b%aa%e7%81%af%e4%b9%8b%e8%b7%af&form=hpcapt&filters=HpDate:"20230213_1600" "Bing Wallpaper 2023 2月 14")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230214_OtaruIgloo"&FORM=HPQUIZ "必应主页测验 2023 2月 14")
-[下载480](https://cn.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_800x480.jpg&rf=LaDigue_800x480.jpg "日本北海道小樽雪灯之路的冰屋")
-[下载720](https://cn.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_1280x720.jpg&rf=LaDigue_1280x720.jpg "日本北海道小樽雪灯之路的冰屋")
-[下载1080](https://cn.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "日本北海道小樽雪灯之路的冰屋")
-[下载UHD](https://cn.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_UHD.jpg&rf=LaDigue_UHD.jpg "日本北海道小樽雪灯之路的冰屋")
 
 ---
