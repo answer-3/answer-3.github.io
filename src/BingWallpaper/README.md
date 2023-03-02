@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 03月03日：这些捕食者在做什么？
+#### 斯皮尔德拉的虎鲸，挪威（© Alex Mustard/Minden Pictures）
+
+![这些捕食者在做什么？](https://cn.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_800x480.jpg&rf=LaDigue_800x480.jpg "这些捕食者在做什么？")
+
+今天是世界野生动物日，让我们来了解了解虎鲸（逆戟鲸）相关的知识吧。虎鲸是顶级掠食者，处于食物链的顶端。虎鲸拥有无与伦比的捕猎技能，但目前还没有任何有关虎鲸在野外杀人的记录。虎鲸的食物通常是海洋生物，如鱼、企鹅、鲨鱼和鲸鱼。不过“虎鲸”这个名字其实并不准确。虎鲸不是鲸鱼，而是海豚。
+
+在所有的海洋哺乳动物中，虎鲸的大脑是第二重的。虎鲸可以被圈养训练，它们通常被形容为智商很高。
+
+[Bing搜索](https://cn.bing.com/search?q=%e8%99%8e%e9%b2%b8&form=hpcapt&filters=HpDate:"20230302_1600" "Bing Wallpaper 2023 3月 3")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230303_OrcaNorway"&FORM=HPQUIZ "必应主页测验 2023 3月 3")
+[下载480](https://cn.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_800x480.jpg&rf=LaDigue_800x480.jpg "斯皮尔德拉的虎鲸，挪威")
+[下载720](https://cn.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_1280x720.jpg&rf=LaDigue_1280x720.jpg "斯皮尔德拉的虎鲸，挪威")
+[下载1080](https://cn.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "斯皮尔德拉的虎鲸，挪威")
+[下载UHD](https://cn.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_UHD.jpg&rf=LaDigue_UHD.jpg "斯皮尔德拉的虎鲸，挪威")
+
+---
 ### 03月02日：大自然的画作
 #### 内格拉廷湖，格拉纳达，西班牙（© Andres Martinez Olmedo/Getty Images）
 
@@ -235,22 +252,5 @@ Itaimbezinho 峡谷是南里奥格兰德州最著名的峡谷。它是巴西自�
 [下载720](https://cn.bing.com/th?id=OHR.BirdcountAllen_ZH-CN4029022734_1280x720.jpg&rf=LaDigue_1280x720.jpg "栖息在红袋鼠爪枝干上的艾氏煌蜂鸟")
 [下载1080](https://cn.bing.com/th?id=OHR.BirdcountAllen_ZH-CN4029022734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "栖息在红袋鼠爪枝干上的艾氏煌蜂鸟")
 [下载UHD](https://cn.bing.com/th?id=OHR.BirdcountAllen_ZH-CN4029022734_UHD.jpg&rf=LaDigue_UHD.jpg "栖息在红袋鼠爪枝干上的艾氏煌蜂鸟")
-
----
-### 02月16日：这个悬崖怎么着火了？
-#### “火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州（© Jeff Lewis/Tandem Stills + Motion）
-
-![这个悬崖怎么着火了？](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_800x480.jpg&rf=LaDigue_800x480.jpg "这个悬崖怎么着火了？")
-
-在约塞米蒂国家公园的埃尔卡皮坦山东侧，当所有自然条件齐备，马尾瀑布就像火一样“燃烧”起来。这种现象只有在2月的几周时间里可以看到，前提是天气晴朗，雪水或雨水形成瀑布，并且光照条件恰到好处。“火瀑布”只会持续大约10分钟，届时，观景区会人潮涌动。希望今年的游客能有幸看到这一神奇的自然景观。
-
-火瀑布的形成需要几个要素：下了足量的雪，天气够暖和，雪融化后形成瀑布，天空晴朗无云，阳光照耀的角度正合适，然后瀑布才会“燃烧”。
-
-[Bing搜索](https://cn.bing.com/search?q=%e7%ba%a6%e5%a1%9e%e7%b1%b3%e8%92%82%e7%81%ab%e7%80%91%e5%b8%83&form=hpcapt&filters=HpDate:"20230215_1600" "Bing Wallpaper 2023 2月 16")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230216_FireFallYosemite"&FORM=HPQUIZ "必应主页测验 2023 2月 16")
-[下载480](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_800x480.jpg&rf=LaDigue_800x480.jpg "“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州")
-[下载720](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_1280x720.jpg&rf=LaDigue_1280x720.jpg "“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州")
-[下载1080](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州")
-[下载UHD](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_UHD.jpg&rf=LaDigue_UHD.jpg "“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州")
 
 ---
