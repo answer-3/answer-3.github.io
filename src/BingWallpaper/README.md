@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 03月06日：这些独特的生物是什么?
+#### 站在自己领域的冰岛马，冰岛（© Rodrigo Lourezini/Shutterstock）
+
+![这些独特的生物是什么?](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_800x480.jpg&rf=LaDigue_800x480.jpg "这些独特的生物是什么?")
+
+冰岛马是在冰岛发现的一种小型马，也是地球上血统最纯的马种。这些独特的生物吸引了许多来自世界各地的马术爱好者。为了避免疾病在马匹之间传播，冰岛禁止进口马匹，并且冰岛马一旦出口就不能再回到冰岛。冰岛马的颜色非常丰富，有灰色、黑色、栗色等。它们通常在四岁后才能被骑乘，主要用于展示、竞赛和休闲活动。
+
+这是几匹来自北方的马。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%86%b0%e5%b2%9b%e9%a9%ac&form=hpcapt&filters=HpDate:"20230305_1600" "Bing Wallpaper 2023 3月 6")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230306_IcelandHorses"&FORM=HPQUIZ "必应主页测验 2023 3月 6")
+[下载480](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_800x480.jpg&rf=LaDigue_800x480.jpg "站在自己领域的冰岛马，冰岛")
+[下载720](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_1280x720.jpg&rf=LaDigue_1280x720.jpg "站在自己领域的冰岛马，冰岛")
+[下载1080](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "站在自己领域的冰岛马，冰岛")
+[下载UHD](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_UHD.jpg&rf=LaDigue_UHD.jpg "站在自己领域的冰岛马，冰岛")
+
+---
 ### 03月05日：来自妈妈的拥抱和爱
 #### 袋鼠妈妈和宝宝（© Belle Ciezak/Shutterstock）
 
@@ -235,22 +252,5 @@ Itaimbezinho 峡谷是南里奥格兰德州最著名的峡谷。它是巴西自�
 [下载720](https://cn.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_1280x720.jpg&rf=LaDigue_1280x720.jpg "Itaimbezinho峡谷，巴西")
 [下载1080](https://cn.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "Itaimbezinho峡谷，巴西")
 [下载UHD](https://cn.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_UHD.jpg&rf=LaDigue_UHD.jpg "Itaimbezinho峡谷，巴西")
-
----
-### 02月19日：海洋之王
-#### 毛伊岛附近的座头鲸，美国夏威夷（© Flip Nicklin/Minden Pictures）
-
-![海洋之王](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_800x480.jpg&rf=LaDigue_800x480.jpg "海洋之王")
-
-在座头鲸巨大体型的衬托之下，你会觉得自己是如此的渺小。成年座头鲸体长达46-56英尺以上，是地球上最大的哺乳动物之一。夏威夷毛伊岛每年都会举办鲸鱼节，游客们可以参加观鲸活动，近距离接触这些美丽的庞然大物。座头鲸是须鲸的一种，以擅长唱歌而闻名，它们嘹亮优美的歌声甚至可以在水中传到“千里之外”。有趣的是，每个鲸鱼群都有自己的鲸歌，并且只有雄性鲸鱼才唱歌。此外，鲸鱼还是河马的远亲，它们是从同一个祖先进化而来。
-
-座头鲸和其他鲸鱼一样，会突然破水而出，落水时溅起巨大的水花。科学家们也不确定这种行为是否有特殊的目的。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%ba%a7%e5%a4%b4%e9%b2%b8&form=hpcapt&filters=HpDate:"20230218_1600" "Bing Wallpaper 2023 2月 19")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230219_MauiWhale"&FORM=HPQUIZ "必应主页测验 2023 2月 19")
-[下载480](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_800x480.jpg&rf=LaDigue_800x480.jpg "毛伊岛附近的座头鲸，美国夏威夷")
-[下载720](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_1280x720.jpg&rf=LaDigue_1280x720.jpg "毛伊岛附近的座头鲸，美国夏威夷")
-[下载1080](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "毛伊岛附近的座头鲸，美国夏威夷")
-[下载UHD](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg&rf=LaDigue_UHD.jpg "毛伊岛附近的座头鲸，美国夏威夷")
 
 ---
