@@ -16,6 +16,23 @@
 [下载UHD](https://cn.bing.com/th?id=OHR.WaimeaRainbow_ZH-CN1127225170_UHD.jpg&rf=LaDigue_UHD.jpg "威美亚峡谷和怀波奥瀑布上空的彩虹,考艾岛，夏威夷，美国")
 
 ---
+### 03月15日：如此美景在何处？
+#### 阿圭罗村庄，西班牙（© Andrea Comi/Getty Images）
+
+![如此美景在何处？](https://cn.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_800x480.jpg&rf=LaDigue_800x480.jpg "如此美景在何处？")
+
+美丽的阿圭罗村庄位于西班牙韦斯卡省，它坐落在独特的粉灰色群山之中。村庄背后是被称为里格洛斯岩的悬崖，非常适合拍照。这个拥有130位居民的小村庄还有一座建于12世纪的教堂。如果你是历史爱好者、攀岩爱好者，或二者兼修，那就请把阿圭罗列入旅行目的地清单吧。
+
+这个城镇最有趣的地方便是它身后令人惊艳的岩石。
+
+[Bing搜索](https://cn.bing.com/search?q=%e9%98%bf%e5%9c%ad%e7%bd%97%e6%9d%91%e5%ba%84&form=hpcapt&filters=HpDate:"20230314_1600" "Bing Wallpaper 2023 3月 15")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230315_AgueroSpain"&FORM=HPQUIZ "必应主页测验 2023 3月 15")
+[下载480](https://cn.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_800x480.jpg&rf=LaDigue_800x480.jpg "阿圭罗村庄，西班牙")
+[下载720](https://cn.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_1280x720.jpg&rf=LaDigue_1280x720.jpg "阿圭罗村庄，西班牙")
+[下载1080](https://cn.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "阿圭罗村庄，西班牙")
+[下载UHD](https://cn.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_UHD.jpg&rf=LaDigue_UHD.jpg "阿圭罗村庄，西班牙")
+
+---
 ### 03月14日：美丽的曲径迷宫
 #### 阿伊纳帕植物园灌木丛迷宫，塞浦路斯（© Tpopova/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1280x720.jpg&rf=LaDigue_1280x720.jpg "吕贝克的霍尔斯滕门，德国")
 [下载1080](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "吕贝克的霍尔斯滕门，德国")
 [下载UHD](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_UHD.jpg&rf=LaDigue_UHD.jpg "吕贝克的霍尔斯滕门，德国")
-
----
-### 02月28日：一张来自意大利的明信片
-#### 阿特拉尼，阿马尔菲海岸，意大利（© Amazing Aerial/Shutterstock）
-
-![一张来自意大利的明信片](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_800x480.jpg&rf=LaDigue_800x480.jpg "一张来自意大利的明信片")
-
-阿特拉尼位于意大利西南部的阿马尔菲海岸，房屋的红色粘土屋顶在阳光下非常引人注目。阿特拉尼是意大利最小的城镇之一，镇上只有800居民。这个传统渔村也是阿马尔菲海岸世界文化遗产的一部分。这里保留了原有的建筑特色，是一个完美的地中海度假胜地。游客可以在这里沐浴阳光，在海滨咖啡馆里品尝当地海鲜。
-
-阿马尔菲海岸如诗如画般的自然美景使其成为世界富豪们最喜爱的度假胜地，也让其赢得了“神圣海岸”的称号。
-
-[Bing搜索](https://cn.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e9%98%bf%e7%89%b9%e6%8b%89%e5%b0%bc&form=hpcapt&filters=HpDate:"20230227_1600" "Bing Wallpaper 2023 2月 28")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230228_AtraniAmalfi"&FORM=HPQUIZ "必应主页测验 2023 2月 28")
-[下载480](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_800x480.jpg&rf=LaDigue_800x480.jpg "阿特拉尼，阿马尔菲海岸，意大利")
-[下载720](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1280x720.jpg&rf=LaDigue_1280x720.jpg "阿特拉尼，阿马尔菲海岸，意大利")
-[下载1080](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "阿特拉尼，阿马尔菲海岸，意大利")
-[下载UHD](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg&rf=LaDigue_UHD.jpg "阿特拉尼，阿马尔菲海岸，意大利")
 
 ---
