@@ -18,6 +18,7 @@ export default {
                 link: '/index.html',
             }];
             let today = new Date();
+            today.setMinutes(today.getMinutes() + today.getTimezoneOffset() + 480);
             let minDay = new Date('2019/12/1');
             let yearNav = {
                 text: today.getFullYear(),

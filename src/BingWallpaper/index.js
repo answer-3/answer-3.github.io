@@ -2,7 +2,7 @@ const fs = require('fs');
 let getEnddate = mediaContent => {
     if (!mediaContent.enddate && mediaContent.FullDateString) {
         let enddate = mediaContent.FullDateString.replace('月', '').split(' ');
-        mediaContent.enddate = enddate[0] + (enddate[1] < 9 ? '0' : '') + enddate[1] + (enddate[2] < 9 ? '0' : '') + enddate[2];
+        mediaContent.enddate = enddate[0] + (enddate[1] < 10 ? '0' : '') + enddate[1] + (enddate[2] < 10 ? '0' : '') + enddate[2];
     }
     return mediaContent.enddate;
 }
@@ -162,9 +162,9 @@ let updateMD = (startDate, endDate) => {
     updateLastMD();
 }
 
-let getNewDate=()=>{
+let getNewDate = () => {
     let lastDate = new Date();
-    lastDate.setMinutes(lastDate.getMinutes()+lastDate.getTimezoneOffset()+480);
+    lastDate.setMinutes(lastDate.getMinutes() + lastDate.getTimezoneOffset() + 480);
     return lastDate;
 }
 
