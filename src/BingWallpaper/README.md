@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 03月21日：你最喜欢什么颜色？
+#### 彩色粉笔（© Stephen Shepherd/Plainpicture）
+
+![你最喜欢什么颜色？](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_800x480.jpg&rf=LaDigue_800x480.jpg "你最喜欢什么颜色？")
+
+有光的地方，就有色彩，五彩缤纷的世界更具活力和个性。颜色如同音符，不同的颜色传达给人的感觉各不相同。蓝色让人感觉冷静镇定，紫色给人奢华之感，红色则代表激情或危险。国际色彩日这天，世界各地的色彩权威机构齐聚一堂，讨论颜色在工业、艺术、科学、设计等领域的研究应用。世界如此丰富多彩，你可以放慢脚步，细细欣赏品味周围的色彩，这些颜色可能会让你的生活充满惊喜。
+
+人眼通过视网膜中的锥细胞来识别各种颜色。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%bd%a9%e8%89%b2%e7%b2%89%e7%ac%94&form=hpcapt&filters=HpDate:"20230320_1600" "Bing Wallpaper 2023 3月 21")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230321_ColourDay"&FORM=HPQUIZ "必应主页测验 2023 3月 21")
+[下载480](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_800x480.jpg&rf=LaDigue_800x480.jpg "彩色粉笔")
+[下载720](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_1280x720.jpg&rf=LaDigue_1280x720.jpg "彩色粉笔")
+[下载1080](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "彩色粉笔")
+[下载UHD](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_UHD.jpg&rf=LaDigue_UHD.jpg "彩色粉笔")
+
+---
 ### 03月20日：春天的色彩
 #### 紫番红花（© Raimund Linke/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_1280x720.jpg&rf=LaDigue_1280x720.jpg "梯田鸟瞰图，元阳，中国")
 [下载1080](https://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "梯田鸟瞰图，元阳，中国")
 [下载UHD](https://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_UHD.jpg&rf=LaDigue_UHD.jpg "梯田鸟瞰图，元阳，中国")
-
----
-### 03月06日：这些独特的生物是什么?
-#### 站在自己领域的冰岛马，冰岛（© Rodrigo Lourezini/Shutterstock）
-
-![这些独特的生物是什么?](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_800x480.jpg&rf=LaDigue_800x480.jpg "这些独特的生物是什么?")
-
-冰岛马是在冰岛发现的一种小型马，也是地球上血统最纯的马种。这些独特的生物吸引了许多来自世界各地的马术爱好者。为了避免疾病在马匹之间传播，冰岛禁止进口马匹，并且冰岛马一旦出口就不能再回到冰岛。冰岛马的颜色非常丰富，有灰色、黑色、栗色等。它们通常在四岁后才能被骑乘，主要用于展示、竞赛和休闲活动。
-
-这是几匹来自北方的马。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%86%b0%e5%b2%9b%e9%a9%ac&form=hpcapt&filters=HpDate:"20230305_1600" "Bing Wallpaper 2023 3月 6")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230306_IcelandHorses"&FORM=HPQUIZ "必应主页测验 2023 3月 6")
-[下载480](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_800x480.jpg&rf=LaDigue_800x480.jpg "站在自己领域的冰岛马，冰岛")
-[下载720](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_1280x720.jpg&rf=LaDigue_1280x720.jpg "站在自己领域的冰岛马，冰岛")
-[下载1080](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "站在自己领域的冰岛马，冰岛")
-[下载UHD](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_UHD.jpg&rf=LaDigue_UHD.jpg "站在自己领域的冰岛马，冰岛")
 
 ---
