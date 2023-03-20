@@ -2,8 +2,14 @@ import {defaultTheme} from 'vuepress';
 import {searchPlugin} from '@vuepress/plugin-search';
 
 export default {
-    title: 'Bing Wallpaper 每天发现一个新地方',
+    title: '每天一张图 发现新世界',
     base: '/',
+    lang: 'zh-CN',
+    head: [
+        ['link', {rel: 'manifest', href: '/manifest.json'}],
+        ['script', {type: 'text/javascript', src: 'https://hm.baidu.com/hm.js?2a91493582a67de663331187b702cf8f'}],
+        ['script', {type: 'text/javascript', src: '/sw.js'}]
+    ],
     plugins: [
         searchPlugin({
             // 配置项
