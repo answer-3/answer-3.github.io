@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 03月22日：蜿蜒曲折的人工湖泊，鲍威尔湖
+#### 鲍威尔湖，美国（© Peter Schaefer/Alamy）
+
+![蜿蜒曲折的人工湖泊，鲍威尔湖](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_800x480.jpg&rf=LaDigue_800x480.jpg "蜿蜒曲折的人工湖泊，鲍威尔湖")
+
+鲍威尔湖是科罗拉多河上的一座人工水库，跨越犹他州和内华达州边境。19世纪60年代美国修建格伦峡谷大坝后形成了这个水库。大坝利用水力发电，但同时也因为湖面加大了水体的表面积，从而更多的水被蒸发，造成了水资源流失。2000年干旱来临时，鲍威尔湖的水位开始直线下降，到2005年时，鲍威尔湖的储水量几乎仅为1999年时的一半。人类对水资源是极度依赖的，因此联合国在1993年设立了世界水日，旨在通过教育和公益活动在政府和普通人群层面上建立起更好的用水措施。全球人口正在增长，我们每个人都必须为保护水资源和清洁水资源出一份力。
+
+鲍威尔湖位于科罗拉多河流域，是美国第二大人工湖。
+
+[Bing搜索](https://cn.bing.com/search?q=%e9%b2%8d%e5%a8%81%e5%b0%94%e6%b9%96&form=hpcapt&filters=HpDate:"20230321_1600" "Bing Wallpaper 2023 3月 22")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230322_LakePowellAerial"&FORM=HPQUIZ "必应主页测验 2023 3月 22")
+[下载480](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_800x480.jpg&rf=LaDigue_800x480.jpg "鲍威尔湖，美国")
+[下载720](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_1280x720.jpg&rf=LaDigue_1280x720.jpg "鲍威尔湖，美国")
+[下载1080](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "鲍威尔湖，美国")
+[下载UHD](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_UHD.jpg&rf=LaDigue_UHD.jpg "鲍威尔湖，美国")
+
+---
 ### 03月21日：你最喜欢什么颜色？
 #### 彩色粉笔（© Stephen Shepherd/Plainpicture）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_1280x720.jpg&rf=LaDigue_1280x720.jpg "极光展示，怀特霍斯，育空地区，加拿大")
 [下载1080](https://cn.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "极光展示，怀特霍斯，育空地区，加拿大")
 [下载UHD](https://cn.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_UHD.jpg&rf=LaDigue_UHD.jpg "极光展示，怀特霍斯，育空地区，加拿大")
-
----
-### 03月07日：彩虹般的风景
-#### 梯田鸟瞰图，元阳，中国（© AlexGcs/Getty Images）
-
-![彩虹般的风景](https://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_800x480.jpg&rf=LaDigue_800x480.jpg "彩虹般的风景")
-
-元阳梯田风景壮丽，已被联合国教科文组织列为世界文化遗产。这些壮观的梯田位于中国云南省，总面积约17万亩，有1300多年的历史。成片的梯田沿着哀牢山缓缓延伸，色彩丰富、景观壮丽，是摄影爱好者的“天堂”。元阳县远离城市的喧嚣，游客们可以放心享受这里的宁静。在这里，依然可以感受到原住民哈尼族延续了数百年的文化，绚丽多彩的服饰、传统的房屋，以及在田间劳作的水牛，它们共同构成了一幅极其动人的彩绘版画。
-
-元阳梯田位于红河哈尼梯田的核心区域，已有1300多年的历史。2013年，元阳梯田被联合国教科文组织列为世界文化遗产。
-
-[Bing搜索](https://cn.bing.com/search?q=%e4%b8%ad%e5%9b%bd%e5%85%83%e9%98%b3&form=hpcapt&filters=HpDate:"20230306_1600" "Bing Wallpaper 2023 3月 7")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230307_YuanyangChina"&FORM=HPQUIZ "必应主页测验 2023 3月 7")
-[下载480](https://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_800x480.jpg&rf=LaDigue_800x480.jpg "梯田鸟瞰图，元阳，中国")
-[下载720](https://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_1280x720.jpg&rf=LaDigue_1280x720.jpg "梯田鸟瞰图，元阳，中国")
-[下载1080](https://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "梯田鸟瞰图，元阳，中国")
-[下载UHD](https://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_UHD.jpg&rf=LaDigue_UHD.jpg "梯田鸟瞰图，元阳，中国")
 
 ---
