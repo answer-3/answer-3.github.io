@@ -1,19 +1,36 @@
 ## Bing Wallpaper(最近15天)
+### 03月25日：通往天堂的楼梯？
+#### 塞西尔布鲁尔楼梯，伦敦，英国（© Yiran An/Getty Images）
+
+![通往天堂的楼梯？](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_800x480.jpg&rf=LaDigue_800x480.jpg "通往天堂的楼梯？")
+
+今天照片里这令人惊艳的楼梯是塞西尔布鲁尔楼梯，它绝妙的建筑结构使其成为伦敦主要的旅游景点之一。它位于伦敦家具品牌Heal's（创立于1810年）的旗舰店中。Heal's品牌创始人的表弟塞西尔·布鲁尔设计了这个楼梯，通往商店的各个区域。楼梯外缘的灯带是二战后加装的，而中间由上至下层层叠叠的优雅吊灯则是2013年装上的。楼梯窗台上还有一只青铜猫咪，它是这家商店的官方吉祥物，非卖品哦。
+
+著名的塞西尔布鲁尔楼梯曾通往新曼萨德画廊。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%85%a8%e7%90%83%e5%88%9b%e6%84%8f%e6%a5%bc%e6%a2%af&form=hpcapt&filters=HpDate:"20230324_1600" "Bing Wallpaper 2023 3月 25")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230325_CecilBrewerStaircase"&FORM=HPQUIZ "必应主页测验 2023 3月 25")
+[下载480](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_800x480.jpg&rf=LaDigue_800x480.jpg "塞西尔布鲁尔楼梯，伦敦，英国")
+[下载720](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_1280x720.jpg&rf=LaDigue_1280x720.jpg "塞西尔布鲁尔楼梯，伦敦，英国")
+[下载1080](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "塞西尔布鲁尔楼梯，伦敦，英国")
+[下载UHD](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_UHD.jpg&rf=LaDigue_UHD.jpg "塞西尔布鲁尔楼梯，伦敦，英国")
+
+---
 ### 03月24日：你见过大蒜开花吗？
-#### 盛开的野蒜，海尼希国家公园，德国（© Frank Sommariva/Getty Images）
+#### 盛开的熊蒜，海尼希国家公园，德国（© Frank Sommariva/Getty Images）
 
-![你见过大蒜开花吗？](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_800x480.jpg&rf=LaDigue_800x480.jpg "你见过大蒜开花吗？")
+![你见过大蒜开花吗？](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_800x480.jpg&rf=LaDigue_800x480.jpg "你见过大蒜开花吗？")
 
-这些清新质朴的白花是野蒜花。在德国图林根州的海尼希国家公园，你可以近距离地欣赏这些野蒜花。海尼希国家公园创建于1997年，旨在保护这里古老的、郁郁葱葱的山毛榉森林。
+这些清新质朴的白花是熊蒜花。在德国图林根州的海尼希国家公园，你可以近距离地欣赏这些熊蒜花。海尼希国家公园创建于1997年，旨在保护这里古老的、郁郁葱葱的山毛榉森林。
 
 大蒜被认为具有丰富的药用价值，是一种非常受欢迎的食疗食材。
 
-[Bing搜索](https://cn.bing.com/search?q=%e9%87%8e%e8%92%9c&form=hpcapt&filters=HpDate:"20230323_1600" "Bing Wallpaper 2023 3月 24")
+[Bing搜索](https://cn.bing.com/search?q=%e7%86%8a%e8%92%9c&form=hpcapt&filters=HpDate:"20230323_1600" "Bing Wallpaper 2023 3月 24")
 [必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230324_WildGarlic"&FORM=HPQUIZ "必应主页测验 2023 3月 24")
-[下载480](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_800x480.jpg&rf=LaDigue_800x480.jpg "盛开的野蒜，海尼希国家公园，德国")
-[下载720](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_1280x720.jpg&rf=LaDigue_1280x720.jpg "盛开的野蒜，海尼希国家公园，德国")
-[下载1080](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "盛开的野蒜，海尼希国家公园，德国")
-[下载UHD](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_UHD.jpg&rf=LaDigue_UHD.jpg "盛开的野蒜，海尼希国家公园，德国")
+[下载480](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_800x480.jpg&rf=LaDigue_800x480.jpg "盛开的熊蒜，海尼希国家公园，德国")
+[下载720](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_1280x720.jpg&rf=LaDigue_1280x720.jpg "盛开的熊蒜，海尼希国家公园，德国")
+[下载1080](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "盛开的熊蒜，海尼希国家公园，德国")
+[下载UHD](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_UHD.jpg&rf=LaDigue_UHD.jpg "盛开的熊蒜，海尼希国家公园，德国")
 
 ---
 ### 03月23日：惊人的自然奇观
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.LongWharf_ZH-CN8793669955_1280x720.jpg&rf=LaDigue_1280x720.jpg "马萨诸塞州格洛斯特的沼泽地")
 [下载1080](https://cn.bing.com/th?id=OHR.LongWharf_ZH-CN8793669955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "马萨诸塞州格洛斯特的沼泽地")
 [下载UHD](https://cn.bing.com/th?id=OHR.LongWharf_ZH-CN8793669955_UHD.jpg&rf=LaDigue_UHD.jpg "马萨诸塞州格洛斯特的沼泽地")
-
----
-### 03月10日：巨人的谜题
-#### 埃代尔，峰区，英国（© John Finney/Getty Images）
-
-![巨人的谜题](https://cn.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_800x480.jpg&rf=LaDigue_800x480.jpg "巨人的谜题")
-
-埃代尔安静而隐蔽，正是步行者的天堂。这个风景如画的小村庄坐落在英国峰区国家公园，四周被群山环绕。埃代尔（Edale）这个名称的拼写方式最早的记录出现于1732年，此前，它在不同时期被拼写为“Aidele”“Eydale”“Eydal”和“Edall”。埃代尔是奔宁之路的起点，这条国家步道一直延伸到苏格兰。英格兰和威尔士的17条国家步道上都点缀着带有橡子形状标记的路标。如果你在该地区闲逛时看到了这种标记，请沿着这条路继续走，你肯定能收获一段风景优美的旅程。
-
-埃代尔是一个小村庄，它所在的位置是奔宁之路的起点和终点。奔宁之路是英国最出名的也是第一条长距离步道。
-
-[Bing搜索](https://cn.bing.com/search?q=%e8%8b%b1%e5%9b%bd%e5%b3%b0%e5%8c%ba&form=hpcapt&filters=HpDate:"20230309_1600" "Bing Wallpaper 2023 3月 10")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230310_EdaleValley"&FORM=HPQUIZ "必应主页测验 2023 3月 10")
-[下载480](https://cn.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_800x480.jpg&rf=LaDigue_800x480.jpg "埃代尔，峰区，英国")
-[下载720](https://cn.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_1280x720.jpg&rf=LaDigue_1280x720.jpg "埃代尔，峰区，英国")
-[下载1080](https://cn.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "埃代尔，峰区，英国")
-[下载UHD](https://cn.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_UHD.jpg&rf=LaDigue_UHD.jpg "埃代尔，峰区，英国")
 
 ---
