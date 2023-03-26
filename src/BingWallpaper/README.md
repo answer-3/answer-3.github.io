@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 03月27日：云雾缭绕的纽约市
+#### 云层中的纽约市天际线（© Orbon Alija/Getty Images）
+
+![云雾缭绕的纽约市](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_800x480.jpg&rf=LaDigue_800x480.jpg "云雾缭绕的纽约市")
+
+即使笼罩着朦胧雾气，纽约市的天际线也能一眼就被认出。美国最高的建筑中有八座都位于纽约曼哈顿区。帝国大厦也许是纽约最著名的大楼，曾连续36年都是世界上最高的建筑。而现在，世贸中心的一号楼因其高耸的塔尖成为了美国目前最高的建筑。纽约市的许多摩天大楼都是装饰艺术风格，如《周六夜现场》的录制地洛克菲勒广场30号大厦，以及装饰着镀铬合金老鹰及点缀的克莱斯勒大厦。来到纽约，你会忍不住不停抬头去仰望这些百年来的摩登奇迹。
+
+纽约市是美国人口最稠密的城市，有7000多座高度超35米的高楼大厦，其中至少有101座高度超过198米。
+
+[Bing搜索](https://cn.bing.com/search?q=%e7%ba%bd%e7%ba%a6%e5%b8%82%e6%91%a9%e5%a4%a9%e5%a4%a7%e6%a5%bc&form=hpcapt&filters=HpDate:"20230326_1600" "Bing Wallpaper 2023 3月 27")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230327_NYCClouds"&FORM=HPQUIZ "必应主页测验 2023 3月 27")
+[下载480](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_800x480.jpg&rf=LaDigue_800x480.jpg "云层中的纽约市天际线")
+[下载720](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_1280x720.jpg&rf=LaDigue_1280x720.jpg "云层中的纽约市天际线")
+[下载1080](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "云层中的纽约市天际线")
+[下载UHD](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_UHD.jpg&rf=LaDigue_UHD.jpg "云层中的纽约市天际线")
+
+---
 ### 03月26日：大自然最为色彩鲜艳的一面
 #### 安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国（© Ron and Patty Thomas/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.LionessesNap_ZH-CN9240393299_1280x720.jpg&rf=LaDigue_1280x720.jpg "正在睡觉的母狮, 塞伦盖蒂国家公园，坦桑利亚")
 [下载1080](https://cn.bing.com/th?id=OHR.LionessesNap_ZH-CN9240393299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "正在睡觉的母狮, 塞伦盖蒂国家公园，坦桑利亚")
 [下载UHD](https://cn.bing.com/th?id=OHR.LionessesNap_ZH-CN9240393299_UHD.jpg&rf=LaDigue_UHD.jpg "正在睡觉的母狮, 塞伦盖蒂国家公园，坦桑利亚")
-
----
-### 03月12日：波浪板起伏的绿丘
-#### 南唐斯国家公园的绵羊，东萨塞克斯郡，英国（© Slawek Staszczuk/Alamy）
-
-![波浪板起伏的绿丘](https://cn.bing.com/th?id=OHR.SouthDownsSheep_ZH-CN8986424729_800x480.jpg&rf=LaDigue_800x480.jpg "波浪板起伏的绿丘")
-
-这些标志性的、连绵起伏的绿色山丘是南唐斯国家公园的美景之一，它们横跨英国东南部的沿海郡。几个世纪以来，放牧的绵羊保持了这里低矮的草皮，也让这里成为了欧洲最繁荣的野生动物栖息地之一，野花和不同种类的蝴蝶在南唐斯的草原上繁衍生息。但如今，这种罕见的生态栖息地只覆盖了唐斯面积的约4%，原因是二战期间这里大部分土地都被用做了种植粮食。2010年，南唐斯国家公园成立，原因之一也是为了保护和重建唐斯的生态栖息地。
-
-绿丘起伏绵延至地平线，这是南唐斯国家公园的标志性景象之一。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%8d%97%e5%94%90%e6%96%af%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:"20230311_1600" "Bing Wallpaper 2023 3月 12")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230312_SouthDownsSheep"&FORM=HPQUIZ "必应主页测验 2023 3月 12")
-[下载480](https://cn.bing.com/th?id=OHR.SouthDownsSheep_ZH-CN8986424729_800x480.jpg&rf=LaDigue_800x480.jpg "南唐斯国家公园的绵羊，东萨塞克斯郡，英国")
-[下载720](https://cn.bing.com/th?id=OHR.SouthDownsSheep_ZH-CN8986424729_1280x720.jpg&rf=LaDigue_1280x720.jpg "南唐斯国家公园的绵羊，东萨塞克斯郡，英国")
-[下载1080](https://cn.bing.com/th?id=OHR.SouthDownsSheep_ZH-CN8986424729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "南唐斯国家公园的绵羊，东萨塞克斯郡，英国")
-[下载UHD](https://cn.bing.com/th?id=OHR.SouthDownsSheep_ZH-CN8986424729_UHD.jpg&rf=LaDigue_UHD.jpg "南唐斯国家公园的绵羊，东萨塞克斯郡，英国")
 
 ---
