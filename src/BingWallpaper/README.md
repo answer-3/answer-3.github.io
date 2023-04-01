@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月02日：这座缥缈的山在哪里？
+#### 爪哇岛东部的婆罗摩火山，印度尼西亚（© Bento Fotography/Getty Images）
+
+![这座缥缈的山在哪里？](https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_800x480.jpg&rf=LaDigue_800x480.jpg "这座缥缈的山在哪里？")
+
+婆罗摩火山是一座活跃的索玛火山，海拔约2393米，位于婆罗摩腾格里国家公园内，这里风景优美，日出景观尤为壮丽，是印度尼西亚爪哇岛东部最具标志性的景点之一。其名字来源于爪哇语“梵天”的发音，梵天是印度教的创造之神。
+
+婆罗摩（Bromo）这个名字来自于爪哇语“梵天”的发音，梵天是印度教的创造之神。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%a9%86%e7%bd%97%e6%91%a9%e7%81%ab%e5%b1%b1&form=hpcapt&filters=HpDate:"20230401_1600" "Bing Wallpaper 2023 4月 2")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230402_JavaBromo"&FORM=HPQUIZ "必应主页测验 2023 4月 2")
+[下载480](https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_800x480.jpg&rf=LaDigue_800x480.jpg "爪哇岛东部的婆罗摩火山，印度尼西亚")
+[下载720](https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1280x720.jpg&rf=LaDigue_1280x720.jpg "爪哇岛东部的婆罗摩火山，印度尼西亚")
+[下载1080](https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "爪哇岛东部的婆罗摩火山，印度尼西亚")
+[下载UHD](https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_UHD.jpg&rf=LaDigue_UHD.jpg "爪哇岛东部的婆罗摩火山，印度尼西亚")
+
+---
 ### 04月01日：一只青翠碧绿的蛙
 #### 爪哇树蛙（© kuritafsheen/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_1280x720.jpg&rf=LaDigue_1280x720.jpg "仓鸮，英格兰")
 [下载1080](https://cn.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "仓鸮，英格兰")
 [下载UHD](https://cn.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_UHD.jpg&rf=LaDigue_UHD.jpg "仓鸮，英格兰")
-
----
-### 03月18日：此景只应天上有
-#### 甘博阿陨击坑，火星（© NASA/JPL-Caltech/University of Arizona）
-
-![此景只应天上有](https://cn.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_800x480.jpg&rf=LaDigue_800x480.jpg "此景只应天上有")
-
-在火星上生存相当艰难，天气极寒、干燥，而且条件恶劣。火星上的平均温度约为零下62摄氏度，两极的温度甚至可能低至零下152摄氏度。但这颗行星上有许多峡谷、死火山和冰盖，远观还是很美的。火星勘测轨道飞行器发回的大多数照片都显示火星是一颗红色星球，这是因为火星表面有大量红色的赤铁矿，所以呈现橘红色。
-
-人类曾给火星上的风声录音。
-
-[Bing搜索](https://cn.bing.com/search?q=%e7%81%ab%e6%98%9f&form=hpcapt&filters=HpDate:"20230317_1600" "Bing Wallpaper 2023 3月 18")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230318_MarsTars"&FORM=HPQUIZ "必应主页测验 2023 3月 18")
-[下载480](https://cn.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_800x480.jpg&rf=LaDigue_800x480.jpg "甘博阿陨击坑，火星")
-[下载720](https://cn.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_1280x720.jpg&rf=LaDigue_1280x720.jpg "甘博阿陨击坑，火星")
-[下载1080](https://cn.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "甘博阿陨击坑，火星")
-[下载UHD](https://cn.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_UHD.jpg&rf=LaDigue_UHD.jpg "甘博阿陨击坑，火星")
 
 ---
