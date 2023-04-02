@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月03日：追逐彩虹
+#### 大岛上的霍瑙瑙国家历史公园，夏威夷（© Westend61/Getty Images）
+
+![追逐彩虹](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_800x480.jpg&rf=LaDigue_800x480.jpg "追逐彩虹")
+
+每年的4月3日是美国的国家寻找彩虹日。阳光穿过空中的小水珠时，小水珠就成了天然的透镜，这些彩色的奇观就产生了。彩虹是阳光的折射产生的，因此彩虹永远都在太阳的对面。
+
+当你在空中，比如在一家飞机上，你有可能会看到环形的彩虹。
+
+[Bing搜索](https://cn.bing.com/search?q=%e9%9c%8d%e7%91%99%e7%91%99%e5%9b%bd%e5%ae%b6%e5%8e%86%e5%8f%b2%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:"20230402_1600" "Bing Wallpaper 2023 4月 3")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230403_HonaunauNP"&FORM=HPQUIZ "必应主页测验 2023 4月 3")
+[下载480](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_800x480.jpg&rf=LaDigue_800x480.jpg "大岛上的霍瑙瑙国家历史公园，夏威夷")
+[下载720](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1280x720.jpg&rf=LaDigue_1280x720.jpg "大岛上的霍瑙瑙国家历史公园，夏威夷")
+[下载1080](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "大岛上的霍瑙瑙国家历史公园，夏威夷")
+[下载UHD](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_UHD.jpg&rf=LaDigue_UHD.jpg "大岛上的霍瑙瑙国家历史公园，夏威夷")
+
+---
 ### 04月02日：这座缥缈的山在哪里？
 #### 爪哇岛东部的婆罗摩火山，印度尼西亚（© Bento Fotography/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_1280x720.jpg&rf=LaDigue_1280x720.jpg "紫番红花")
 [下载1080](https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "紫番红花")
 [下载UHD](https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_UHD.jpg&rf=LaDigue_UHD.jpg "紫番红花")
-
----
-### 03月19日：用脸比心
-#### 仓鸮，英格兰（© Ondrej Prosicky/Getty Images）
-
-![用脸比心](https://cn.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_800x480.jpg&rf=LaDigue_800x480.jpg "用脸比心")
-
-仓鸮长着桃心形脸蛋，是世界上分布最广的鸟类之一。除了寒冷的南极洲，世界各地都有它们的身影。它们栖息于树林、峭壁、农场、城镇钟楼和谷仓附近。仓鸮是夜行动物，善于捕食老鼠。不过，由于它们的羽毛不防水，所以遇到下雨天就无法狩猎，这就意味着仓鸮很容易在长时间的恶劣天气中挨饿。仓鸮狩猎时会发出阴森可怕的声音，加之其神出鬼没，因此在英国被视为死亡的预兆，不过有些文化也视仓鸮为吉兆。
-
-仓鸮顶着一张标志性的“桃心脸”，大多数亚种呈白色。它们不像一般猫头鹰会咕咕的叫，但在捕捉猎物的时候会发出恐怖尖锐的声音。
-
-[Bing搜索](https://cn.bing.com/search?q=%e4%bb%93%e9%b8%ae&form=hpcapt&filters=HpDate:"20230318_1600" "Bing Wallpaper 2023 3月 19")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230319_BarnOwlWinter"&FORM=HPQUIZ "必应主页测验 2023 3月 19")
-[下载480](https://cn.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_800x480.jpg&rf=LaDigue_800x480.jpg "仓鸮，英格兰")
-[下载720](https://cn.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_1280x720.jpg&rf=LaDigue_1280x720.jpg "仓鸮，英格兰")
-[下载1080](https://cn.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "仓鸮，英格兰")
-[下载UHD](https://cn.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_UHD.jpg&rf=LaDigue_UHD.jpg "仓鸮，英格兰")
 
 ---
