@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月04日：这座古桥在哪呢？
+#### 科尔多瓦的古罗马桥，西班牙（© Jeremy Woodhouse/Getty Images）
+
+![这座古桥在哪呢？](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_800x480.jpg&rf=LaDigue_800x480.jpg "这座古桥在哪呢？")
+
+科尔多瓦的古罗马桥跨越瓜达尔基维尔河，是这座城市的一处历史地标。这座桥始建于公元前1世纪罗马帝国的扩张时期，在历史上曾被多次重建，目前这座桥的主体是在8世纪由阿拉伯人重建。虽然它已经承载了数个世纪的交通往来，但现在这座桥仅供行人通行。如果你觉得它很眼熟，可能是因为你曾在《权力的游戏》第五季中见过它，在剧中它是虚构的瓦兰提斯城的一部分。
+
+这座桥在历史上数次被翻新，现在只有它的第14和15个桥洞是罗马时期的。
+
+[Bing搜索](https://cn.bing.com/search?q=%e7%a7%91%e5%b0%94%e5%a4%9a%e7%93%a6&form=hpcapt&filters=HpDate:"20230403_1600" "Bing Wallpaper 2023 4月 4")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230404_RomanBridge"&FORM=HPQUIZ "必应主页测验 2023 4月 4")
+[下载480](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_800x480.jpg&rf=LaDigue_800x480.jpg "科尔多瓦的古罗马桥，西班牙")
+[下载720](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1280x720.jpg&rf=LaDigue_1280x720.jpg "科尔多瓦的古罗马桥，西班牙")
+[下载1080](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "科尔多瓦的古罗马桥，西班牙")
+[下载UHD](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_UHD.jpg&rf=LaDigue_UHD.jpg "科尔多瓦的古罗马桥，西班牙")
+
+---
 ### 04月03日：追逐彩虹
 #### 大岛上的霍瑙瑙国家历史公园，夏威夷（© Westend61/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_1280x720.jpg&rf=LaDigue_1280x720.jpg "彩色粉笔")
 [下载1080](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "彩色粉笔")
 [下载UHD](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_UHD.jpg&rf=LaDigue_UHD.jpg "彩色粉笔")
-
----
-### 03月20日：春天的色彩
-#### 紫番红花（© Raimund Linke/Getty Images）
-
-![春天的色彩](https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_800x480.jpg&rf=LaDigue_800x480.jpg "春天的色彩")
-
-每年3月20日或3月21日，太阳直射赤道，昼夜等长。在北半球，这一天被称为春分，意味着冬天结束，温暖明媚的春天已经来临，你可能会不经意间在路边发现一朵悄悄盛开的番红花。如同今天的照片，鲜艳美丽的紫番红花正在尽情绽放，它们是每年春天最早绽放的花卉之一。春分是一个北半球的节日。在中国，春分是传统节气之一。在伊朗，春分被称为诺鲁孜节，代表着新的一年开始。不过，在南半球，这一天则意味着秋天开始了，所以给你在阿根廷朋友们寄些毛衣吧。
-
-番红花色彩丰富，有紫色、薰衣草色、蓝色、橙色、黄色、白色等。
-
-[Bing搜索](https://cn.bing.com/search?q=%e7%b4%ab%e7%95%aa%e7%ba%a2%e8%8a%b1&form=hpcapt&filters=HpDate:"20230319_1600" "Bing Wallpaper 2023 3月 20")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230320_PurpleCrocus"&FORM=HPQUIZ "必应主页测验 2023 3月 20")
-[下载480](https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_800x480.jpg&rf=LaDigue_800x480.jpg "紫番红花")
-[下载720](https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_1280x720.jpg&rf=LaDigue_1280x720.jpg "紫番红花")
-[下载1080](https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "紫番红花")
-[下载UHD](https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_UHD.jpg&rf=LaDigue_UHD.jpg "紫番红花")
 
 ---
