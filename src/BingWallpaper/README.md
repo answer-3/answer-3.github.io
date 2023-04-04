@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月05日：水墨西湖
+#### 杭州西湖水墨意境般的风景，浙江省，中国（© zhangshuang/Getty Images）
+
+![水墨西湖](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_800x480.jpg&rf=LaDigue_800x480.jpg "水墨西湖")
+
+清明节，又称踏青节、行清节、三月节、祭祖节等，节期在仲春与暮春之交。清明节，兼具自然与人文两大内涵，既是“二十四节气”之一，也是传统祭祖节日。清明这一节气，万物皆洁齐、生气旺盛、吐故纳新、气温升高，大地呈现春和景明之象，正是郊外踏青春游与行清墓祭的好时节。
+
+西湖十景包括苏堤春晓、曲院风荷、平湖秋月、断桥残雪、花港观鱼、柳浪闻莺、三潭印月、双峰插云、雷峰夕照、南屏晚钟。
+
+[Bing搜索](https://cn.bing.com/search?q=%e6%b8%85%e6%98%8e%e8%8a%82&form=hpcapt&filters=HpDate:"20230404_1600" "Bing Wallpaper 2023 4月 5")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230405_QingMing2023"&FORM=HPQUIZ "必应主页测验 2023 4月 5")
+[下载480](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_800x480.jpg&rf=LaDigue_800x480.jpg "杭州西湖水墨意境般的风景，浙江省，中国")
+[下载720](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1280x720.jpg&rf=LaDigue_1280x720.jpg "杭州西湖水墨意境般的风景，浙江省，中国")
+[下载1080](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "杭州西湖水墨意境般的风景，浙江省，中国")
+[下载UHD](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_UHD.jpg&rf=LaDigue_UHD.jpg "杭州西湖水墨意境般的风景，浙江省，中国")
+
+---
 ### 04月04日：这座古桥在哪呢？
 #### 科尔多瓦的古罗马桥，西班牙（© Jeremy Woodhouse/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_1280x720.jpg&rf=LaDigue_1280x720.jpg "鲍威尔湖，美国")
 [下载1080](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "鲍威尔湖，美国")
 [下载UHD](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_UHD.jpg&rf=LaDigue_UHD.jpg "鲍威尔湖，美国")
-
----
-### 03月21日：你最喜欢什么颜色？
-#### 彩色粉笔（© Stephen Shepherd/Plainpicture）
-
-![你最喜欢什么颜色？](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_800x480.jpg&rf=LaDigue_800x480.jpg "你最喜欢什么颜色？")
-
-有光的地方，就有色彩，五彩缤纷的世界更具活力和个性。颜色如同音符，不同的颜色传达给人的感觉各不相同。蓝色让人感觉冷静镇定，紫色给人奢华之感，红色则代表激情或危险。国际色彩日这天，世界各地的色彩权威机构齐聚一堂，讨论颜色在工业、艺术、科学、设计等领域的研究应用。世界如此丰富多彩，你可以放慢脚步，细细欣赏品味周围的色彩，这些颜色可能会让你的生活充满惊喜。
-
-人眼通过视网膜中的锥细胞来识别各种颜色。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%bd%a9%e8%89%b2%e7%b2%89%e7%ac%94&form=hpcapt&filters=HpDate:"20230320_1600" "Bing Wallpaper 2023 3月 21")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230321_ColourDay"&FORM=HPQUIZ "必应主页测验 2023 3月 21")
-[下载480](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_800x480.jpg&rf=LaDigue_800x480.jpg "彩色粉笔")
-[下载720](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_1280x720.jpg&rf=LaDigue_1280x720.jpg "彩色粉笔")
-[下载1080](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "彩色粉笔")
-[下载UHD](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_UHD.jpg&rf=LaDigue_UHD.jpg "彩色粉笔")
 
 ---
