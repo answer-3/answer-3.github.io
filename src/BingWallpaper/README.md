@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月06日：亚利桑那州空中的粉月亮
+#### 月亮升起，图森，亚利桑那州，美国（© Tim Murphy/Shutterstock）
+
+![亚利桑那州空中的粉月亮](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_800x480.jpg&rf=LaDigue_800x480.jpg "亚利桑那州空中的粉月亮")
+
+夜空中的满月是动人心魄的。人类是如此为月亮着迷，北美地区甚至起了各种各样的名字描述它的不同状态：蓝月、蛋月、狩月、玫瑰月、海狸月等等等等。今天照片里展示的粉月就是亚利桑那州四月的第一轮满月，但这个粉色却并非是日期造成的。阳光从月表上反射后穿透地球大气层，大气中的灰尘、污染、烟雾和其他粒子散射月光，从而改变了月光的颜色，使其从白色或是蓝色变成了红色、橙色、黄色、或是粉色。当月亮低悬于空中时，月光需要穿透更厚的大气层，也就更有可能变为其他的颜色。也许是亚利桑那州沙漠的沙尘导致了这轮美丽的粉月吧。
+
+阳光穿透地球大气层时，紫、蓝、绿、黄光都被吸收，只剩下红光，从而形成了“血月”。
+
+[Bing搜索](https://cn.bing.com/search?q=%e7%b2%89%e7%ba%a2%e8%89%b2%e6%9c%88%e4%ba%ae&form=hpcapt&filters=HpDate:"20230405_1600" "Bing Wallpaper 2023 4月 6")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230406_ArizonaPinkMoon"&FORM=HPQUIZ "必应主页测验 2023 4月 6")
+[下载480](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_800x480.jpg&rf=LaDigue_800x480.jpg "月亮升起，图森，亚利桑那州，美国")
+[下载720](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_1280x720.jpg&rf=LaDigue_1280x720.jpg "月亮升起，图森，亚利桑那州，美国")
+[下载1080](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "月亮升起，图森，亚利桑那州，美国")
+[下载UHD](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_UHD.jpg&rf=LaDigue_UHD.jpg "月亮升起，图森，亚利桑那州，美国")
+
+---
 ### 04月05日：水墨西湖
 #### 杭州西湖水墨意境般的风景，浙江省，中国（© zhangshuang/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_1280x720.jpg&rf=LaDigue_1280x720.jpg "杜费里峡谷，上萨瓦省，法国")
 [下载1080](https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "杜费里峡谷，上萨瓦省，法国")
 [下载UHD](https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_UHD.jpg&rf=LaDigue_UHD.jpg "杜费里峡谷，上萨瓦省，法国")
-
----
-### 03月22日：蜿蜒曲折的人工湖泊，鲍威尔湖
-#### 鲍威尔湖，美国（© Peter Schaefer/Alamy）
-
-![蜿蜒曲折的人工湖泊，鲍威尔湖](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_800x480.jpg&rf=LaDigue_800x480.jpg "蜿蜒曲折的人工湖泊，鲍威尔湖")
-
-鲍威尔湖是科罗拉多河上的一座人工水库，跨越犹他州和内华达州边境。19世纪60年代美国修建格伦峡谷大坝后形成了这个水库。大坝利用水力发电，但同时也因为湖面加大了水体的表面积，从而更多的水被蒸发，造成了水资源流失。2000年干旱来临时，鲍威尔湖的水位开始直线下降，到2005年时，鲍威尔湖的储水量几乎仅为1999年时的一半。人类对水资源是极度依赖的，因此联合国在1993年设立了世界水日，旨在通过教育和公益活动在政府和普通人群层面上建立起更好的用水措施。全球人口正在增长，我们每个人都必须为保护水资源和清洁水资源出一份力。
-
-鲍威尔湖位于科罗拉多河流域，是美国第二大人工湖。
-
-[Bing搜索](https://cn.bing.com/search?q=%e9%b2%8d%e5%a8%81%e5%b0%94%e6%b9%96&form=hpcapt&filters=HpDate:"20230321_1600" "Bing Wallpaper 2023 3月 22")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230322_LakePowellAerial"&FORM=HPQUIZ "必应主页测验 2023 3月 22")
-[下载480](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_800x480.jpg&rf=LaDigue_800x480.jpg "鲍威尔湖，美国")
-[下载720](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_1280x720.jpg&rf=LaDigue_1280x720.jpg "鲍威尔湖，美国")
-[下载1080](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "鲍威尔湖，美国")
-[下载UHD](https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_UHD.jpg&rf=LaDigue_UHD.jpg "鲍威尔湖，美国")
 
 ---
