@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月07日：两只饥饿的小河狸
+#### 欧亚河狸宝宝，芬兰（© Danny Green/Minden Pictures）
+
+![两只饥饿的小河狸](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_800x480.jpg&rf=LaDigue_800x480.jpg "两只饥饿的小河狸")
+
+今天照片里的是两只可爱的河狸。河狸虽长得可爱，却是天生的工程师，它们用巨大的门牙啃食树木，然后用树枝建造水坝和小屋。它们利用小屋来躲避捕食者、储存食物、休养生息，以及保护幼崽。小屋入口的水位很低，所以当河狸在下游建造水坝时，小屋会被淹没一部分——这样其实提供了额外的保护。从水下进入小屋对河狸并非难事，因为它们可以屏住呼吸长达15分钟。河狸的桨状尾巴可以帮助它们游泳，还可以拍打水面或地面，以警告其他同伴有捕食者出现。今天是国际河狸日，让我们向这种奇妙的哺乳动物致敬吧。
+
+一只欧亚河狸平均要每天吃掉重量为其体重20%的食物。
+
+[Bing搜索](https://cn.bing.com/search?q=%e6%ac%a7%e4%ba%9a%e6%b2%b3%e7%8b%b8&form=hpcapt&filters=HpDate:"20230406_1600" "Bing Wallpaper 2023 4月 7")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230407_KitsAspen"&FORM=HPQUIZ "必应主页测验 2023 4月 7")
+[下载480](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_800x480.jpg&rf=LaDigue_800x480.jpg "欧亚河狸宝宝，芬兰")
+[下载720](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_1280x720.jpg&rf=LaDigue_1280x720.jpg "欧亚河狸宝宝，芬兰")
+[下载1080](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "欧亚河狸宝宝，芬兰")
+[下载UHD](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_UHD.jpg&rf=LaDigue_UHD.jpg "欧亚河狸宝宝，芬兰")
+
+---
 ### 04月06日：亚利桑那州空中的粉月亮
 #### 月亮升起，图森，亚利桑那州，美国（© Tim Murphy/Shutterstock）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_1280x720.jpg&rf=LaDigue_1280x720.jpg "盛开的熊蒜，海尼希国家公园，德国")
 [下载1080](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "盛开的熊蒜，海尼希国家公园，德国")
 [下载UHD](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_UHD.jpg&rf=LaDigue_UHD.jpg "盛开的熊蒜，海尼希国家公园，德国")
-
----
-### 03月23日：惊人的自然奇观
-#### 杜费里峡谷，上萨瓦省，法国（© Jean-Philippe Delobelle/Biosphoto/Alamy）
-
-![惊人的自然奇观](https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_800x480.jpg&rf=LaDigue_800x480.jpg "惊人的自然奇观")
-
-杜费里峡谷是法国上萨瓦省的一处惊人的自然奇观：它是一个极为狭窄且深邃的峡谷，经由一条悬挂于山崖边的栈道便可抵达。
-
-杜费里峡谷是法国阿尔卑斯山脉中最壮观的自然景观之一，游客可以通过一座长约250米、横跨激流之上25米高的栈桥到达这里。
-
-[Bing搜索](https://cn.bing.com/search?q=%e6%9d%9c%e8%b4%b9%e9%87%8c%e5%b3%a1%e8%b0%b7&form=hpcapt&filters=HpDate:"20230322_1600" "Bing Wallpaper 2023 3月 23")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230323_ChavarocheWinter"&FORM=HPQUIZ "必应主页测验 2023 3月 23")
-[下载480](https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_800x480.jpg&rf=LaDigue_800x480.jpg "杜费里峡谷，上萨瓦省，法国")
-[下载720](https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_1280x720.jpg&rf=LaDigue_1280x720.jpg "杜费里峡谷，上萨瓦省，法国")
-[下载1080](https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "杜费里峡谷，上萨瓦省，法国")
-[下载UHD](https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_UHD.jpg&rf=LaDigue_UHD.jpg "杜费里峡谷，上萨瓦省，法国")
 
 ---
