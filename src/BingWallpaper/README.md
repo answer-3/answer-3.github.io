@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月10日：强大的亲缘纽带
+#### 安博塞利国家公园的大象，肯尼亚（© Diana Robinson/Getty Images）
+
+![强大的亲缘纽带](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_800x480.jpg&rf=LaDigue_800x480.jpg "强大的亲缘纽带")
+
+每年的4月10日，美国的部分地区会庆祝兄弟姐妹日。1995年，幼年就失去兄弟姐妹的克劳迪娅·埃瓦特创造了这个节日，并成立了兄弟姐妹日基金会。这个基金会现正致力于让兄弟姐妹日得到美国官方认证，拥有与母亲节和父亲节同等的地位。印度的保护节（又名手镯节）是最古老的兄弟姐妹节日，时间通常在每年的八月，至今仍然广为流行。印度妇女会在这一天给她们兄弟的手腕上系上一条带子，来作为彼此关心尊重的标志。你如果觉得这种仪式过于隆重，打个电话也能传达你的关心哦。
+
+在美国，大约80%的人都有兄弟姐妹。今天这个节日就是为了纪念兄弟姐妹之间的情谊。
+
+[Bing搜索](https://cn.bing.com/search?q=%e9%9d%9e%e6%b4%b2%e5%a4%a7%e8%b1%a1&form=hpcapt&filters=HpDate:"20230409_1600" "Bing Wallpaper 2023 4月 10")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230410_ElephantTwins"&FORM=HPQUIZ "必应主页测验 2023 4月 10")
+[下载480](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_800x480.jpg&rf=LaDigue_800x480.jpg "安博塞利国家公园的大象，肯尼亚")
+[下载720](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_1280x720.jpg&rf=LaDigue_1280x720.jpg "安博塞利国家公园的大象，肯尼亚")
+[下载1080](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "安博塞利国家公园的大象，肯尼亚")
+[下载UHD](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_UHD.jpg&rf=LaDigue_UHD.jpg "安博塞利国家公园的大象，肯尼亚")
+
+---
 ### 04月09日：装饰华丽的复活节彩蛋
 #### 复活节彩蛋（© fotomem/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_1280x720.jpg&rf=LaDigue_1280x720.jpg "云层中的纽约市天际线")
 [下载1080](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "云层中的纽约市天际线")
 [下载UHD](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_UHD.jpg&rf=LaDigue_UHD.jpg "云层中的纽约市天际线")
-
----
-### 03月26日：大自然最为色彩鲜艳的一面
-#### 安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国（© Ron and Patty Thomas/Getty Images）
-
-![大自然最为色彩鲜艳的一面](https://cn.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_800x480.jpg&rf=LaDigue_800x480.jpg "大自然最为色彩鲜艳的一面")
-
-欢迎来到美国加州最大的沙漠州立公园——安沙波利哥。这个公园以烂漫春花和自然奇观而闻名。初夏是游览的最佳时节，漫山遍野都是各种野花、植物和仙人掌。这些野花为原本贫瘠的沙漠景观增添了色彩，吸引大批游客的到来。尽管你可能会想摘一些回家，但野花受到加州法律的保护，再说美景也不应私藏，而应大家共赏。
-
-这个公园有天然的溪泉和绿洲，还有加州唯一的本土棕榈——加州扇形棕榈。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%ae%89%e6%b2%99%e6%b3%a2%e5%88%a9%e5%93%a5%e6%b2%99%e6%bc%a0%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:"20230325_1600" "Bing Wallpaper 2023 3月 26")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230326_WildAnza"&FORM=HPQUIZ "必应主页测验 2023 3月 26")
-[下载480](https://cn.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_800x480.jpg&rf=LaDigue_800x480.jpg "安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国")
-[下载720](https://cn.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_1280x720.jpg&rf=LaDigue_1280x720.jpg "安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国")
-[下载1080](https://cn.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国")
-[下载UHD](https://cn.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_UHD.jpg&rf=LaDigue_UHD.jpg "安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国")
 
 ---
