@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月11日：这个隐秘的瀑布在哪里？
+#### 哥伦比亚河峡谷，俄勒冈州，美国（© Chase Dekker Wild-Life Images/Getty Images）
+
+![这个隐秘的瀑布在哪里？](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_800x480.jpg&rf=LaDigue_800x480.jpg "这个隐秘的瀑布在哪里？")
+
+俄勒冈州的哥伦比亚河峡谷中有大约90个瀑布，苔藓石窟瀑布就是其中一个高20英尺的迷你瀑布。苔藓石窟瀑布于2006年被发现，经由几位著名摄影师而名声大噪。与幽雅清静、潺潺作响的苔藓岩洞瀑布形成鲜明对比的，是世界上最高的瀑布——委内瑞拉的天使瀑布，其落差高达2648英尺，汹涌咆哮的奇观令人惊叹，是委内瑞拉最吸引游客的景点之一。如果你想要放松沉思片刻，建议寻找距离最近的瀑布，然后踏上亲近大自然的旅程吧。
+
+苔藓石窟瀑布距离哥伦比亚河峡谷的鲁克尔溪步道仅300英尺，但想要靠近却并非易事。尽管一路湿滑，尽头的美景绝对让你不虚此行。
+
+[Bing搜索](https://cn.bing.com/search?q=%e4%bf%84%e5%8b%92%e5%86%88%e5%b7%9e%e5%93%a5%e4%bc%a6%e6%af%94%e4%ba%9a%e6%b2%b3%e5%b3%a1%e8%b0%b7&form=hpcapt&filters=HpDate:"20230410_1600" "Bing Wallpaper 2023 4月 11")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230411_MossyGrottoFalls"&FORM=HPQUIZ "必应主页测验 2023 4月 11")
+[下载480](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_800x480.jpg&rf=LaDigue_800x480.jpg "哥伦比亚河峡谷，俄勒冈州，美国")
+[下载720](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_1280x720.jpg&rf=LaDigue_1280x720.jpg "哥伦比亚河峡谷，俄勒冈州，美国")
+[下载1080](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "哥伦比亚河峡谷，俄勒冈州，美国")
+[下载UHD](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_UHD.jpg&rf=LaDigue_UHD.jpg "哥伦比亚河峡谷，俄勒冈州，美国")
+
+---
 ### 04月10日：强大的亲缘纽带
 #### 安博塞利国家公园的大象，肯尼亚（© Diana Robinson/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_1280x720.jpg&rf=LaDigue_1280x720.jpg "意大利三峰山上空的银河")
 [下载1080](https://cn.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "意大利三峰山上空的银河")
 [下载UHD](https://cn.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_UHD.jpg&rf=LaDigue_UHD.jpg "意大利三峰山上空的银河")
-
----
-### 03月27日：云雾缭绕的纽约市
-#### 云层中的纽约市天际线（© Orbon Alija/Getty Images）
-
-![云雾缭绕的纽约市](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_800x480.jpg&rf=LaDigue_800x480.jpg "云雾缭绕的纽约市")
-
-即使笼罩着朦胧雾气，纽约市的天际线也能一眼就被认出。美国最高的建筑中有八座都位于纽约曼哈顿区。帝国大厦也许是纽约最著名的大楼，曾连续36年都是世界上最高的建筑。而现在，世贸中心的一号楼因其高耸的塔尖成为了美国目前最高的建筑。纽约市的许多摩天大楼都是装饰艺术风格，如《周六夜现场》的录制地洛克菲勒广场30号大厦，以及装饰着镀铬合金老鹰及点缀的克莱斯勒大厦。来到纽约，你会忍不住不停抬头去仰望这些百年来的摩登奇迹。
-
-纽约市是美国人口最稠密的城市，有7000多座高度超35米的高楼大厦，其中至少有101座高度超过198米。
-
-[Bing搜索](https://cn.bing.com/search?q=%e7%ba%bd%e7%ba%a6%e5%b8%82%e6%91%a9%e5%a4%a9%e5%a4%a7%e6%a5%bc&form=hpcapt&filters=HpDate:"20230326_1600" "Bing Wallpaper 2023 3月 27")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230327_NYCClouds"&FORM=HPQUIZ "必应主页测验 2023 3月 27")
-[下载480](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_800x480.jpg&rf=LaDigue_800x480.jpg "云层中的纽约市天际线")
-[下载720](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_1280x720.jpg&rf=LaDigue_1280x720.jpg "云层中的纽约市天际线")
-[下载1080](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "云层中的纽约市天际线")
-[下载UHD](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_UHD.jpg&rf=LaDigue_UHD.jpg "云层中的纽约市天际线")
 
 ---
