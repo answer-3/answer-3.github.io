@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月12日：此景只应天上有
+#### 从国际空间站拍摄的地球（© Tim Peake/ESA/NASA via Getty Images）
+
+![此景只应天上有](https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_800x480.jpg&rf=LaDigue_800x480.jpg "此景只应天上有")
+
+1961年4月12日，宇航员尤里·加加林成为人类历史上前往太空的第一人，举世震惊。他乘坐“东方太空3KA”号，在两小时之内完成了绕地球一周的飞行。此后不到一个月的时间，水星计划的宇航员艾伦·谢泼德成功飞往太空，成为第一个进入太空的美国人。今天这张照片向我们展示了从国际空间站拍摄的地球，从太空回望地球的风景，依然魅力十足，星光璀璨俨然一副艺术品。每年的4月12日，是纪念加加林的“尤里之夜”，也被称为“世界太空派对”，这一天是全球天文学爱好者的狂欢。
+
+铁元素构成了地球的核心
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%9c%b0%e7%90%83&form=hpcapt&filters=HpDate:"20230411_1600" "Bing Wallpaper 2023 4月 12")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230412_EuropeFromISS"&FORM=HPQUIZ "必应主页测验 2023 4月 12")
+[下载480](https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_800x480.jpg&rf=LaDigue_800x480.jpg "从国际空间站拍摄的地球")
+[下载720](https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_1280x720.jpg&rf=LaDigue_1280x720.jpg "从国际空间站拍摄的地球")
+[下载1080](https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "从国际空间站拍摄的地球")
+[下载UHD](https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_UHD.jpg&rf=LaDigue_UHD.jpg "从国际空间站拍摄的地球")
+
+---
 ### 04月11日：这个隐秘的瀑布在哪里？
 #### 哥伦比亚河峡谷，俄勒冈州，美国（© Chase Dekker Wild-Life Images/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_1280x720.jpg&rf=LaDigue_1280x720.jpg "两只海牛，佛罗里达州的水晶河，美国")
 [下载1080](https://cn.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "两只海牛，佛罗里达州的水晶河，美国")
 [下载UHD](https://cn.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_UHD.jpg&rf=LaDigue_UHD.jpg "两只海牛，佛罗里达州的水晶河，美国")
-
----
-### 03月28日：这些蔚为壮观的山峰在何处？
-#### 意大利三峰山上空的银河（© Juan Romero/Cavan Images）
-
-![这些蔚为壮观的山峰在何处？](https://cn.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_800x480.jpg&rf=LaDigue_800x480.jpg "这些蔚为壮观的山峰在何处？")
-
-这三座位于意大利多洛米蒂山脉的山峰被称为三峰山。这片群山是阿尔卑斯山最著名的景点之一，世界各地的游客都来这里徒步旅行。你可以从各个角度欣赏壮丽的山峰，到了夏天，你还能看到漫山的野花。如果你想在月光下徒步或露营，一定要提前计划，为5小时的行程准备充足的水和零食。2009年，三峰山和整个多洛米蒂山脉一起被联合国教科文组织列为世界遗产。
-
-阿尔卑斯山脉繁花似锦，像风铃草、火绒草和龙胆草等植物都在这里茁壮生长。
-
-[Bing搜索](https://cn.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e4%b8%89%e5%b3%b0%e5%b1%b1&form=hpcapt&filters=HpDate:"20230327_1600" "Bing Wallpaper 2023 3月 28")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230328_MWDolomites"&FORM=HPQUIZ "必应主页测验 2023 3月 28")
-[下载480](https://cn.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_800x480.jpg&rf=LaDigue_800x480.jpg "意大利三峰山上空的银河")
-[下载720](https://cn.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_1280x720.jpg&rf=LaDigue_1280x720.jpg "意大利三峰山上空的银河")
-[下载1080](https://cn.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "意大利三峰山上空的银河")
-[下载UHD](https://cn.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_UHD.jpg&rf=LaDigue_UHD.jpg "意大利三峰山上空的银河")
 
 ---
