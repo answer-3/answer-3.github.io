@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月13日：徒步旅行者的向往之地
+#### 斯诺登尼亚国家公园，威尔士，英国（© Sebastian Wasek/eStock Photo）
+
+![徒步旅行者的向往之地](https://cn.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_800x480.jpg&rf=LaDigue_800x480.jpg "徒步旅行者的向往之地")
+
+斯诺登尼亚国家公园占地2155平方公里，拥有迷人的风景和96公里的海岸线，徒步于此就像在听一篇漫长的童话故事，脚下的路满是传说。亚瑟王、梅林、沉睡的龙和失落的神秘宝物等传说和神话交织在公园小径中，给予徒步者丰富而美妙的体验。在许多方面，斯诺登尼亚国家公园完美代表了威尔士文化、人民和传统，这无疑是对威尔士本质的一种赞美。
+
+斯诺登尼亚国家公园的整个海岸线都属于特殊保护区，蜿蜒漫长的海岸线从丽茵半岛一直延伸至威尔士中部海岸。
+
+[Bing搜索](https://cn.bing.com/search?q=%e6%96%af%e8%af%ba%e7%99%bb%e5%b0%bc%e4%ba%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:"20230412_1600" "Bing Wallpaper 2023 4月 13")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230413_SnowdoniaNational"&FORM=HPQUIZ "必应主页测验 2023 4月 13")
+[下载480](https://cn.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_800x480.jpg&rf=LaDigue_800x480.jpg "斯诺登尼亚国家公园，威尔士，英国")
+[下载720](https://cn.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1280x720.jpg&rf=LaDigue_1280x720.jpg "斯诺登尼亚国家公园，威尔士，英国")
+[下载1080](https://cn.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "斯诺登尼亚国家公园，威尔士，英国")
+[下载UHD](https://cn.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_UHD.jpg&rf=LaDigue_UHD.jpg "斯诺登尼亚国家公园，威尔士，英国")
+
+---
 ### 04月12日：此景只应天上有
 #### 从国际空间站拍摄的地球（© Tim Peake/ESA/NASA via Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_1280x720.jpg&rf=LaDigue_1280x720.jpg "孔雀羽毛")
 [下载1080](https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "孔雀羽毛")
 [下载UHD](https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_UHD.jpg&rf=LaDigue_UHD.jpg "孔雀羽毛")
-
----
-### 03月29日：世界海牛日
-#### 两只海牛，佛罗里达州的水晶河，美国（© Gregory Sweeney/Getty Images）
-
-![世界海牛日](https://cn.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_800x480.jpg&rf=LaDigue_800x480.jpg "世界海牛日")
-
-今天是世界海牛日，这个节日旨在让更多人关注这些温柔的哺乳动物。海牛天性温和，喜欢待在河流及沿海水域优哉游哉地吃草。它们食量惊人，每天进食长达7个小时，吃掉的水草相当于体重的10-15%，被称为“水中除草机”。海牛好奇心强，也很喜欢接近人类，因此有时可能会意外触船导致受伤。20世纪70年代，海牛在美国的数量减少至几百只，但大力保护下，它们的数量已恢复至6000多只。如果还想在未来的岁月里欣赏它们，就请好好保护这些脆弱的生物吧！
-
-海牛一直都与美人鱼的传说联系在一起。西非的民间传说认为海牛是神圣的、并且它们曾经是人类。
-
-[Bing搜索](https://cn.bing.com/search?q=%e6%b5%b7%e7%89%9b&form=hpcapt&filters=HpDate:"20230328_1600" "Bing Wallpaper 2023 3月 29")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230329_NuzzleManatee"&FORM=HPQUIZ "必应主页测验 2023 3月 29")
-[下载480](https://cn.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_800x480.jpg&rf=LaDigue_800x480.jpg "两只海牛，佛罗里达州的水晶河，美国")
-[下载720](https://cn.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_1280x720.jpg&rf=LaDigue_1280x720.jpg "两只海牛，佛罗里达州的水晶河，美国")
-[下载1080](https://cn.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "两只海牛，佛罗里达州的水晶河，美国")
-[下载UHD](https://cn.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_UHD.jpg&rf=LaDigue_UHD.jpg "两只海牛，佛罗里达州的水晶河，美国")
 
 ---
