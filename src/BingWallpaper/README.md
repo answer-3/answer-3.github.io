@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月14日：日光下的星星
+#### 红海星, 地中海（© Hans Leijnse/Minden Pictures）
+
+![日光下的星星](https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_800x480.jpg&rf=LaDigue_800x480.jpg "日光下的星星")
+
+海星，又称星鱼，是最迷人的海洋生物之一。首先，虽然其名称叫“星鱼”，但实际上根本不是鱼，它们属于海洋无脊椎动物中的棘皮动物。海星的身体是五角星状的，多条“臂”从身体中央延伸出来，呈辐射对称状。
+
+红海星被认为是一个关键物种，因为它们没有天敌。
+
+[Bing搜索](https://cn.bing.com/search?q=%e7%ba%a2%e6%b5%b7%e6%98%9f&form=hpcapt&filters=HpDate:"20230413_1600" "Bing Wallpaper 2023 4月 14")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230414_RedSeaStars"&FORM=HPQUIZ "必应主页测验 2023 4月 14")
+[下载480](https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_800x480.jpg&rf=LaDigue_800x480.jpg "红海星, 地中海")
+[下载720](https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1280x720.jpg&rf=LaDigue_1280x720.jpg "红海星, 地中海")
+[下载1080](https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "红海星, 地中海")
+[下载UHD](https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_UHD.jpg&rf=LaDigue_UHD.jpg "红海星, 地中海")
+
+---
 ### 04月13日：徒步旅行者的向往之地
 #### 斯诺登尼亚国家公园，威尔士，英国（© Sebastian Wasek/eStock Photo）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_1280x720.jpg&rf=LaDigue_1280x720.jpg "斯太尔河, 奥地利")
 [下载1080](https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "斯太尔河, 奥地利")
 [下载UHD](https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_UHD.jpg&rf=LaDigue_UHD.jpg "斯太尔河, 奥地利")
-
----
-### 03月30日：华贵的色彩
-#### 孔雀羽毛（© sarayut Thaneerat/Getty Images）
-
-![华贵的色彩](https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_800x480.jpg&rf=LaDigue_800x480.jpg "华贵的色彩")
-
-孔雀或许是世界上最色彩斑斓的鸟类。当雄孔雀开屏求偶时，尾羽上的“伪眼”会反射出鲜艳夺目的光泽，以此来吸引雌孔雀。孔雀羽毛迷人的色彩并非来自色素，而是来自羽毛内部的光子晶体结构，也就是“结构色”。结构色十分华丽，能随视角和条件变幻。当交配季节结束，雄孔雀的尾羽就会开始脱落，这正是收集这些漂亮羽毛的好时候。
-
-大多数孔雀在三岁时成熟，当雌孔雀跟雄孔雀交配以后，雄孔雀尾上的羽毛就会开始脱落。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%ad%94%e9%9b%80%e7%be%bd%e6%af%9b&form=hpcapt&filters=HpDate:"20230329_1600" "Bing Wallpaper 2023 3月 30")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230330_PeacockFeathers"&FORM=HPQUIZ "必应主页测验 2023 3月 30")
-[下载480](https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_800x480.jpg&rf=LaDigue_800x480.jpg "孔雀羽毛")
-[下载720](https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_1280x720.jpg&rf=LaDigue_1280x720.jpg "孔雀羽毛")
-[下载1080](https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "孔雀羽毛")
-[下载UHD](https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_UHD.jpg&rf=LaDigue_UHD.jpg "孔雀羽毛")
 
 ---
