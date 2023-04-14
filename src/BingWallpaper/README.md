@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月15日：宏伟的堡垒和宫殿
+#### 从纳哈加尔城堡鸟瞰斋浦尔，印度（© Sean3810/iStock/Getty Images Plus）
+
+![宏伟的堡垒和宫殿](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_800x480.jpg&rf=LaDigue_800x480.jpg "宏伟的堡垒和宫殿")
+
+纳哈加尔堡矗立于阿拉瓦利山脉的一座山脊上，为斋浦尔增添了一道雄伟而壮丽的背景。它始建于1734年，又于1868年经历了扩建。纳哈加尔，意为老虎的住所，如同强大的壁垒，保卫斋浦尔抵御敌人的攻击。
+
+纳哈加尔堡原本是防御城堡，但它从未遭遇过敌人的攻击。架在城堡上的野战炮也从未用于战争，倒是曾用于报时。
+
+[Bing搜索](https://cn.bing.com/search?q=%e7%ba%b3%e5%93%88%e5%8a%a0%e5%b0%94%e5%9f%8e%e5%a0%a1&form=hpcapt&filters=HpDate:"20230414_1600" "Bing Wallpaper 2023 4月 15")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230415_NahargarhFort"&FORM=HPQUIZ "必应主页测验 2023 4月 15")
+[下载480](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_800x480.jpg&rf=LaDigue_800x480.jpg "从纳哈加尔城堡鸟瞰斋浦尔，印度")
+[下载720](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1280x720.jpg&rf=LaDigue_1280x720.jpg "从纳哈加尔城堡鸟瞰斋浦尔，印度")
+[下载1080](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "从纳哈加尔城堡鸟瞰斋浦尔，印度")
+[下载UHD](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_UHD.jpg&rf=LaDigue_UHD.jpg "从纳哈加尔城堡鸟瞰斋浦尔，印度")
+
+---
 ### 04月14日：日光下的星星
 #### 红海星, 地中海（© Hans Leijnse/Minden Pictures）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_1280x720.jpg&rf=LaDigue_1280x720.jpg "爪哇树蛙")
 [下载1080](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "爪哇树蛙")
 [下载UHD](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_UHD.jpg&rf=LaDigue_UHD.jpg "爪哇树蛙")
-
----
-### 03月31日：大自然的蓝色奇观
-#### 斯太尔河, 奥地利（© guenterguni/Getty Images）
-
-![大自然的蓝色奇观](https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_800x480.jpg&rf=LaDigue_800x480.jpg "大自然的蓝色奇观")
-
-今天这张照片并未经过调色，奥地利斯太尔河的水真的就是这般湛蓝。斯太尔河流经托特斯山脉，当地植被稀少，那为什么斯太尔河还能如此清澈湛蓝？答案就在环绕斯太尔河谷的群山之中。雨水和融化的雪水流入斯太尔河后，其中较重的沉积物沉到水底，而较细的沉积物则会悬浮在水中。被沉积物散射或反射的阳光就赋予了河水这样鲜艳的蓝色。
-
-斯太尔河位于下奥地利阿尔卑斯山脉地区，流经斯太尔市附近的格伦堡镇。
-
-[Bing搜索](https://cn.bing.com/search?q=%e6%96%af%e5%a4%aa%e5%b0%94%e6%b2%b3+%e5%a5%a5%e5%9c%b0%e5%88%a9&form=hpcapt&filters=HpDate:"20230330_1600" "Bing Wallpaper 2023 3月 31")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230331_SteyrRiver"&FORM=HPQUIZ "必应主页测验 2023 3月 31")
-[下载480](https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_800x480.jpg&rf=LaDigue_800x480.jpg "斯太尔河, 奥地利")
-[下载720](https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_1280x720.jpg&rf=LaDigue_1280x720.jpg "斯太尔河, 奥地利")
-[下载1080](https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "斯太尔河, 奥地利")
-[下载UHD](https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_UHD.jpg&rf=LaDigue_UHD.jpg "斯太尔河, 奥地利")
 
 ---
