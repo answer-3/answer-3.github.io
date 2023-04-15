@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月16日：去放风筝吧！
+#### 阿德莱德国际风筝节，澳大利亚（© Andrey Moisseyev/Alamy）
+
+![去放风筝吧！](https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_800x480.jpg&rf=LaDigue_800x480.jpg "去放风筝吧！")
+
+在风和日丽的日子里放风筝，还有比这更简单的快乐吗？风筝这项神奇的发明具体源于何时尚未可知，但关于放风筝的第一份书面记录来自公元前200年的中国。中国最初使用风筝来测量距离，但是随着时间的推移，它们逐渐被用于钓鱼、运动、科学、庆祝及各项娱乐活动。风筝有很多形状，也有各种材料。其实你自己就可以制作简单的风筝，找个风和日丽的日子，放风筝去吧！
+
+风筝不止能飞天，还能潜水，“水下风筝”可用于发电。
+
+[Bing搜索](https://cn.bing.com/search?q=%e9%a3%8e%e7%ad%9d&form=hpcapt&filters=HpDate:"20230415_1600" "Bing Wallpaper 2023 4月 16")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230416_KiteDay"&FORM=HPQUIZ "必应主页测验 2023 4月 16")
+[下载480](https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_800x480.jpg&rf=LaDigue_800x480.jpg "阿德莱德国际风筝节，澳大利亚")
+[下载720](https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_1280x720.jpg&rf=LaDigue_1280x720.jpg "阿德莱德国际风筝节，澳大利亚")
+[下载1080](https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "阿德莱德国际风筝节，澳大利亚")
+[下载UHD](https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_UHD.jpg&rf=LaDigue_UHD.jpg "阿德莱德国际风筝节，澳大利亚")
+
+---
 ### 04月15日：宏伟的堡垒和宫殿
 #### 从纳哈加尔城堡鸟瞰斋浦尔，印度（© Sean3810/iStock/Getty Images Plus）
 
@@ -235,22 +252,5 @@
 [下载720](https://th.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1280x720.jpg&rf=LaDigue_1280x720.jpg "爪哇岛东部的婆罗摩火山，印度尼西亚")
 [下载1080](https://th.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "爪哇岛东部的婆罗摩火山，印度尼西亚")
 [下载UHD](https://th.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_UHD.jpg&rf=LaDigue_UHD.jpg "爪哇岛东部的婆罗摩火山，印度尼西亚")
-
----
-### 04月01日：一只青翠碧绿的蛙
-#### 爪哇树蛙（© kuritafsheen/Getty Images）
-
-![一只青翠碧绿的蛙](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_800x480.jpg&rf=LaDigue_800x480.jpg "一只青翠碧绿的蛙")
-
-青蛙月开始于每年的4月1日。作为食物链的关键一环，青蛙是一种很重要的生物，它们擅长捕食蚊虫、苍蝇、蜘蛛，甚至老鼠，可以帮助控制害虫的数量。
-
-爪哇树蛙一种很特别的树蛙，它们生活在印度尼西亚爪哇岛。
-
-[Bing搜索](https://cn.bing.com/search?q=%e7%88%aa%e5%93%87%e6%a0%91%e8%9b%99&form=hpcapt&filters=HpDate:"20230331_1600" "Bing Wallpaper 2023 4月 1")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230401_FrogMonth"&FORM=HPQUIZ "必应主页测验 2023 4月 1")
-[下载480](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_800x480.jpg&rf=LaDigue_800x480.jpg "爪哇树蛙")
-[下载720](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_1280x720.jpg&rf=LaDigue_1280x720.jpg "爪哇树蛙")
-[下载1080](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "爪哇树蛙")
-[下载UHD](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_UHD.jpg&rf=LaDigue_UHD.jpg "爪哇树蛙")
 
 ---
