@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月17日：有点孤单，有点浪漫
+#### 布列塔尼的小米努灯塔，法国（© RooM the Agency/Alamy）
+
+![有点孤单，有点浪漫](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_800x480.jpg&rf=LaDigue_800x480.jpg "有点孤单，有点浪漫")
+
+今天照片里的是法国西北海岸上的小米努灯塔。小米努灯塔坐落于法国布列塔尼的海岸边，是一座圆柱形的花岗岩灯塔，顶着一盏红灯。小米努灯塔和波尔奇克灯塔坐落在一条线上，标志着布雷斯特港的入口。它自1948年修建以来一直发挥着重要的作用，不光为往来的水手提供向导，还守护着布雷斯特海峡的入口。
+
+法国布列塔尼的小米努城堡始建于1694年-1697年之间，最初是布雷斯特海峡上的一座防御工事。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%b8%83%e5%88%97%e5%a1%94%e5%b0%bc%e5%a4%a7%e5%8c%ba&form=hpcapt&filters=HpDate:"20230416_1600" "Bing Wallpaper 2023 4月 17")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230417_MinouLighthouse"&FORM=HPQUIZ "必应主页测验 2023 4月 17")
+[下载480](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_800x480.jpg&rf=LaDigue_800x480.jpg "布列塔尼的小米努灯塔，法国")
+[下载720](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1280x720.jpg&rf=LaDigue_1280x720.jpg "布列塔尼的小米努灯塔，法国")
+[下载1080](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "布列塔尼的小米努灯塔，法国")
+[下载UHD](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_UHD.jpg&rf=LaDigue_UHD.jpg "布列塔尼的小米努灯塔，法国")
+
+---
 ### 04月16日：去放风筝吧！
 #### 阿德莱德国际风筝节，澳大利亚（© Andrey Moisseyev/Alamy）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1280x720.jpg&rf=LaDigue_1280x720.jpg "大岛上的霍瑙瑙国家历史公园，夏威夷")
 [下载1080](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "大岛上的霍瑙瑙国家历史公园，夏威夷")
 [下载UHD](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_UHD.jpg&rf=LaDigue_UHD.jpg "大岛上的霍瑙瑙国家历史公园，夏威夷")
-
----
-### 04月02日：这座缥缈的山在哪里？
-#### 爪哇岛东部的婆罗摩火山，印度尼西亚（© Bento Fotography/Getty Images）
-
-![这座缥缈的山在哪里？](https://th.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_800x480.jpg&rf=LaDigue_800x480.jpg "这座缥缈的山在哪里？")
-
-婆罗摩火山是一座活跃的索玛火山，海拔约2393米，位于婆罗摩腾格里国家公园内，这里风景优美，日出景观尤为壮丽，是印度尼西亚爪哇岛东部最具标志性的景点之一。其名字来源于爪哇语“梵天”的发音，梵天是印度教的创造之神。
-
-婆罗摩（Bromo）这个名字来自于爪哇语“梵天”的发音，梵天是印度教的创造之神。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%a9%86%e7%bd%97%e6%91%a9%e7%81%ab%e5%b1%b1&form=hpcapt&filters=HpDate:"20230401_1600" "Bing Wallpaper 2023 4月 2")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230402_JavaBromo"&FORM=HPQUIZ "必应主页测验 2023 4月 2")
-[下载480](https://th.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_800x480.jpg&rf=LaDigue_800x480.jpg "爪哇岛东部的婆罗摩火山，印度尼西亚")
-[下载720](https://th.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1280x720.jpg&rf=LaDigue_1280x720.jpg "爪哇岛东部的婆罗摩火山，印度尼西亚")
-[下载1080](https://th.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "爪哇岛东部的婆罗摩火山，印度尼西亚")
-[下载UHD](https://th.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_UHD.jpg&rf=LaDigue_UHD.jpg "爪哇岛东部的婆罗摩火山，印度尼西亚")
 
 ---
