@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月18日：山顶上的文化奇观
+#### 马丘比丘，秘鲁（© Dora Dalton/Getty Images）
+
+![山顶上的文化奇观](https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_800x480.jpg&rf=LaDigue_800x480.jpg "山顶上的文化奇观")
+
+高悬于安第斯山脉之上，秘鲁的马丘比丘被认为曾属于古印加皇帝帕查库蒂。今天是联合国教科文组织国际古迹遗址日，推荐这座“印加的失落之城”实在是恰逢其时，它是代表一整个民族记忆的文化符号。国际古迹遗址日由国际古迹遗址理事会首次提出，并于1983年正式设立。它给了我们一个回望过去的机会，让我们得以一睹前人的文化，同时为后人保留这些久远的记忆。
+
+2007年，马丘比丘在一个全球网络投票活动中被评选为新世界七大奇迹之一。
+
+[Bing搜索](https://cn.bing.com/search?q=%e9%a9%ac%e4%b8%98%e6%af%94%e4%b8%98&form=hpcapt&filters=HpDate:"20230417_1600" "Bing Wallpaper 2023 4月 18")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230418_MPPUnesco"&FORM=HPQUIZ "必应主页测验 2023 4月 18")
+[下载480](https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_800x480.jpg&rf=LaDigue_800x480.jpg "马丘比丘，秘鲁")
+[下载720](https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_1280x720.jpg&rf=LaDigue_1280x720.jpg "马丘比丘，秘鲁")
+[下载1080](https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "马丘比丘，秘鲁")
+[下载UHD](https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_UHD.jpg&rf=LaDigue_UHD.jpg "马丘比丘，秘鲁")
+
+---
 ### 04月17日：有点孤单，有点浪漫
 #### 布列塔尼的小米努灯塔，法国（© RooM the Agency/Alamy）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1280x720.jpg&rf=LaDigue_1280x720.jpg "科尔多瓦的古罗马桥，西班牙")
 [下载1080](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "科尔多瓦的古罗马桥，西班牙")
 [下载UHD](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_UHD.jpg&rf=LaDigue_UHD.jpg "科尔多瓦的古罗马桥，西班牙")
-
----
-### 04月03日：追逐彩虹
-#### 大岛上的霍瑙瑙国家历史公园，夏威夷（© Westend61/Getty Images）
-
-![追逐彩虹](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_800x480.jpg&rf=LaDigue_800x480.jpg "追逐彩虹")
-
-每年的4月3日是美国的国家寻找彩虹日。阳光穿过空中的小水珠时，小水珠就成了天然的透镜，这些彩色的奇观就产生了。彩虹是阳光的折射产生的，因此彩虹永远都在太阳的对面。
-
-当你在空中，比如在一家飞机上，你有可能会看到环形的彩虹。
-
-[Bing搜索](https://cn.bing.com/search?q=%e9%9c%8d%e7%91%99%e7%91%99%e5%9b%bd%e5%ae%b6%e5%8e%86%e5%8f%b2%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:"20230402_1600" "Bing Wallpaper 2023 4月 3")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230403_HonaunauNP"&FORM=HPQUIZ "必应主页测验 2023 4月 3")
-[下载480](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_800x480.jpg&rf=LaDigue_800x480.jpg "大岛上的霍瑙瑙国家历史公园，夏威夷")
-[下载720](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1280x720.jpg&rf=LaDigue_1280x720.jpg "大岛上的霍瑙瑙国家历史公园，夏威夷")
-[下载1080](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "大岛上的霍瑙瑙国家历史公园，夏威夷")
-[下载UHD](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_UHD.jpg&rf=LaDigue_UHD.jpg "大岛上的霍瑙瑙国家历史公园，夏威夷")
 
 ---
