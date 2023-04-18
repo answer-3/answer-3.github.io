@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月19日：一对互相依偎的褐头凤鹛
+#### 褐头凤鹛（© Staffan Widstrand/Minden Pictures）
+
+![一对互相依偎的褐头凤鹛](https://cn.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_800x480.jpg&rf=LaDigue_800x480.jpg "一对互相依偎的褐头凤鹛")
+
+褐头凤鹛是一种爱唱歌的小鸟，有着棕褐色的头冠。它们只生活在中国台湾的山地森林中。因为它们聚在一起进食时经常叫个不停，所以它们有时候也被叫做八卦精。有趣的是，它们有时候会像蝙蝠一样倒挂在樱花树上。观鸟爱好者可以在阿里山国家风景区中窥见这些小鸟，这里也有如画一般的森林和日出景观。
+
+褐头凤鹛的叫声听起来就像英文的“我们见面啦”（we meet you）。
+
+[Bing搜索](https://cn.bing.com/search?q=%e8%a4%90%e5%a4%b4%e5%87%a4%e9%b9%9b&form=hpcapt&filters=HpDate:"20230418_1600" "Bing Wallpaper 2023 4月 19")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230419_TaiwanYuhina"&FORM=HPQUIZ "必应主页测验 2023 4月 19")
+[下载480](https://cn.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_800x480.jpg&rf=LaDigue_800x480.jpg "褐头凤鹛")
+[下载720](https://cn.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_1280x720.jpg&rf=LaDigue_1280x720.jpg "褐头凤鹛")
+[下载1080](https://cn.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "褐头凤鹛")
+[下载UHD](https://cn.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_UHD.jpg&rf=LaDigue_UHD.jpg "褐头凤鹛")
+
+---
 ### 04月18日：山顶上的文化奇观
 #### 马丘比丘，秘鲁（© Dora Dalton/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1280x720.jpg&rf=LaDigue_1280x720.jpg "杭州西湖水墨意境般的风景，浙江省，中国")
 [下载1080](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "杭州西湖水墨意境般的风景，浙江省，中国")
 [下载UHD](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_UHD.jpg&rf=LaDigue_UHD.jpg "杭州西湖水墨意境般的风景，浙江省，中国")
-
----
-### 04月04日：这座古桥在哪呢？
-#### 科尔多瓦的古罗马桥，西班牙（© Jeremy Woodhouse/Getty Images）
-
-![这座古桥在哪呢？](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_800x480.jpg&rf=LaDigue_800x480.jpg "这座古桥在哪呢？")
-
-科尔多瓦的古罗马桥跨越瓜达尔基维尔河，是这座城市的一处历史地标。这座桥始建于公元前1世纪罗马帝国的扩张时期，在历史上曾被多次重建，目前这座桥的主体是在8世纪由阿拉伯人重建。虽然它已经承载了数个世纪的交通往来，但现在这座桥仅供行人通行。如果你觉得它很眼熟，可能是因为你曾在《权力的游戏》第五季中见过它，在剧中它是虚构的瓦兰提斯城的一部分。
-
-这座桥在历史上数次被翻新，现在只有它的第14和15个桥洞是罗马时期的。
-
-[Bing搜索](https://cn.bing.com/search?q=%e7%a7%91%e5%b0%94%e5%a4%9a%e7%93%a6&form=hpcapt&filters=HpDate:"20230403_1600" "Bing Wallpaper 2023 4月 4")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230404_RomanBridge"&FORM=HPQUIZ "必应主页测验 2023 4月 4")
-[下载480](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_800x480.jpg&rf=LaDigue_800x480.jpg "科尔多瓦的古罗马桥，西班牙")
-[下载720](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1280x720.jpg&rf=LaDigue_1280x720.jpg "科尔多瓦的古罗马桥，西班牙")
-[下载1080](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "科尔多瓦的古罗马桥，西班牙")
-[下载UHD](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_UHD.jpg&rf=LaDigue_UHD.jpg "科尔多瓦的古罗马桥，西班牙")
 
 ---
