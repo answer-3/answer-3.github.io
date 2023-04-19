@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月20日：宁静的夜空
+#### 克雷斯特德比特山上方的月食，科罗拉多州，美国（© Mengzhonghua Photography/Getty Images）
+
+![宁静的夜空](https://cn.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_800x480.jpg&rf=LaDigue_800x480.jpg "宁静的夜空")
+
+这张照片拍摄地位于克雷斯特德比特山，记录了纯净夜空中的月食现象。克雷斯特德比特山是北美落基山脉麋鹿山脉的一座著名山峰。这座12,168英尺（3,709 米）的山峰位于美国科罗拉多州甘尼森县 Crested Butte镇附近的甘尼森国家森林。甘尼森国家森林是一座美国国家森林，占地2612.71平方英里，它与白河和圣伊莎贝尔国家森林共享Maroon Bells-Snowmass荒野，与圣伊莎贝尔国家森林共享 Collegiate Peaks荒野地区。
+
+甘尼森国家森林以约翰·甘尼森上尉的名字命名，约翰·甘尼森上尉于 1853 年来到该地区，寻找一条穿越大陆分水岭的可行路线修建铁路。
+
+[Bing搜索](https://cn.bing.com/search?q=%e7%94%98%e5%b0%bc%e6%a3%ae%e5%9b%bd%e5%ae%b6%e6%a3%ae%e6%9e%97&form=hpcapt&filters=HpDate:"20230419_1600" "Bing Wallpaper 2023 4月 20")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230420_CrestedButteEclispe"&FORM=HPQUIZ "必应主页测验 2023 4月 20")
+[下载480](https://cn.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_800x480.jpg&rf=LaDigue_800x480.jpg "克雷斯特德比特山上方的月食，科罗拉多州，美国")
+[下载720](https://cn.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_1280x720.jpg&rf=LaDigue_1280x720.jpg "克雷斯特德比特山上方的月食，科罗拉多州，美国")
+[下载1080](https://cn.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "克雷斯特德比特山上方的月食，科罗拉多州，美国")
+[下载UHD](https://cn.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_UHD.jpg&rf=LaDigue_UHD.jpg "克雷斯特德比特山上方的月食，科罗拉多州，美国")
+
+---
 ### 04月19日：一对互相依偎的褐头凤鹛
 #### 褐头凤鹛（© Staffan Widstrand/Minden Pictures）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_1280x720.jpg&rf=LaDigue_1280x720.jpg "月亮升起，图森，亚利桑那州，美国")
 [下载1080](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "月亮升起，图森，亚利桑那州，美国")
 [下载UHD](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_UHD.jpg&rf=LaDigue_UHD.jpg "月亮升起，图森，亚利桑那州，美国")
-
----
-### 04月05日：水墨西湖
-#### 杭州西湖水墨意境般的风景，浙江省，中国（© zhangshuang/Getty Images）
-
-![水墨西湖](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_800x480.jpg&rf=LaDigue_800x480.jpg "水墨西湖")
-
-清明节，又称踏青节、行清节、三月节、祭祖节等，节期在仲春与暮春之交。清明节，兼具自然与人文两大内涵，既是“二十四节气”之一，也是传统祭祖节日。清明这一节气，万物皆洁齐、生气旺盛、吐故纳新、气温升高，大地呈现春和景明之象，正是郊外踏青春游与行清墓祭的好时节。
-
-西湖十景包括苏堤春晓、曲院风荷、平湖秋月、断桥残雪、花港观鱼、柳浪闻莺、三潭印月、双峰插云、雷峰夕照、南屏晚钟。
-
-[Bing搜索](https://cn.bing.com/search?q=%e6%b8%85%e6%98%8e%e8%8a%82&form=hpcapt&filters=HpDate:"20230404_1600" "Bing Wallpaper 2023 4月 5")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230405_QingMing2023"&FORM=HPQUIZ "必应主页测验 2023 4月 5")
-[下载480](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_800x480.jpg&rf=LaDigue_800x480.jpg "杭州西湖水墨意境般的风景，浙江省，中国")
-[下载720](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1280x720.jpg&rf=LaDigue_1280x720.jpg "杭州西湖水墨意境般的风景，浙江省，中国")
-[下载1080](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "杭州西湖水墨意境般的风景，浙江省，中国")
-[下载UHD](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_UHD.jpg&rf=LaDigue_UHD.jpg "杭州西湖水墨意境般的风景，浙江省，中国")
 
 ---
