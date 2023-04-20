@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月21日：充满活力、阳光普照的岛屿
+#### 普罗奇达岛，意大利（© Sean Pavone/Shutterstock）
+
+![充满活力、阳光普照的岛屿](https://cn.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_800x480.jpg&rf=LaDigue_800x480.jpg "充满活力、阳光普照的岛屿")
+
+普罗奇达岛是意大利一个迷人的岛屿，位于那不勒斯湾，以其色彩缤纷的建筑、风景如画的街道和令人惊叹的海景而闻名。这座岛历史悠久，几个世纪以来，希腊人、罗马人等社会文明都曾在此定居。历史中心是该岛的主要景点之一，以蜿蜒穿过山丘的狭窄街道小巷为特色。
+
+普罗奇达岛风景最美丽的海滩是波佐·韦基奥海滩，其黑色沙子因电影《邮差》而闻名；东面是基亚拉海滩，可以俯瞰伊斯基亚岛，有清澈的浅水区和岩石悬崖的背景（以及一家超级棒的海鲜餐厅)；还有奇拉乔海滩，它是最长、最隐蔽的海滩。
+
+[Bing搜索](https://cn.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e6%99%ae%e7%bd%97%e5%a5%87%e8%be%be%e5%b2%9b&form=hpcapt&filters=HpDate:"20230420_1600" "Bing Wallpaper 2023 4月 21")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230421_ProcidaItaly"&FORM=HPQUIZ "必应主页测验 2023 4月 21")
+[下载480](https://cn.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_800x480.jpg&rf=LaDigue_800x480.jpg "普罗奇达岛，意大利")
+[下载720](https://cn.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_1280x720.jpg&rf=LaDigue_1280x720.jpg "普罗奇达岛，意大利")
+[下载1080](https://cn.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "普罗奇达岛，意大利")
+[下载UHD](https://cn.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_UHD.jpg&rf=LaDigue_UHD.jpg "普罗奇达岛，意大利")
+
+---
 ### 04月20日：宁静的夜空
 #### 克雷斯特德比特山上方的月食，科罗拉多州，美国（© Mengzhonghua Photography/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_1280x720.jpg&rf=LaDigue_1280x720.jpg "欧亚河狸宝宝，芬兰")
 [下载1080](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "欧亚河狸宝宝，芬兰")
 [下载UHD](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_UHD.jpg&rf=LaDigue_UHD.jpg "欧亚河狸宝宝，芬兰")
-
----
-### 04月06日：亚利桑那州空中的粉月亮
-#### 月亮升起，图森，亚利桑那州，美国（© Tim Murphy/Shutterstock）
-
-![亚利桑那州空中的粉月亮](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_800x480.jpg&rf=LaDigue_800x480.jpg "亚利桑那州空中的粉月亮")
-
-夜空中的满月是动人心魄的。人类是如此为月亮着迷，北美地区甚至起了各种各样的名字描述它的不同状态：蓝月、蛋月、狩月、玫瑰月、海狸月等等等等。今天照片里展示的粉月就是亚利桑那州四月的第一轮满月，但这个粉色却并非是日期造成的。阳光从月表上反射后穿透地球大气层，大气中的灰尘、污染、烟雾和其他粒子散射月光，从而改变了月光的颜色，使其从白色或是蓝色变成了红色、橙色、黄色、或是粉色。当月亮低悬于空中时，月光需要穿透更厚的大气层，也就更有可能变为其他的颜色。也许是亚利桑那州沙漠的沙尘导致了这轮美丽的粉月吧。
-
-阳光穿透地球大气层时，紫、蓝、绿、黄光都被吸收，只剩下红光，从而形成了“血月”。
-
-[Bing搜索](https://cn.bing.com/search?q=%e7%b2%89%e7%ba%a2%e8%89%b2%e6%9c%88%e4%ba%ae&form=hpcapt&filters=HpDate:"20230405_1600" "Bing Wallpaper 2023 4月 6")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230406_ArizonaPinkMoon"&FORM=HPQUIZ "必应主页测验 2023 4月 6")
-[下载480](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_800x480.jpg&rf=LaDigue_800x480.jpg "月亮升起，图森，亚利桑那州，美国")
-[下载720](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_1280x720.jpg&rf=LaDigue_1280x720.jpg "月亮升起，图森，亚利桑那州，美国")
-[下载1080](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "月亮升起，图森，亚利桑那州，美国")
-[下载UHD](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_UHD.jpg&rf=LaDigue_UHD.jpg "月亮升起，图森，亚利桑那州，美国")
 
 ---
