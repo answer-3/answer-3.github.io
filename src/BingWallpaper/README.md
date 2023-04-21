@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月22日：国家公园中狡猾的常住居民
+#### 岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州（© Ian Shive/Tandem Stills + Motion）
+
+![国家公园中狡猾的常住居民](https://cn.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_800x480.jpg&rf=LaDigue_800x480.jpg "国家公园中狡猾的常住居民")
+
+今天是地球日，这正是庆祝地球生物丰富多样性和广阔生命之美的绝佳机会。有些动物的活动范围几乎覆盖全球，而另一些动物的栖息地却很狭窄。今日图片的岛屿灰狐是南加州海峡群岛特有的本土物种。在南加州海峡群岛的八个岛屿中，有六个都能找到它们的身影，其中每个岛屿都有一个独特的灰狐亚种。截至2021年，世界上的岛屿灰狐只有不到10000只。但归功于保护组织的圈养繁殖和种群恢复计划，岛屿灰狐的数量正在增加。当我们迎来国家公园周时，请记住这些公园在保护地球和野生动物方面有着至关重要的作用。
+
+岛屿灰狐在当地海峡岛民的精神生活中发挥了重要作用。它们很可能已被半驯化为宠物，用来制作皮草，或是有其他用处，比如防治害虫等。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%b2%9b%e5%b1%bf%e7%81%b0%e7%8b%90&form=hpcapt&filters=HpDate:"20230421_1600" "Bing Wallpaper 2023 4月 22")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230422_EarthDayFox"&FORM=HPQUIZ "必应主页测验 2023 4月 22")
+[下载480](https://cn.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_800x480.jpg&rf=LaDigue_800x480.jpg "岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州")
+[下载720](https://cn.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_1280x720.jpg&rf=LaDigue_1280x720.jpg "岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州")
+[下载1080](https://cn.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州")
+[下载UHD](https://cn.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_UHD.jpg&rf=LaDigue_UHD.jpg "岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州")
+
+---
 ### 04月21日：充满活力、阳光普照的岛屿
 #### 普罗奇达岛，意大利（© Sean Pavone/Shutterstock）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_1280x720.jpg&rf=LaDigue_1280x720.jpg "巨人之路，北爱尔兰，英国")
 [下载1080](https://cn.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "巨人之路，北爱尔兰，英国")
 [下载UHD](https://cn.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_UHD.jpg&rf=LaDigue_UHD.jpg "巨人之路，北爱尔兰，英国")
-
----
-### 04月07日：两只饥饿的小河狸
-#### 欧亚河狸宝宝，芬兰（© Danny Green/Minden Pictures）
-
-![两只饥饿的小河狸](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_800x480.jpg&rf=LaDigue_800x480.jpg "两只饥饿的小河狸")
-
-今天照片里的是两只可爱的河狸。河狸虽长得可爱，却是天生的工程师，它们用巨大的门牙啃食树木，然后用树枝建造水坝和小屋。它们利用小屋来躲避捕食者、储存食物、休养生息，以及保护幼崽。小屋入口的水位很低，所以当河狸在下游建造水坝时，小屋会被淹没一部分——这样其实提供了额外的保护。从水下进入小屋对河狸并非难事，因为它们可以屏住呼吸长达15分钟。河狸的桨状尾巴可以帮助它们游泳，还可以拍打水面或地面，以警告其他同伴有捕食者出现。今天是国际河狸日，让我们向这种奇妙的哺乳动物致敬吧。
-
-一只欧亚河狸平均要每天吃掉重量为其体重20%的食物。
-
-[Bing搜索](https://cn.bing.com/search?q=%e6%ac%a7%e4%ba%9a%e6%b2%b3%e7%8b%b8&form=hpcapt&filters=HpDate:"20230406_1600" "Bing Wallpaper 2023 4月 7")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230407_KitsAspen"&FORM=HPQUIZ "必应主页测验 2023 4月 7")
-[下载480](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_800x480.jpg&rf=LaDigue_800x480.jpg "欧亚河狸宝宝，芬兰")
-[下载720](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_1280x720.jpg&rf=LaDigue_1280x720.jpg "欧亚河狸宝宝，芬兰")
-[下载1080](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "欧亚河狸宝宝，芬兰")
-[下载UHD](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_UHD.jpg&rf=LaDigue_UHD.jpg "欧亚河狸宝宝，芬兰")
 
 ---
