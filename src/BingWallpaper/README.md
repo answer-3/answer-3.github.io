@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月23日：梦幻般的紫色
+#### 日出时分薄雾笼罩下的薰衣草田，印度（© Amith Nag Photography/Getty Images）
+
+![梦幻般的紫色](https://cn.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_800x480.jpg&rf=LaDigue_800x480.jpg "梦幻般的紫色")
+
+薰衣草种植在印度是一个规模持续增长的产业。卡纳塔克邦、泰米尔纳德邦、喜马偕尔邦和北阿坎德邦的农民已经开始商业化种植薰衣草。这些地区的气候和土壤条件适宜薰衣草的生长。近年来，薰衣草衍生产品（如精油、干花和香包等）的需求量稳步增加。薰衣草种植具有为农民创收和促进可持续农业的潜力，对许多印度人来说，已经成为一个有吸引力的选择。
+
+英语单词“lavender”自13世纪开始使用，通常被认为源于古法语的“lavandre”。但追根究底，它其实源于拉丁语“lavare”的词根“lavo”，意思是浸洗，指对植物进行蓝色浸染。
+
+[Bing搜索](https://cn.bing.com/search?q=%e8%96%b0%e8%a1%a3%e8%8d%89%e7%94%b0&form=hpcapt&filters=HpDate:"20230422_1600" "Bing Wallpaper 2023 4月 23")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230423_Honnavaralavenderfields"&FORM=HPQUIZ "必应主页测验 2023 4月 23")
+[下载480](https://cn.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_800x480.jpg&rf=LaDigue_800x480.jpg "日出时分薄雾笼罩下的薰衣草田，印度")
+[下载720](https://cn.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_1280x720.jpg&rf=LaDigue_1280x720.jpg "日出时分薄雾笼罩下的薰衣草田，印度")
+[下载1080](https://cn.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "日出时分薄雾笼罩下的薰衣草田，印度")
+[下载UHD](https://cn.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_UHD.jpg&rf=LaDigue_UHD.jpg "日出时分薄雾笼罩下的薰衣草田，印度")
+
+---
 ### 04月22日：国家公园中狡猾的常住居民
 #### 岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州（© Ian Shive/Tandem Stills + Motion）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_1280x720.jpg&rf=LaDigue_1280x720.jpg "复活节彩蛋")
 [下载1080](https://cn.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "复活节彩蛋")
 [下载UHD](https://cn.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_UHD.jpg&rf=LaDigue_UHD.jpg "复活节彩蛋")
-
----
-### 04月08日：从地下起源的传说
-#### 巨人之路，北爱尔兰，英国（© DieterMeyrl/Getty Images）
-
-![从地下起源的传说](https://cn.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_800x480.jpg&rf=LaDigue_800x480.jpg "从地下起源的传说")
-
-纵观历史，人类创造了各种各样的传说来解释我们无法理解的自然现象。一个典型的例子便是北爱尔兰的巨人之路，这里有大约40000根玄武岩柱从海边的地面里冒出来。岩浆从地壳裂缝喷出，遇海水冷却后便形成了这些棱柱状结构。盖尔人的传说赋予了这些石柱传奇色彩：一个巨人为了与苏格兰的对手交战，建造了一座横跨海峡的大桥，而现在，这座桥只剩下了这一段巨人之路。尽管我们现在已经明白巨人之路的形成原因，但是想象一下那个传说中的场景，还是令人振奋不已。
-
-巨人堤道和堤道海岸的古新世岩石被列入其全球 100 个“地质遗址”的集合。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%b7%a8%e4%ba%ba%e4%b9%8b%e8%b7%af&form=hpcapt&filters=HpDate:"20230407_1600" "Bing Wallpaper 2023 4月 8")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230408_NIrelandGiants"&FORM=HPQUIZ "必应主页测验 2023 4月 8")
-[下载480](https://cn.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_800x480.jpg&rf=LaDigue_800x480.jpg "巨人之路，北爱尔兰，英国")
-[下载720](https://cn.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_1280x720.jpg&rf=LaDigue_1280x720.jpg "巨人之路，北爱尔兰，英国")
-[下载1080](https://cn.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "巨人之路，北爱尔兰，英国")
-[下载UHD](https://cn.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_UHD.jpg&rf=LaDigue_UHD.jpg "巨人之路，北爱尔兰，英国")
 
 ---
