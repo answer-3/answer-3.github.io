@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月24日：隐藏在树林中
+#### 巴伐利亚森林酒窖，德国（© Andreas_Zerndl/Getty Images）
+
+![隐藏在树林中](https://cn.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_800x480.jpg&rf=LaDigue_800x480.jpg "隐藏在树林中")
+
+德国可能因啤酒在世界享誉盛名，但这个丰饶的国家也以其强大的酿酒业而闻名。随着葡萄酒产量的增加，酒的储存需求也随之而来。酒窖通常需要低温黑暗的环境，所以图中这个位于巴伐利亚森林的酒窖位置十分完美。
+
+巴伐利亚森林是一片树木繁茂的低山区，位于德国巴伐利亚，长约100公里。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%b7%b4%e4%bc%90%e5%88%a9%e4%ba%9a%e6%a3%ae%e6%9e%97&form=hpcapt&filters=HpDate:"20230423_1600" "Bing Wallpaper 2023 4月 24")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230424_FranconianWineCellar"&FORM=HPQUIZ "必应主页测验 2023 4月 24")
+[下载480](https://cn.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_800x480.jpg&rf=LaDigue_800x480.jpg "巴伐利亚森林酒窖，德国")
+[下载720](https://cn.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_1280x720.jpg&rf=LaDigue_1280x720.jpg "巴伐利亚森林酒窖，德国")
+[下载1080](https://cn.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "巴伐利亚森林酒窖，德国")
+[下载UHD](https://cn.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_UHD.jpg&rf=LaDigue_UHD.jpg "巴伐利亚森林酒窖，德国")
+
+---
 ### 04月23日：梦幻般的紫色
 #### 日出时分薄雾笼罩下的薰衣草田，印度（© Amith Nag Photography/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_1280x720.jpg&rf=LaDigue_1280x720.jpg "安博塞利国家公园的大象，肯尼亚")
 [下载1080](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "安博塞利国家公园的大象，肯尼亚")
 [下载UHD](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_UHD.jpg&rf=LaDigue_UHD.jpg "安博塞利国家公园的大象，肯尼亚")
-
----
-### 04月09日：装饰华丽的复活节彩蛋
-#### 复活节彩蛋（© fotomem/Getty Images）
-
-![装饰华丽的复活节彩蛋](https://cn.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_800x480.jpg&rf=LaDigue_800x480.jpg "装饰华丽的复活节彩蛋")
-
-几个世纪以来，人类一直在为复活节装饰彩蛋。 虽然早在60,000年前就已发现装饰过的鸵鸟蛋，但现代复活节彩蛋通常来自鸡，是生育和重生的象征。人们开始为复活节装饰彩蛋的确切起源尚不清楚。一个普遍的理论是，在宗教四旬期期间，动物产品不能吃，所以人们会把鸡蛋煮熟，然后用染料、蜡、树叶和其他装饰材料装饰它们，直到复活节才能吃。 另一种装饰彩蛋法贝热彩蛋（Fabergé eggs）以作为送给俄罗斯皇室的华丽珍贵的复活节礼物而闻名。
-
-法贝热制作的彩蛋属于复活节彩蛋艺术品，是由黄金、钻石、翡翠等制作的仿彩蛋工艺品，大约10厘米高，堪称俄罗斯的国宝。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%a4%8d%e6%b4%bb%e8%8a%82%e5%bd%a9%e8%9b%8b&form=hpcapt&filters=HpDate:"20230408_1600" "Bing Wallpaper 2023 4月 9")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230409_LithuanianEggs"&FORM=HPQUIZ "必应主页测验 2023 4月 9")
-[下载480](https://cn.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_800x480.jpg&rf=LaDigue_800x480.jpg "复活节彩蛋")
-[下载720](https://cn.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_1280x720.jpg&rf=LaDigue_1280x720.jpg "复活节彩蛋")
-[下载1080](https://cn.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "复活节彩蛋")
-[下载UHD](https://cn.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_UHD.jpg&rf=LaDigue_UHD.jpg "复活节彩蛋")
 
 ---
