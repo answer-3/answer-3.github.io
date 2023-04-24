@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月25日：在浮冰上休闲放松
+#### 阿德利企鹅（© David Merron Photography/Getty Images）
+
+![在浮冰上休闲放松](https://cn.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_800x480.jpg&rf=LaDigue_800x480.jpg "在浮冰上休闲放松")
+
+企鹅非常奇妙！它们有着独特的社会个性，还有着令人印象深刻的游泳潜水天赋，是一种值得赞美歌颂的鸟类。有一个好消息要告诉你——今天是世界企鹅日！现在正是走近这种珍贵动物，并欣赏它们能力和美丽的绝佳时机。阿德利企鹅每年平均迁徙8000英里，它们跟随着太阳从繁殖地到冬季的觅食地，然后再返回。阿德利企鹅可以很容易因眼睛周围的白环被认出来。如果你觉得今年冬天很冷，我会告诉你，这些企鹅可以在零下20华氏度的低温下茁壮成长哦。
+
+企鹅是鸟类，而鸟类都没有牙齿。
+
+[Bing搜索](https://cn.bing.com/search?q=%e9%98%bf%e5%be%b7%e5%88%a9%e4%bc%81%e9%b9%85&form=hpcapt&filters=HpDate:"20230424_1600" "Bing Wallpaper 2023 4月 25")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230425_AdelieWPD"&FORM=HPQUIZ "必应主页测验 2023 4月 25")
+[下载480](https://cn.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_800x480.jpg&rf=LaDigue_800x480.jpg "阿德利企鹅")
+[下载720](https://cn.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_1280x720.jpg&rf=LaDigue_1280x720.jpg "阿德利企鹅")
+[下载1080](https://cn.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "阿德利企鹅")
+[下载UHD](https://cn.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_UHD.jpg&rf=LaDigue_UHD.jpg "阿德利企鹅")
+
+---
 ### 04月24日：隐藏在树林中
 #### 巴伐利亚森林酒窖，德国（© Andreas_Zerndl/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_1280x720.jpg&rf=LaDigue_1280x720.jpg "哥伦比亚河峡谷，俄勒冈州，美国")
 [下载1080](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "哥伦比亚河峡谷，俄勒冈州，美国")
 [下载UHD](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_UHD.jpg&rf=LaDigue_UHD.jpg "哥伦比亚河峡谷，俄勒冈州，美国")
-
----
-### 04月10日：强大的亲缘纽带
-#### 安博塞利国家公园的大象，肯尼亚（© Diana Robinson/Getty Images）
-
-![强大的亲缘纽带](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_800x480.jpg&rf=LaDigue_800x480.jpg "强大的亲缘纽带")
-
-每年的4月10日，美国的部分地区会庆祝兄弟姐妹日。1995年，幼年就失去兄弟姐妹的克劳迪娅·埃瓦特创造了这个节日，并成立了兄弟姐妹日基金会。这个基金会现正致力于让兄弟姐妹日得到美国官方认证，拥有与母亲节和父亲节同等的地位。印度的保护节（又名手镯节）是最古老的兄弟姐妹节日，时间通常在每年的八月，至今仍然广为流行。印度妇女会在这一天给她们兄弟的手腕上系上一条带子，来作为彼此关心尊重的标志。你如果觉得这种仪式过于隆重，打个电话也能传达你的关心哦。
-
-在美国，大约80%的人都有兄弟姐妹。今天这个节日就是为了纪念兄弟姐妹之间的情谊。
-
-[Bing搜索](https://cn.bing.com/search?q=%e9%9d%9e%e6%b4%b2%e5%a4%a7%e8%b1%a1&form=hpcapt&filters=HpDate:"20230409_1600" "Bing Wallpaper 2023 4月 10")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230410_ElephantTwins"&FORM=HPQUIZ "必应主页测验 2023 4月 10")
-[下载480](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_800x480.jpg&rf=LaDigue_800x480.jpg "安博塞利国家公园的大象，肯尼亚")
-[下载720](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_1280x720.jpg&rf=LaDigue_1280x720.jpg "安博塞利国家公园的大象，肯尼亚")
-[下载1080](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "安博塞利国家公园的大象，肯尼亚")
-[下载UHD](https://cn.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_UHD.jpg&rf=LaDigue_UHD.jpg "安博塞利国家公园的大象，肯尼亚")
 
 ---
