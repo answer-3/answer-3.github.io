@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月26日：一对大雕鸮
+#### 大雕鸮幼崽（© Michael Morse/Getty Images）
+
+![一对大雕鸮](https://cn.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_800x480.jpg&rf=LaDigue_800x480.jpg "一对大雕鸮")
+
+你现在看到的是大雕鸮，一种狩猎时会利用羽毛隐身的猛禽，它们是凶猛的捕猎者，可以轻松捕捉比自己更大的猎物。作为贪婪的食肉动物，大角鸮捕杀任何能找到的小动物，如兔子、松鼠、老鼠，甚至蝎子。大角鸮喜欢单独活动，白天在密林中栖息，晚上则独自狩猎，它们不会迁徙，但经常从一个领地换到另一个领地。这些独特的鸟类遍布世界各地，从北极地区到热带地区，几乎都能发现它们的身影，你甚至可以在自家后院找到它们！
+
+大雕鸮的眼睛不会在眼眶中转动，但它们可以将头部旋转180度以上，朝任何方向看。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%a4%a7%e9%9b%95%e9%b8%ae&form=hpcapt&filters=HpDate:"20230425_1600" "Bing Wallpaper 2023 4月 26")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230426_GHOAudubonDay"&FORM=HPQUIZ "必应主页测验 2023 4月 26")
+[下载480](https://cn.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_800x480.jpg&rf=LaDigue_800x480.jpg "大雕鸮幼崽")
+[下载720](https://cn.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_1280x720.jpg&rf=LaDigue_1280x720.jpg "大雕鸮幼崽")
+[下载1080](https://cn.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "大雕鸮幼崽")
+[下载UHD](https://cn.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_UHD.jpg&rf=LaDigue_UHD.jpg "大雕鸮幼崽")
+
+---
 ### 04月25日：在浮冰上休闲放松
 #### 阿德利企鹅（© David Merron Photography/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_1280x720.jpg&rf=LaDigue_1280x720.jpg "从国际空间站拍摄的地球")
 [下载1080](https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "从国际空间站拍摄的地球")
 [下载UHD](https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_UHD.jpg&rf=LaDigue_UHD.jpg "从国际空间站拍摄的地球")
-
----
-### 04月11日：这个隐秘的瀑布在哪里？
-#### 哥伦比亚河峡谷，俄勒冈州，美国（© Chase Dekker Wild-Life Images/Getty Images）
-
-![这个隐秘的瀑布在哪里？](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_800x480.jpg&rf=LaDigue_800x480.jpg "这个隐秘的瀑布在哪里？")
-
-俄勒冈州的哥伦比亚河峡谷中有大约90个瀑布，苔藓石窟瀑布就是其中一个高20英尺的迷你瀑布。苔藓石窟瀑布于2006年被发现，经由几位著名摄影师而名声大噪。与幽雅清静、潺潺作响的苔藓岩洞瀑布形成鲜明对比的，是世界上最高的瀑布——委内瑞拉的天使瀑布，其落差高达2648英尺，汹涌咆哮的奇观令人惊叹，是委内瑞拉最吸引游客的景点之一。如果你想要放松沉思片刻，建议寻找距离最近的瀑布，然后踏上亲近大自然的旅程吧。
-
-苔藓石窟瀑布距离哥伦比亚河峡谷的鲁克尔溪步道仅300英尺，但想要靠近却并非易事。尽管一路湿滑，尽头的美景绝对让你不虚此行。
-
-[Bing搜索](https://cn.bing.com/search?q=%e4%bf%84%e5%8b%92%e5%86%88%e5%b7%9e%e5%93%a5%e4%bc%a6%e6%af%94%e4%ba%9a%e6%b2%b3%e5%b3%a1%e8%b0%b7&form=hpcapt&filters=HpDate:"20230410_1600" "Bing Wallpaper 2023 4月 11")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230411_MossyGrottoFalls"&FORM=HPQUIZ "必应主页测验 2023 4月 11")
-[下载480](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_800x480.jpg&rf=LaDigue_800x480.jpg "哥伦比亚河峡谷，俄勒冈州，美国")
-[下载720](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_1280x720.jpg&rf=LaDigue_1280x720.jpg "哥伦比亚河峡谷，俄勒冈州，美国")
-[下载1080](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "哥伦比亚河峡谷，俄勒冈州，美国")
-[下载UHD](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_UHD.jpg&rf=LaDigue_UHD.jpg "哥伦比亚河峡谷，俄勒冈州，美国")
 
 ---
