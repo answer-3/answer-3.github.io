@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月30日：伟大的遗迹
+#### 塞利努斯的神庙，西西里岛，意大利（© Antonino Bartuccio/eStock）
+
+![伟大的遗迹](https://cn.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_800x480.jpg&rf=LaDigue_800x480.jpg "伟大的遗迹")
+
+这座神庙建于公元前6世纪，得名于其所在地——当时的希腊殖民地塞利农特。即使今天，希腊建的卫城的遗迹依然可见，以其宏伟的气势镇守着西西里海岸的这一片土地。这座神庙属于两种建筑风格之间的过渡时期，即多立克柱式和古典柱式。柱子的檐口上有各种主题的精美浮雕，如宙斯和赫拉、阿尔忒弥斯和阿克泰翁。
+
+这个考古遗址包含许多大型神庙，最早可以追溯到公元前550年，其中有五座神庙集中在一个卫城。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%a1%9e%e5%88%a9%e5%86%9c%e7%89%b9&form=hpcapt&filters=HpDate:"20230429_1600" "Bing Wallpaper 2023 4月 30")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230430_TempleE"&FORM=HPQUIZ "必应主页测验 2023 4月 30")
+[下载480](https://cn.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_800x480.jpg&rf=LaDigue_800x480.jpg "塞利努斯的神庙，西西里岛，意大利")
+[下载720](https://cn.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_1280x720.jpg&rf=LaDigue_1280x720.jpg "塞利努斯的神庙，西西里岛，意大利")
+[下载1080](https://cn.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "塞利努斯的神庙，西西里岛，意大利")
+[下载UHD](https://cn.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg&rf=LaDigue_UHD.jpg "塞利努斯的神庙，西西里岛，意大利")
+
+---
 ### 04月29日：沙漠上空的星海
 #### 约书亚树国家公园上空的银河，美国加利福尼亚州（© Schroptschop/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_1280x720.jpg&rf=LaDigue_1280x720.jpg "阿德莱德国际风筝节，澳大利亚")
 [下载1080](https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "阿德莱德国际风筝节，澳大利亚")
 [下载UHD](https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_UHD.jpg&rf=LaDigue_UHD.jpg "阿德莱德国际风筝节，澳大利亚")
-
----
-### 04月15日：宏伟的堡垒和宫殿
-#### 从纳哈加尔城堡鸟瞰斋浦尔，印度（© Sean3810/iStock/Getty Images Plus）
-
-![宏伟的堡垒和宫殿](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_800x480.jpg&rf=LaDigue_800x480.jpg "宏伟的堡垒和宫殿")
-
-纳哈加尔堡矗立于阿拉瓦利山脉的一座山脊上，为斋浦尔增添了一道雄伟而壮丽的背景。它始建于1734年，又于1868年经历了扩建。纳哈加尔，意为老虎的住所，如同强大的壁垒，保卫斋浦尔抵御敌人的攻击。
-
-纳哈加尔堡原本是防御城堡，但它从未遭遇过敌人的攻击。架在城堡上的野战炮也从未用于战争，倒是曾用于报时。
-
-[Bing搜索](https://cn.bing.com/search?q=%e7%ba%b3%e5%93%88%e5%8a%a0%e5%b0%94%e5%9f%8e%e5%a0%a1&form=hpcapt&filters=HpDate:"20230414_1600" "Bing Wallpaper 2023 4月 15")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230415_NahargarhFort"&FORM=HPQUIZ "必应主页测验 2023 4月 15")
-[下载480](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_800x480.jpg&rf=LaDigue_800x480.jpg "从纳哈加尔城堡鸟瞰斋浦尔，印度")
-[下载720](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1280x720.jpg&rf=LaDigue_1280x720.jpg "从纳哈加尔城堡鸟瞰斋浦尔，印度")
-[下载1080](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "从纳哈加尔城堡鸟瞰斋浦尔，印度")
-[下载UHD](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_UHD.jpg&rf=LaDigue_UHD.jpg "从纳哈加尔城堡鸟瞰斋浦尔，印度")
 
 ---
