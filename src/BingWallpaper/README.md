@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 05月02日：蓝湖和险峰
+#### 阿尔卑斯山脉锡尔夫雷塔山的乔里森湖，瑞士（© Florin Baumann/Getty Images）
+
+![蓝湖和险峰](https://cn.bing.com/th?id=OHR.KlostersSerneus_ZH-CN9821473046_800x480.jpg&rf=LaDigue_800x480.jpg "蓝湖和险峰")
+
+今天我们要探索一处超凡脱俗的奇景：瑞士达沃斯附近的约里森湖群。天气晴朗时，湖面会呈现出不真实的蓝色，和周围灰暗、嶙峋的锡尔夫雷塔山形成鲜明的对比。阳光被水中的“岩粉”（湖床被冰川摩擦产生的细微的岩石颗粒）反射，形成了这种鲜艳的蓝色。锡尔夫雷塔山被冰川环绕，和碧蓝色的约里森湖一起被称为“蓝色锡尔夫雷塔”。如果你想亲眼目睹此景，要知道来到此地的路途并不容易。记得带上合适的徒步鞋、大量的饮用水和强健的双腿。
+
+约里森湖是阿尔卑斯山脉中的一个湖群，坐落在瑞士格劳宾登州乔里弗雷斯山口以西，弗吕拉维斯山顶以北。
+
+[Bing搜索](https://cn.bing.com/search?q=%e9%94%a1%e5%b0%94%e5%a4%ab%e9%9b%b7%e5%a1%94%e5%b1%b1&form=hpcapt&filters=HpDate:"20230501_1600" "Bing Wallpaper 2023 5月 2")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230502_KlostersSerneus"&FORM=HPQUIZ "必应主页测验 2023 5月 2")
+[下载480](https://cn.bing.com/th?id=OHR.KlostersSerneus_ZH-CN9821473046_800x480.jpg&rf=LaDigue_800x480.jpg "阿尔卑斯山脉锡尔夫雷塔山的乔里森湖，瑞士")
+[下载720](https://cn.bing.com/th?id=OHR.KlostersSerneus_ZH-CN9821473046_1280x720.jpg&rf=LaDigue_1280x720.jpg "阿尔卑斯山脉锡尔夫雷塔山的乔里森湖，瑞士")
+[下载1080](https://cn.bing.com/th?id=OHR.KlostersSerneus_ZH-CN9821473046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "阿尔卑斯山脉锡尔夫雷塔山的乔里森湖，瑞士")
+[下载UHD](https://cn.bing.com/th?id=OHR.KlostersSerneus_ZH-CN9821473046_UHD.jpg&rf=LaDigue_UHD.jpg "阿尔卑斯山脉锡尔夫雷塔山的乔里森湖，瑞士")
+
+---
 ### 05月01日：工程学杰作
 #### 横跨圣劳伦斯河下游的魁北克大桥，加拿大（© Ronald Santerre/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_1280x720.jpg&rf=LaDigue_1280x720.jpg "马丘比丘，秘鲁")
 [下载1080](https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "马丘比丘，秘鲁")
 [下载UHD](https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_UHD.jpg&rf=LaDigue_UHD.jpg "马丘比丘，秘鲁")
-
----
-### 04月17日：有点孤单，有点浪漫
-#### 布列塔尼的小米努灯塔，法国（© RooM the Agency/Alamy）
-
-![有点孤单，有点浪漫](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_800x480.jpg&rf=LaDigue_800x480.jpg "有点孤单，有点浪漫")
-
-今天照片里的是法国西北海岸上的小米努灯塔。小米努灯塔坐落于法国布列塔尼的海岸边，是一座圆柱形的花岗岩灯塔，顶着一盏红灯。小米努灯塔和波尔奇克灯塔坐落在一条线上，标志着布雷斯特港的入口。它自1948年修建以来一直发挥着重要的作用，不光为往来的水手提供向导，还守护着布雷斯特海峡的入口。
-
-法国布列塔尼的小米努城堡始建于1694年-1697年之间，最初是布雷斯特海峡上的一座防御工事。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%b8%83%e5%88%97%e5%a1%94%e5%b0%bc%e5%a4%a7%e5%8c%ba&form=hpcapt&filters=HpDate:"20230416_1600" "Bing Wallpaper 2023 4月 17")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20230417_MinouLighthouse"&FORM=HPQUIZ "必应主页测验 2023 4月 17")
-[下载480](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_800x480.jpg&rf=LaDigue_800x480.jpg "布列塔尼的小米努灯塔，法国")
-[下载720](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1280x720.jpg&rf=LaDigue_1280x720.jpg "布列塔尼的小米努灯塔，法国")
-[下载1080](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "布列塔尼的小米努灯塔，法国")
-[下载UHD](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_UHD.jpg&rf=LaDigue_UHD.jpg "布列塔尼的小米努灯塔，法国")
 
 ---
