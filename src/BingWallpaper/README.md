@@ -1,4 +1,38 @@
 ## Bing Wallpaper(最近15天)
+### 02月23日：老鹰起舞的地方
+#### Haghartsin修道院，迪利扬国家公园，亚美尼亚（© Alexey Kharitonov/Shutterstock）
+
+![老鹰起舞的地方](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_800x480.jpg&rf=LaDigue_800x480.jpg "老鹰起舞的地方")
+
+Haghartsin 修道院隐藏在亚美尼亚北部的森林之中，被迪利扬国家公园郁郁葱葱的风景所环绕，是亚美尼亚中世纪建筑的瑰宝。修道院的建筑群由几座华丽的建筑组成，包括圣母教堂、圣格雷戈里教堂和圣斯特帕诺斯教堂。这些建筑的历史可以追溯到10世纪，上面装饰着精雕细琢的石碑、十字拱门以及其他装饰物，展现了那个时代的精湛工艺。修道院的名字“Haghartsin”的意思是“鹰之舞”，它为那些想要感受亚美尼亚悠久历史的人提供了一个宁静的去处。当你漫步在幽静的庭院中，探索周围的森林时，一种永恒的感觉油然而生。
+
+据说在修道院主楼的落成典礼上，一只雄鹰在修道院的穹顶上方翱翔，因此该修道院被称为 Haghartsin 修道院。（“Hagh”在亚美尼亚语中是游戏的意思，而“Artsin”是 “Artsiv”的一种词形，在亚美尼亚语中是鹰的意思，因此修道院的名字“Haghartsin”可以被翻译为“鹰之舞”。）
+
+[Bing搜索](https://cn.bing.com/search?q=%e8%bf%aa%e5%88%a9%e6%89%ac%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:"20240222_1600" "Bing Wallpaper 2024 2月 23")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20240223_HaghartsinMonastery"&FORM=HPQUIZ "必应主页测验 2024 2月 23")
+[下载480](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_800x480.jpg&rf=LaDigue_800x480.jpg "Haghartsin修道院，迪利扬国家公园，亚美尼亚")
+[下载720](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_1280x720.jpg&rf=LaDigue_1280x720.jpg "Haghartsin修道院，迪利扬国家公园，亚美尼亚")
+[下载1080](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "Haghartsin修道院，迪利扬国家公园，亚美尼亚")
+[下载UHD](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_UHD.jpg&rf=LaDigue_UHD.jpg "Haghartsin修道院，迪利扬国家公园，亚美尼亚")
+
+---
+### 02月22日：名副其实的“调色板盒子”
+#### 布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚（© Prasit photo/Getty Images）
+
+![名副其实的“调色板盒子”](https://cn.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_800x480.jpg&rf=LaDigue_800x480.jpg "名副其实的“调色板盒子”")
+
+布莱顿彩虹小屋位于墨尔本的布莱顿海滩上，它们在阳光下五彩斑斓，是经久不衰的历史遗迹。随着新增小屋的加入，其总数已达到96座，这些小屋已成为墨尔本最主要的旅游景点之一。彩虹小屋的历史和它们的外观一样“丰富多彩”。1860年，它们首次出现在布莱顿的海岸线上，为更换泳衣的游客提供简单的遮挡。在第一次世界大战后的经济萧条时期，这些沙滩小屋遭到了磨损和破坏，于1934年接受集体修复。尽管进行了维护，它们还是在1952年面临过被拆除的危机，后来通过布莱顿彩虹小屋协会的努力得以保留，所以我们今天依旧能欣赏到这些充满活力的“海岸警卫队”！
+
+按照文化遗产保护区规划方案，布莱顿海滩上的彩虹小屋是统一建造的，采用了彩绘的封檐板和波纹铁皮屋顶，具有维多利亚式建筑特色。屋主可以粉刷自己的小屋，使小屋呈现出各种鲜艳的色彩，不过这些小屋没有水电供应。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%b8%83%e8%8e%b1%e9%a1%bf%e6%b5%b7%e6%bb%a9%e7%9a%84%e5%bd%a9%e8%99%b9%e5%b0%8f%e5%b1%8b&form=hpcapt&filters=HpDate:"20240221_1600" "Bing Wallpaper 2024 2月 22")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20240222_BrightonBoxes"&FORM=HPQUIZ "必应主页测验 2024 2月 22")
+[下载480](https://cn.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_800x480.jpg&rf=LaDigue_800x480.jpg "布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚")
+[下载720](https://cn.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_1280x720.jpg&rf=LaDigue_1280x720.jpg "布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚")
+[下载1080](https://cn.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚")
+[下载UHD](https://cn.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_UHD.jpg&rf=LaDigue_UHD.jpg "布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚")
+
+---
 ### 02月21日：一个天然的矛盾体
 #### 火瀑布，优胜美地国家公园，加利福尼亚州，美国（© Gregory B Cuvelier/Shutterstock）
 
@@ -218,39 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN8446327159_1280x720.jpg&rf=LaDigue_1280x720.jpg "灯光秀点亮夜幕中的西安城墙，中国春节")
 [下载1080](https://cn.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN8446327159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "灯光秀点亮夜幕中的西安城墙，中国春节")
 [下载UHD](https://cn.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN8446327159_UHD.jpg&rf=LaDigue_UHD.jpg "灯光秀点亮夜幕中的西安城墙，中国春节")
-
----
-### 02月08日：沉睡的巨人
-#### 胡德山，俄勒冈州，美国（© Inigo Cia/Getty Images）
-
-![沉睡的巨人](https://cn.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_800x480.jpg&rf=LaDigue_800x480.jpg "沉睡的巨人")
-
-胡德山以其白雪皑皑的山尖装点着俄勒冈州的天际线。这座高约11,250英尺的休眠火山是俄勒冈州最高的山，吸引着众多冒险者和自然爱好者前来探险。这里有12座已被命名的冰川以及众多雪原，全年都是“冰雪乐园”。除了有冰雪之美，胡德山还拥有多种多样的生态系统，并孕育了古老的森林，是美洲狮和狼等野生动物的天堂。在过去的1800年里，这座火山喷发过3次。地质学家称，这座火山目前主要处于休眠状态，但仍有可能在将来的某一天再次喷发。
-
-一个多世纪以来，“怀伊斯特”这个名字一直与胡德山联系在一起，然而在各大原住民语言中，没有任何证据表明“怀伊斯特”是这座山的真名。
-
-[Bing搜索](https://cn.bing.com/search?q=%e8%83%a1%e5%be%b7%e5%b1%b1&form=hpcapt&filters=HpDate:"20240207_1600" "Bing Wallpaper 2024 2月 8")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20240208_MtHoodOregon"&FORM=HPQUIZ "必应主页测验 2024 2月 8")
-[下载480](https://cn.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_800x480.jpg&rf=LaDigue_800x480.jpg "胡德山，俄勒冈州，美国")
-[下载720](https://cn.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_1280x720.jpg&rf=LaDigue_1280x720.jpg "胡德山，俄勒冈州，美国")
-[下载1080](https://cn.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "胡德山，俄勒冈州，美国")
-[下载UHD](https://cn.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_UHD.jpg&rf=LaDigue_UHD.jpg "胡德山，俄勒冈州，美国")
-
----
-### 02月07日：海浪中的避风港
-#### 圣詹姆斯潮汐池，开普敦，南非（© AmazingAerialAgency/Adobe）
-
-![海浪中的避风港](https://cn.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_800x480.jpg&rf=LaDigue_800x480.jpg "海浪中的避风港")
-
-圣詹姆斯海滩坐落在开普敦海岸线上，是一个隐蔽的小海滩，因其一排排色彩缤纷的维多利亚式海滩小屋而备受欢迎。在蔚蓝大海的映衬下，这些海滩小屋呈现出万花筒般的色彩。这里的环境非常适合悠闲漫步，一边沐浴着温暖的阳光，一边欣赏潮起潮落，十分惬意。不过，圣詹姆斯潮汐池才是这里最引人注目的景点，这是一个受保护的游泳区域，有许多小型海洋生物在此繁衍生息。它建在崎岖的岩石之间，池水清澈见底，为游客提供了宁静的游泳体验。与外面的海水相比，潮汐池的水更温暖，您也无需担心水流过急，这里非常适合玩水上漂浮，是孩子和成人的安全水上乐园。
-
-圣詹姆斯海滩和潮汐池是明信片上的常客。在这里，一排排色彩鲜艳的木制沙滩小屋是海滨魅力的缩影，其主要特色是彩色的屋顶和门故意与屋子的框架颜色不匹配。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%bc%80%e6%99%ae%e6%95%a6&form=hpcapt&filters=HpDate:"20240206_1600" "Bing Wallpaper 2024 2月 7")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20240207_StJamesPool"&FORM=HPQUIZ "必应主页测验 2024 2月 7")
-[下载480](https://cn.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_800x480.jpg&rf=LaDigue_800x480.jpg "圣詹姆斯潮汐池，开普敦，南非")
-[下载720](https://cn.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_1280x720.jpg&rf=LaDigue_1280x720.jpg "圣詹姆斯潮汐池，开普敦，南非")
-[下载1080](https://cn.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "圣詹姆斯潮汐池，开普敦，南非")
-[下载UHD](https://cn.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_UHD.jpg&rf=LaDigue_UHD.jpg "圣詹姆斯潮汐池，开普敦，南非")
 
 ---
