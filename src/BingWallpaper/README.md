@@ -1,4 +1,55 @@
 ## Bing Wallpaper(最近15天)
+### 07月06日：让我们扬帆起航！
+#### 从康威河眺望康威城堡，威尔士（© David Chapman/Alamy Stock Photo）
+
+![让我们扬帆起航！](https://cn.bing.com/th?id=OHR.ConwyRiver_ZH-CN6871799250_800x480.jpg&rf=LaDigue_800x480.jpg "让我们扬帆起航！")
+
+在康威河节上穿越时空，扬帆起航！这项活动于1993年首次在康威城堡下的康威码头举行，体现了威尔士航海传统的精髓。在码头日这一免费露天活动中，划船爱好者们可以尽情体验传统船只和现代船只进行友谊赛的乐趣。人们聚集在一起观看航海游行，品尝当地美食，如用茶、干果和香料调味的茶面包，以及由可食用海藻组成的海藻面包。
+
+联合国教科文组织认为康威是“13世纪末和14世纪初欧洲军事建筑的最佳典范”之一，并将其列为世界遗产。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%ba%b7%e5%a8%81%e6%b2%b3&form=hpcapt&filters=HpDate:"20240705_1600" "Bing Wallpaper 2024 7月 6")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20240706_ConwyRiver"&FORM=HPQUIZ "必应主页测验 2024 7月 6")
+[下载480](https://cn.bing.com/th?id=OHR.ConwyRiver_ZH-CN6871799250_800x480.jpg&rf=LaDigue_800x480.jpg "从康威河眺望康威城堡，威尔士")
+[下载720](https://cn.bing.com/th?id=OHR.ConwyRiver_ZH-CN6871799250_1280x720.jpg&rf=LaDigue_1280x720.jpg "从康威河眺望康威城堡，威尔士")
+[下载1080](https://cn.bing.com/th?id=OHR.ConwyRiver_ZH-CN6871799250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "从康威河眺望康威城堡，威尔士")
+[下载UHD](https://cn.bing.com/th?id=OHR.ConwyRiver_ZH-CN6871799250_UHD.jpg&rf=LaDigue_UHD.jpg "从康威河眺望康威城堡，威尔士")
+
+---
+### 07月05日：邂逅美丽海岸线
+#### 丹翠雨林的诺亚海滩，昆士兰州，澳大利亚（© bjeayes/Getty Images）
+
+![邂逅美丽海岸线](https://cn.bing.com/th?id=OHR.NoahBeach_ZH-CN6676061324_800x480.jpg&rf=LaDigue_800x480.jpg "邂逅美丽海岸线")
+
+欢迎来到这片绿色与无尽蔚蓝交汇的土地！诺亚海滩位于澳大利亚昆士兰州北海岸，是丹翠雨林茂密枝叶环绕下的一片净土。这片海滩毗邻珊瑚海，作为两种截然不同的生态系统，热带雨林与蔚蓝海水却能完美融合。丹翠国家公园这个僻静区域拥有一片柔软的金色沙滩，国家公园内有参天大树、茂盛的蕨类植物以及该地区特有的其他植物物种。这片热带雨林是澳大利亚同类雨林中面积最大的，据说已经存在了1.8亿年，是世界上最古老的热带雨林。这里有一个保护区，是稀有和濒危物种的家园，比如双垂鹤鸵和班尼特树袋鼠，在地球上其他地方找不到。无论是在森林树冠下探险，还是享受大海的涛声，这个地方都能满足你！
+
+对于徒步旅行爱好者来说，丹翠雨林是世界上最具异国情调和挑战性的荒野体验之一。
+
+[Bing搜索](https://cn.bing.com/search?q=%e4%b8%b9%e7%bf%a0%e9%9b%a8%e6%9e%97&form=hpcapt&filters=HpDate:"20240704_1600" "Bing Wallpaper 2024 7月 5")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20240705_NoahBeach"&FORM=HPQUIZ "必应主页测验 2024 7月 5")
+[下载480](https://cn.bing.com/th?id=OHR.NoahBeach_ZH-CN6676061324_800x480.jpg&rf=LaDigue_800x480.jpg "丹翠雨林的诺亚海滩，昆士兰州，澳大利亚")
+[下载720](https://cn.bing.com/th?id=OHR.NoahBeach_ZH-CN6676061324_1280x720.jpg&rf=LaDigue_1280x720.jpg "丹翠雨林的诺亚海滩，昆士兰州，澳大利亚")
+[下载1080](https://cn.bing.com/th?id=OHR.NoahBeach_ZH-CN6676061324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "丹翠雨林的诺亚海滩，昆士兰州，澳大利亚")
+[下载UHD](https://cn.bing.com/th?id=OHR.NoahBeach_ZH-CN6676061324_UHD.jpg&rf=LaDigue_UHD.jpg "丹翠雨林的诺亚海滩，昆士兰州，澳大利亚")
+
+---
+### 07月04日：风景如画的白色小镇
+#### 扎哈拉德拉谢拉，安达卢西亚，西班牙（© Francesco Carovillano/eStock Photo）
+
+![风景如画的白色小镇](https://cn.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_800x480.jpg&rf=LaDigue_800x480.jpg "风景如画的白色小镇")
+
+扎哈拉德拉谢拉是西班牙加的斯省的一个白色小镇，它位于格拉萨莱马山脉自然公园内，毗邻扎哈拉-埃尔加斯托水库，在小镇的高处可以欣赏到水库绿松石般的壮丽景色。它还有美丽的鹅卵石街道网，保留着格拉纳达王国时期的布局。这片景观形成于安达卢斯时期，是王国之间商业交流和政治会议的战略要地。它悠久的历史和向现代城镇的演变可以追溯到16世纪。
+
+由于绝大多数建筑都是白色的，该地被认为是“白色小镇”之一。
+
+[Bing搜索](https://cn.bing.com/search?q=%e6%89%8e%e5%93%88%e6%8b%89%e5%be%b7%e6%8b%89%e8%b0%a2%e6%8b%89&form=hpcapt&filters=HpDate:"20240703_1600" "Bing Wallpaper 2024 7月 4")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20240704_ZaharaDeLaSierra"&FORM=HPQUIZ "必应主页测验 2024 7月 4")
+[下载480](https://cn.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_800x480.jpg&rf=LaDigue_800x480.jpg "扎哈拉德拉谢拉，安达卢西亚，西班牙")
+[下载720](https://cn.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_1280x720.jpg&rf=LaDigue_1280x720.jpg "扎哈拉德拉谢拉，安达卢西亚，西班牙")
+[下载1080](https://cn.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "扎哈拉德拉谢拉，安达卢西亚，西班牙")
+[下载UHD](https://cn.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_UHD.jpg&rf=LaDigue_UHD.jpg "扎哈拉德拉谢拉，安达卢西亚，西班牙")
+
+---
 ### 07月03日：等等，谁在那儿？
 #### 猫鼬家族（© anetapics/Shutterstock）
 
@@ -201,56 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.BrazilRainforest_ZH-CN6432366530_1280x720.jpg&rf=LaDigue_1280x720.jpg "亚马逊雨林，巴西")
 [下载1080](https://cn.bing.com/th?id=OHR.BrazilRainforest_ZH-CN6432366530_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "亚马逊雨林，巴西")
 [下载UHD](https://cn.bing.com/th?id=OHR.BrazilRainforest_ZH-CN6432366530_UHD.jpg&rf=LaDigue_UHD.jpg "亚马逊雨林，巴西")
-
----
-### 06月21日：清凉的湖水
-#### 蓝色水面上的渔船航拍图，郴州市，湖南省，中国（© Haitong Yu/Getty images）
-
-![清凉的湖水](https://cn.bing.com/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_800x480.jpg&rf=LaDigue_800x480.jpg "清凉的湖水")
-
-夏至已至，中国的大部分地区即将进入一年中最炎热的时节，您准备好解暑降温的装备了吗？今天，邀请您欣赏的是位于湖南省郴州市的一片天蓝色的湖泊。郴州市位于湖南省的东南部地区，地处长江与珠江交汇处。境内有东江湖、苏仙岭、万华岩、莽山国家森林公园等丰富多彩的历史文化遗迹和名胜古迹。
-
-郴州东江湖地区的水质达到了中国国家一级饮用水标准。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%a4%8f%e8%87%b3&form=hpcapt&filters=HpDate:"20240620_1600" "Bing Wallpaper 2024 6月 21")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20240621_SummerSolstice2024"&FORM=HPQUIZ "必应主页测验 2024 6月 21")
-[下载480](https://cn.bing.com/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_800x480.jpg&rf=LaDigue_800x480.jpg "蓝色水面上的渔船航拍图，郴州市，湖南省，中国")
-[下载720](https://cn.bing.com/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_1280x720.jpg&rf=LaDigue_1280x720.jpg "蓝色水面上的渔船航拍图，郴州市，湖南省，中国")
-[下载1080](https://cn.bing.com/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "蓝色水面上的渔船航拍图，郴州市，湖南省，中国")
-[下载UHD](https://cn.bing.com/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_UHD.jpg&rf=LaDigue_UHD.jpg "蓝色水面上的渔船航拍图，郴州市，湖南省，中国")
-
----
-### 06月20日：夏天的脚步近了
-#### 科基诺，古代巨石观测站，北马其顿（© stoimilov/Shutterstock）
-
-![夏天的脚步近了](https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_800x480.jpg&rf=LaDigue_800x480.jpg "夏天的脚步近了")
-
-这种现象被称为夏至，一个北半球的地球极点最偏向太阳的时刻。今天的图片展示的是科基诺巨石天文台，它是北马其顿科基诺考古遗址的一部分。据说，科基诺天文台在夏至、冬至和春分时节标记太阳的位置。天文台由两个平台组成，其上层平台上的一块石块标明了从下层平台的座位上看夏至日出的方向。因此，来到北马其顿，千万不要错过体验这一古老的天文奇观！
-
-该遗址距今已有3800年的历史，遗址中的标记被用于研究太阳和月亮的运动以及制定阴历历法。
-
-[Bing搜索](https://cn.bing.com/search?q=%e9%a9%ac%e5%85%b6%e9%a1%bf%e7%8e%8b%e5%9b%bd&form=hpcapt&filters=HpDate:"20240619_1600" "Bing Wallpaper 2024 6月 20")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20240620_KokinoMacedonia"&FORM=HPQUIZ "必应主页测验 2024 6月 20")
-[下载480](https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_800x480.jpg&rf=LaDigue_800x480.jpg "科基诺，古代巨石观测站，北马其顿")
-[下载720](https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_1280x720.jpg&rf=LaDigue_1280x720.jpg "科基诺，古代巨石观测站，北马其顿")
-[下载1080](https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "科基诺，古代巨石观测站，北马其顿")
-[下载UHD](https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_UHD.jpg&rf=LaDigue_UHD.jpg "科基诺，古代巨石观测站，北马其顿")
-
----
-### 06月19日：一座历史古迹
-#### 库克斯港的水塔，德国（© Andreas Vogel/Alamy）
-
-![一座历史古迹](https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_800x480.jpg&rf=LaDigue_800x480.jpg "一座历史古迹")
-
-然而，库克斯港不仅有大海和沙滩，还提供了无尽的机会让你消磨时光，享受轻松惬意的假期。你可以乘船游览，或是到沼泽地远足，还可以参观历史遗迹，比如今天图片中的水塔。它建于1897年，直到2004年一直为小镇提供饮用水。此后，它就成为最具象征意义和保护最完好的古迹之一。自2017年起，这座水塔归一个瑞士家族所有，他们在这里开设了一家咖啡馆，成功地保留了这座塔的精髓和特色。
-
-这个位于易北河入海口的小镇还拥有德国最大的渔港之一。
-
-[Bing搜索](https://cn.bing.com/search?q=%e5%ba%93%e5%85%8b%e6%96%af%e6%b8%af&form=hpcapt&filters=HpDate:"20240618_1600" "Bing Wallpaper 2024 6月 19")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20240619_CuxhavenTower"&FORM=HPQUIZ "必应主页测验 2024 6月 19")
-[下载480](https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_800x480.jpg&rf=LaDigue_800x480.jpg "库克斯港的水塔，德国")
-[下载720](https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_1280x720.jpg&rf=LaDigue_1280x720.jpg "库克斯港的水塔，德国")
-[下载1080](https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "库克斯港的水塔，德国")
-[下载UHD](https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_UHD.jpg&rf=LaDigue_UHD.jpg "库克斯港的水塔，德国")
 
 ---
