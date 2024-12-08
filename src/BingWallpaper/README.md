@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 12月09日：态度和高度
+#### 两只原驼,托雷斯德尔帕恩国家公园 , 智利（© Floris van Breugel/NPL/Minden Pictures）
+
+![态度和高度](https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_800x480.jpg&rf=LaDigue_800x480.jpg "态度和高度")
+
+原驼是南美洲的本土动物，主要分布在美洲大陆中西部一带，大多栖息在秘鲁与玻利维亚交界的安第斯山脉。原驼生性机警敏捷，喜欢成群外出觅食，性格相对温顺。
+
+原驼（又称瓜纳科斯）能够在高海拔地区生活，它们的心脏相对于体型来说很大，单位体积血液内所含血红蛋白的量大约是人类血液的四倍。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%8e%9f%e9%a9%bc&form=hpcapt&filters=HpDate:"20241208_1600" "Bing Wallpaper 2024 12月 9")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20241209_GuanacosChile"&FORM=HPQUIZ "必应主页测验 2024 12月 9")
+[下载480](https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_800x480.jpg&rf=LaDigue_800x480.jpg "两只原驼,托雷斯德尔帕恩国家公园 , 智利")
+[下载720](https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_1280x720.jpg&rf=LaDigue_1280x720.jpg "两只原驼,托雷斯德尔帕恩国家公园 , 智利")
+[下载1080](https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "两只原驼,托雷斯德尔帕恩国家公园 , 智利")
+[下载UHD](https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_UHD.jpg&rf=LaDigue_UHD.jpg "两只原驼,托雷斯德尔帕恩国家公园 , 智利")
+
+---
 ### 12月08日：巴黎圣母院再度回归
 #### 巴黎圣母院，巴黎，法国（© Julien Fromentin/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_1280x720.jpg&rf=LaDigue_1280x720.jpg "马赛长颈鹿，安波塞利国家公园，肯尼亚")
 [下载1080](https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "马赛长颈鹿，安波塞利国家公园，肯尼亚")
 [下载UHD](https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg&rf=LaDigue_UHD.jpg "马赛长颈鹿，安波塞利国家公园，肯尼亚")
-
----
-### 11月24日：潮汐与暮色
-#### 州立公园，索诺玛海岸，美国加利福尼亚州（© Rachid Dahnoun/Tandem Stills + Motion）
-
-![潮汐与暮色](https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_800x480.jpg&rf=LaDigue_800x480.jpg "潮汐与暮色")
-
-索诺玛海岸州立公园拥有风景如画的沙滩、天然拱门和幽静的海湾。该公园建于1934年，涵盖了詹纳湾和博德加湾之间17英里的北加州海岸线。野生动物爱好者可以在这里看到海豹、海狮、鲸鱼以及各种鸟类，比如鹀鸟、莺、雀、麻雀和黄鹂。历史爱好者可以探索海蚀柱形成的痕迹，这些痕迹据说是四万年前在该地区游荡的猛犸象留下的。公园内还有一些历史遗迹，比如19世纪初俄罗斯人在博德加湾建造的堡垒。公园附近的罗斯堡是由俄美公司于1812年建立的。这个定居点标志着俄罗斯殖民在北美最南端的扩张。该要塞主要作为毛皮贸易的枢纽，专注于在太平洋沿岸捕猎海獭。到19世纪30年代中期，毛皮贸易逐渐衰落，1841年，这座堡垒被卖给了美国企业家约翰·萨特。
-
-海滩漫步、日光浴、野餐、钓鱼、露营、划船、皮划艇、徒步旅行、骑马和观鸟都是索诺玛海岸州立公园的热门活动。
-
-[Bing搜索](https://cn.bing.com/search?q=%e7%b4%a2%e8%af%ba%e9%a9%ac%e6%b5%b7%e5%b2%b8%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:"20241123_1600" "Bing Wallpaper 2024 11月 24")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20241124_SonomaCoast"&FORM=HPQUIZ "必应主页测验 2024 11月 24")
-[下载480](https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_800x480.jpg&rf=LaDigue_800x480.jpg "州立公园，索诺玛海岸，美国加利福尼亚州")
-[下载720](https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_1280x720.jpg&rf=LaDigue_1280x720.jpg "州立公园，索诺玛海岸，美国加利福尼亚州")
-[下载1080](https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "州立公园，索诺玛海岸，美国加利福尼亚州")
-[下载UHD](https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg&rf=LaDigue_UHD.jpg "州立公园，索诺玛海岸，美国加利福尼亚州")
 
 ---
