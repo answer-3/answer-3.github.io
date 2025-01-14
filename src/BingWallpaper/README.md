@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 01月15日：魔鬼与自然的气息
+#### Pointe du Diable，圣皮埃尔，留尼汪岛（© MONTICO Lionel/Alamy）
+
+![魔鬼与自然的气息](https://cn.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_800x480.jpg&rf=LaDigue_800x480.jpg "魔鬼与自然的气息")
+
+魔鬼角（Pointe du Diable）位于留尼汪岛，这里展现了自然力量与神秘气息的奇妙交汇。魔鬼角由约20万年前内日峰的熔岩流形成，这片玄武岩半岛壮丽地伸入印度洋。
+
+魔鬼角被认为是极其危险的区域，这里的海浪巨大，鲨鱼也频繁出没。尽管有警告，1988年至2006年间仍发生了四起鲨鱼袭击事件。
+
+[Bing搜索](https://cn.bing.com/search?q=%e7%95%99%e5%b0%bc%e6%b1%aa%e5%b2%9b&form=hpcapt&filters=HpDate:"20250114_1600" "Bing Wallpaper 2025 1月 15")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20250115_PointeDiable"&FORM=HPQUIZ "必应主页测验 2025 1月 15")
+[下载480](https://cn.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_800x480.jpg&rf=LaDigue_800x480.jpg "Pointe du Diable，圣皮埃尔，留尼汪岛")
+[下载720](https://cn.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_1280x720.jpg&rf=LaDigue_1280x720.jpg "Pointe du Diable，圣皮埃尔，留尼汪岛")
+[下载1080](https://cn.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "Pointe du Diable，圣皮埃尔，留尼汪岛")
+[下载UHD](https://cn.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_UHD.jpg&rf=LaDigue_UHD.jpg "Pointe du Diable，圣皮埃尔，留尼汪岛")
+
+---
 ### 01月14日：宁静之地
 #### Village of Zahara de la Sierra, Cádiz province, Spain（© SEN LI/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_1280x720.jpg&rf=LaDigue_1280x720.jpg "在北极玩耍的北极熊")
 [下载1080](https://cn.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "在北极玩耍的北极熊")
 [下载UHD](https://cn.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg&rf=LaDigue_UHD.jpg "在北极玩耍的北极熊")
-
----
-### 12月31日：新年快乐！
-#### 国会山上空的烟花，渥太华，加拿大（© naibank/Getty Images）
-
-![新年快乐！](https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_800x480.jpg&rf=LaDigue_800x480.jpg "新年快乐！")
-
-今天是2024年的最后一天。新旧之年交替的夜晚被称为跨年夜，世界各地通常会举办烟火表演，一些地区则通过宗教和文化仪式迎接新年。许多国家还会用象征繁荣、长寿和好运的食物来迎接新年。在中国，人们会与亲朋好友聚在一起进行各种“除夕夜”活动，如旅行、听除夕音乐会或享用丰盛的除夕晚餐。
-
-西方元旦：公元前46年，古罗马凯撒把这一天定为西历新年的开始，为了祝福双面神“Janus”，这位罗马神话中的门神，“Janus”后来也演化为英文一月“January”这个词。
-
-[Bing搜索](https://cn.bing.com/search?q=%e6%b8%a5%e5%a4%aa%e5%8d%8e%e5%9b%bd%e4%bc%9a%e5%b1%b1&form=hpcapt&filters=HpDate:"20241230_1600" "Bing Wallpaper 2024 12月 31")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20241231_CANYE24"&FORM=HPQUIZ "必应主页测验 2024 12月 31")
-[下载480](https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_800x480.jpg&rf=LaDigue_800x480.jpg "国会山上空的烟花，渥太华，加拿大")
-[下载720](https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_1280x720.jpg&rf=LaDigue_1280x720.jpg "国会山上空的烟花，渥太华，加拿大")
-[下载1080](https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "国会山上空的烟花，渥太华，加拿大")
-[下载UHD](https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg&rf=LaDigue_UHD.jpg "国会山上空的烟花，渥太华，加拿大")
 
 ---
