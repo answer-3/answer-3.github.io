@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 04月17日：双重戏剧
+#### 安第斯动冠伞鸟，厄瓜多尔（© Kit Day/Alamy Stock Photo）
+
+![双重戏剧](https://cn.bing.com/th?id=OHR.EcuadorBird_ZH-CN3676173654_800x480.jpg&rf=LaDigue_800x480.jpg "双重戏剧")
+
+如果鸟类也有红毯盛典，冠伞鸟无疑会是最耀眼的明星。雄性冠伞鸟就像披着一身亮橙红色的戏服，头顶硕大的冠羽几乎遮住了喙。：然而，它们不仅仅是外表出众的“明星”，还是舞技高超的“舞者”。安第斯冠伞鸟和圭亚那冠伞鸟以其戏剧化的求偶舞蹈闻名，堪称鸟类王国中的“吸睛王”。相比之下雌鸟则低调得多，羽毛呈棕褐色，有助于它们隐藏身形。每到繁殖季节，雄鸟会聚集在求偶场，这一热闹非凡的展示舞台上，它们跳跃、鸣叫、摇头晃脑，尽情展现自己的魅力。雌鸟会在一旁观看，挑选出最出色的舞者，交配后便飞走，在岩石表面筑起一个凹形的泥巢。雌鸟通常会产下两枚白色的蛋，孵化期为25至28天，并独自抚养幼鸟。安第斯冠伞鸟主要栖息于安第斯山脉的云雾森林，偏好植被茂密、果实丰富的地区，分布于委内瑞拉、哥伦比亚、厄瓜多尔、秘鲁和玻利维亚。作为食果动物，它们主要以果实为食，并在觅食过程中帮助森林传播种子，对生态系统的维持起到关键作用。此外，它们偶尔也会捕食昆虫和小型脊椎动物。
+
+冠伞鸟是秘鲁的国鸟。
+
+[Bing搜索](https://cn.bing.com/search?q=%e5%ae%89%e7%ac%ac%e6%96%af%e5%8a%a8%e5%86%a0%e4%bc%9e%e9%b8%9f&form=hpcapt&filters=HpDate:"20250416_1600" "Bing Wallpaper 2025 4月 17")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20250417_EcuadorBird"&FORM=HPQUIZ "必应主页测验 2025 4月 17")
+[下载480](https://cn.bing.com/th?id=OHR.EcuadorBird_ZH-CN3676173654_800x480.jpg&rf=LaDigue_800x480.jpg "安第斯动冠伞鸟，厄瓜多尔")
+[下载720](https://cn.bing.com/th?id=OHR.EcuadorBird_ZH-CN3676173654_1280x720.jpg&rf=LaDigue_1280x720.jpg "安第斯动冠伞鸟，厄瓜多尔")
+[下载1080](https://cn.bing.com/th?id=OHR.EcuadorBird_ZH-CN3676173654_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "安第斯动冠伞鸟，厄瓜多尔")
+[下载UHD](https://cn.bing.com/th?id=OHR.EcuadorBird_ZH-CN3676173654_UHD.jpg&rf=LaDigue_UHD.jpg "安第斯动冠伞鸟，厄瓜多尔")
+
+---
 ### 04月16日：时光通道
 #### 卡奇纳桥，天然桥国家区，犹他州，美国（© Alan Majchrowicz/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_1280x720.jpg&rf=LaDigue_1280x720.jpg "沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国")
 [下载1080](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国")
 [下载UHD](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg&rf=LaDigue_UHD.jpg "沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国")
-
----
-### 04月02日：时间的波浪
-#### 凯恩维尔附近荒地的砂岩地层, 犹他州, 美国（© Chris Moore/TANDEM Stills + Motion）
-
-![时间的波浪](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_800x480.jpg&rf=LaDigue_800x480.jpg "时间的波浪")
-
-蜿蜒起伏的砂岩脊绵延于犹他州凯恩维尔荒地，宛如大自然在石头上绘制的笔触。这些地貌由细粒沉积物构成，最初沉积在古代河流三角洲和内陆海洋中，随后逐渐硬化为岩石。随着时间的推移，侵蚀作用穿透了这些地层，露出流动般的波纹状图案。沉积岩层记录着气候变迁和古老地貌的演变。今日图片中，这片荒凉的土地看似毫无生机，但在早春时节，降雨会让大地铺满紫色和黄色的小花。一天的不同时刻，光影不断变化，展现出不同的角度与风貌，为摄影师和游客提供了丰富的观赏体验。尽管这片崎岖不平的地形大部分仍然保持原始状态，但部分区域地势较为平缓，允许游客在无需剧烈攀爬的情况下轻松探索。
-
-这片沙漠由色彩斑斓的丘陵、孤峰、悬崖和尖塔组成，数百万年来受到风和水的侵蚀，最终形成了一种超现实的景观，让人联想到火星、月球，甚至是恐龙的游乐场。
-
-[Bing搜索](https://cn.bing.com/search?q=%e7%8a%b9%e4%bb%96%e5%b7%9e%e5%87%af%e6%81%a9%e7%bb%b4%e5%b0%94&form=hpcapt&filters=HpDate:"20250401_1600" "Bing Wallpaper 2025 4月 2")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20250402_UtahBadlands"&FORM=HPQUIZ "必应主页测验 2025 4月 2")
-[下载480](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_800x480.jpg&rf=LaDigue_800x480.jpg "凯恩维尔附近荒地的砂岩地层, 犹他州, 美国")
-[下载720](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_1280x720.jpg&rf=LaDigue_1280x720.jpg "凯恩维尔附近荒地的砂岩地层, 犹他州, 美国")
-[下载1080](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "凯恩维尔附近荒地的砂岩地层, 犹他州, 美国")
-[下载UHD](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg&rf=LaDigue_UHD.jpg "凯恩维尔附近荒地的砂岩地层, 犹他州, 美国")
 
 ---
