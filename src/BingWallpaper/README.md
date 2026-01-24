@@ -1,4 +1,21 @@
 ## Bing Wallpaper(最近15天)
+### 01月25日：传统熠熠生辉
+#### 伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰（© Alister Firth/Alamy）
+
+![传统熠熠生辉](https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_800x480.jpg&rf=LaDigue_800x480.jpg "传统熠熠生辉")
+
+每年1月25日，苏格兰人及世界各地喜爱伯恩斯的人们都会举杯庆祝，纪念这位深受爱戴的民族诗人。伯恩斯之夜的宴席温暖而有趣：主菜是香气浓郁的哈吉斯，搭配芜菁泥和土豆泥；其间穿插伯恩斯诗句的朗诵，再来一口威士忌，这场庆典最终总在《友谊地久天长》的合唱里被推向高潮。即使人在海外，也能轻松延续这份传统：摆盘、诵诗、举杯，让节日的温暖自然蔓延开来。
+
+罗伯特·伯恩斯，这位出身于苏格兰艾尔郡的农夫兼诗人，在英国文学史上留下了深刻印记。他的代表作《友谊地久天长》家喻户晓，而他所写的诗歌以苏格兰民谣的旋律、以及对自由与民主的颂扬而备受推崇。
+
+[Bing搜索](https://cn.bing.com/search?q=%e8%8b%8f%e6%a0%bc%e5%85%b0%e5%8d%97%e8%89%be%e5%b0%94%e9%83%a1&form=hpcapt&filters=HpDate:"20260124_1600"+mgzv3configlist:"BingQA_Encyclopedia_Layout" "Bing Wallpaper 2026 1月 25")
+[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20260125_BurnsPark"&FORM=HPQUIZ "必应主页测验 2026 1月 25")
+[下载480](https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_800x480.jpg&rf=LaDigue_800x480.jpg "伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰")
+[下载720](https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_1280x720.jpg&rf=LaDigue_1280x720.jpg "伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰")
+[下载1080](https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰")
+[下载UHD](https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg&rf=LaDigue_UHD.jpg "伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰")
+
+---
 ### 01月24日：瑞士山间的短逃离
 #### 阿尔卑斯山脉的安德马特小镇，瑞士（© Xantana/Getty Images）
 
@@ -235,22 +252,5 @@
 [下载720](https://cn.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_1280x720.jpg&rf=LaDigue_1280x720.jpg "舍夫沙万的蓝色墙壁, 摩洛哥")
 [下载1080](https://cn.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "舍夫沙万的蓝色墙壁, 摩洛哥")
 [下载UHD](https://cn.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg&rf=LaDigue_UHD.jpg "舍夫沙万的蓝色墙壁, 摩洛哥")
-
----
-### 01月10日：纯粹的瑞士魔力
-#### 日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士（© Andy Trowbridge/naturepl.com）
-
-![纯粹的瑞士魔力](https://cn.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_800x480.jpg&rf=LaDigue_800x480.jpg "纯粹的瑞士魔力")
-
-鲜有景致能像马特洪峰倒映在斯特利湖如镜的湖面上那般，完美呈现阿尔卑斯的灵魂。这座传奇山峰耸立在瑞士与意大利边境，海拔高达14,692英尺，象征着大自然的壮美与冒险精神，吸引着世界各地的攀登者、徒步者与追梦人。
-
-马特洪峰的首次攀登发生在 1865 年。当时的队伍中，有四人不幸罹难。但这并未阻止后来者，无数登山者依旧以登顶它为目标。
-
-[Bing搜索](https://cn.bing.com/search?q=%e9%a9%ac%e7%89%b9%e6%b4%aa%e5%b3%b0&form=hpcapt&filters=HpDate:"20260109_1600"+mgzv3configlist:"BingQA_Encyclopedia_Layout" "Bing Wallpaper 2026 1月 10")
-[必应主页测验](https://cn.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:"HPQuiz_20260110_MatterhornSunrise"&FORM=HPQUIZ "必应主页测验 2026 1月 10")
-[下载480](https://cn.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_800x480.jpg&rf=LaDigue_800x480.jpg "日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士")
-[下载720](https://cn.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_1280x720.jpg&rf=LaDigue_1280x720.jpg "日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士")
-[下载1080](https://cn.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg "日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士")
-[下载UHD](https://cn.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_UHD.jpg&rf=LaDigue_UHD.jpg "日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士")
 
 ---
